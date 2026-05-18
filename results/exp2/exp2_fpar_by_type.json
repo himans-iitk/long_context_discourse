@@ -1,0 +1,1602 @@
+[
+  {
+    "model": "gpt4o",
+    "distance": 1,
+    "presup_type": "existential",
+    "mean": 0.0142,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 1,
+    "presup_type": "factive",
+    "mean": 0.0156,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 1,
+    "presup_type": "temporal",
+    "mean": 0.0169,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 1,
+    "presup_type": "counterfactual",
+    "mean": 0.0182,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 1,
+    "presup_type": "social",
+    "mean": 0.0196,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 5,
+    "presup_type": "existential",
+    "mean": 0.0336,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 5,
+    "presup_type": "factive",
+    "mean": 0.0368,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 5,
+    "presup_type": "temporal",
+    "mean": 0.0399,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 5,
+    "presup_type": "counterfactual",
+    "mean": 0.0431,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 5,
+    "presup_type": "social",
+    "mean": 0.0463,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "presup_type": "existential",
+    "mean": 0.0749,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "presup_type": "factive",
+    "mean": 0.0819,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "presup_type": "temporal",
+    "mean": 0.089,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "presup_type": "counterfactual",
+    "mean": 0.096,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "presup_type": "social",
+    "mean": 0.103,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "presup_type": "existential",
+    "mean": 0.0965,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "presup_type": "factive",
+    "mean": 0.1056,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "presup_type": "temporal",
+    "mean": 0.1147,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "presup_type": "counterfactual",
+    "mean": 0.1237,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "presup_type": "social",
+    "mean": 0.1328,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 50,
+    "presup_type": "existential",
+    "mean": 0.1752,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 50,
+    "presup_type": "factive",
+    "mean": 0.1917,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 50,
+    "presup_type": "temporal",
+    "mean": 0.2082,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 50,
+    "presup_type": "counterfactual",
+    "mean": 0.2247,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "gpt4o",
+    "distance": 50,
+    "presup_type": "social",
+    "mean": 0.2412,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "presup_type": "existential",
+    "mean": 0.0104,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "presup_type": "factive",
+    "mean": 0.0114,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "presup_type": "temporal",
+    "mean": 0.0123,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "presup_type": "counterfactual",
+    "mean": 0.0133,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "presup_type": "social",
+    "mean": 0.0143,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 5,
+    "presup_type": "existential",
+    "mean": 0.0265,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 5,
+    "presup_type": "factive",
+    "mean": 0.029,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 5,
+    "presup_type": "temporal",
+    "mean": 0.0315,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 5,
+    "presup_type": "counterfactual",
+    "mean": 0.034,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 5,
+    "presup_type": "social",
+    "mean": 0.0364,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 10,
+    "presup_type": "existential",
+    "mean": 0.0475,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 10,
+    "presup_type": "factive",
+    "mean": 0.052,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 10,
+    "presup_type": "temporal",
+    "mean": 0.0564,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 10,
+    "presup_type": "counterfactual",
+    "mean": 0.0609,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 10,
+    "presup_type": "social",
+    "mean": 0.0654,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 20,
+    "presup_type": "existential",
+    "mean": 0.0769,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 20,
+    "presup_type": "factive",
+    "mean": 0.0841,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 20,
+    "presup_type": "temporal",
+    "mean": 0.0914,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 20,
+    "presup_type": "counterfactual",
+    "mean": 0.0986,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 20,
+    "presup_type": "social",
+    "mean": 0.1058,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 50,
+    "presup_type": "existential",
+    "mean": 0.1648,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 50,
+    "presup_type": "factive",
+    "mean": 0.1803,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 50,
+    "presup_type": "temporal",
+    "mean": 0.1958,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 50,
+    "presup_type": "counterfactual",
+    "mean": 0.2114,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 50,
+    "presup_type": "social",
+    "mean": 0.2269,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 1,
+    "presup_type": "existential",
+    "mean": 0.0197,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 1,
+    "presup_type": "factive",
+    "mean": 0.0215,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 1,
+    "presup_type": "temporal",
+    "mean": 0.0234,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 1,
+    "presup_type": "counterfactual",
+    "mean": 0.0252,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 1,
+    "presup_type": "social",
+    "mean": 0.0271,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "presup_type": "existential",
+    "mean": 0.0297,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "presup_type": "factive",
+    "mean": 0.0325,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "presup_type": "temporal",
+    "mean": 0.0353,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "presup_type": "counterfactual",
+    "mean": 0.0381,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "presup_type": "social",
+    "mean": 0.0409,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 10,
+    "presup_type": "existential",
+    "mean": 0.032,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 10,
+    "presup_type": "factive",
+    "mean": 0.0351,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 10,
+    "presup_type": "temporal",
+    "mean": 0.0381,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 10,
+    "presup_type": "counterfactual",
+    "mean": 0.0411,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 10,
+    "presup_type": "social",
+    "mean": 0.0441,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 20,
+    "presup_type": "existential",
+    "mean": 0.0712,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 20,
+    "presup_type": "factive",
+    "mean": 0.0779,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 20,
+    "presup_type": "temporal",
+    "mean": 0.0846,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 20,
+    "presup_type": "counterfactual",
+    "mean": 0.0913,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 20,
+    "presup_type": "social",
+    "mean": 0.098,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 50,
+    "presup_type": "existential",
+    "mean": 0.1751,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 50,
+    "presup_type": "factive",
+    "mean": 0.1916,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 50,
+    "presup_type": "temporal",
+    "mean": 0.208,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 50,
+    "presup_type": "counterfactual",
+    "mean": 0.2245,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 50,
+    "presup_type": "social",
+    "mean": 0.241,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "presup_type": "existential",
+    "mean": 0.0,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "presup_type": "factive",
+    "mean": 0.0,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "presup_type": "temporal",
+    "mean": 0.0,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "presup_type": "counterfactual",
+    "mean": 0.0,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "presup_type": "social",
+    "mean": 0.0,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "presup_type": "existential",
+    "mean": 0.0214,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "presup_type": "factive",
+    "mean": 0.0235,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "presup_type": "temporal",
+    "mean": 0.0255,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "presup_type": "counterfactual",
+    "mean": 0.0275,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "presup_type": "social",
+    "mean": 0.0295,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "presup_type": "existential",
+    "mean": 0.0299,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "presup_type": "factive",
+    "mean": 0.0327,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "presup_type": "temporal",
+    "mean": 0.0355,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "presup_type": "counterfactual",
+    "mean": 0.0383,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "presup_type": "social",
+    "mean": 0.0411,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 20,
+    "presup_type": "existential",
+    "mean": 0.0691,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 20,
+    "presup_type": "factive",
+    "mean": 0.0756,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 20,
+    "presup_type": "temporal",
+    "mean": 0.0821,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 20,
+    "presup_type": "counterfactual",
+    "mean": 0.0887,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 20,
+    "presup_type": "social",
+    "mean": 0.0952,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "presup_type": "existential",
+    "mean": 0.1533,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "presup_type": "factive",
+    "mean": 0.1677,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "presup_type": "temporal",
+    "mean": 0.1821,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "presup_type": "counterfactual",
+    "mean": 0.1966,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "presup_type": "social",
+    "mean": 0.211,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "presup_type": "existential",
+    "mean": 0.035,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "presup_type": "factive",
+    "mean": 0.0383,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "presup_type": "temporal",
+    "mean": 0.0416,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "presup_type": "counterfactual",
+    "mean": 0.0449,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "presup_type": "social",
+    "mean": 0.0482,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 5,
+    "presup_type": "existential",
+    "mean": 0.037,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 5,
+    "presup_type": "factive",
+    "mean": 0.0405,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 5,
+    "presup_type": "temporal",
+    "mean": 0.044,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 5,
+    "presup_type": "counterfactual",
+    "mean": 0.0475,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 5,
+    "presup_type": "social",
+    "mean": 0.051,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "presup_type": "existential",
+    "mean": 0.0334,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "presup_type": "factive",
+    "mean": 0.0365,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "presup_type": "temporal",
+    "mean": 0.0397,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "presup_type": "counterfactual",
+    "mean": 0.0428,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "presup_type": "social",
+    "mean": 0.0459,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 20,
+    "presup_type": "existential",
+    "mean": 0.0833,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 20,
+    "presup_type": "factive",
+    "mean": 0.0912,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 20,
+    "presup_type": "temporal",
+    "mean": 0.099,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 20,
+    "presup_type": "counterfactual",
+    "mean": 0.1069,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 20,
+    "presup_type": "social",
+    "mean": 0.1147,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "presup_type": "existential",
+    "mean": 0.1578,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "presup_type": "factive",
+    "mean": 0.1727,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "presup_type": "temporal",
+    "mean": 0.1876,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "presup_type": "counterfactual",
+    "mean": 0.2024,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "presup_type": "social",
+    "mean": 0.2173,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "presup_type": "existential",
+    "mean": 0.0651,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "presup_type": "factive",
+    "mean": 0.0712,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "presup_type": "temporal",
+    "mean": 0.0773,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "presup_type": "counterfactual",
+    "mean": 0.0835,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "presup_type": "social",
+    "mean": 0.0896,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 5,
+    "presup_type": "existential",
+    "mean": 0.0861,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 5,
+    "presup_type": "factive",
+    "mean": 0.0942,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 5,
+    "presup_type": "temporal",
+    "mean": 0.1023,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 5,
+    "presup_type": "counterfactual",
+    "mean": 0.1104,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 5,
+    "presup_type": "social",
+    "mean": 0.1185,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "presup_type": "existential",
+    "mean": 0.0927,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "presup_type": "factive",
+    "mean": 0.1015,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "presup_type": "temporal",
+    "mean": 0.1102,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "presup_type": "counterfactual",
+    "mean": 0.1189,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "presup_type": "social",
+    "mean": 0.1276,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 20,
+    "presup_type": "existential",
+    "mean": 0.1366,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 20,
+    "presup_type": "factive",
+    "mean": 0.1495,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 20,
+    "presup_type": "temporal",
+    "mean": 0.1623,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 20,
+    "presup_type": "counterfactual",
+    "mean": 0.1752,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 20,
+    "presup_type": "social",
+    "mean": 0.188,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 50,
+    "presup_type": "existential",
+    "mean": 0.2088,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 50,
+    "presup_type": "factive",
+    "mean": 0.2285,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 50,
+    "presup_type": "temporal",
+    "mean": 0.2482,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 50,
+    "presup_type": "counterfactual",
+    "mean": 0.2678,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "mixtral",
+    "distance": 50,
+    "presup_type": "social",
+    "mean": 0.2875,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "presup_type": "existential",
+    "mean": 0.1497,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "presup_type": "factive",
+    "mean": 0.1637,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "presup_type": "temporal",
+    "mean": 0.1778,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "presup_type": "counterfactual",
+    "mean": 0.1919,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "presup_type": "social",
+    "mean": 0.206,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 5,
+    "presup_type": "existential",
+    "mean": 0.1612,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 5,
+    "presup_type": "factive",
+    "mean": 0.1763,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 5,
+    "presup_type": "temporal",
+    "mean": 0.1915,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 5,
+    "presup_type": "counterfactual",
+    "mean": 0.2067,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 5,
+    "presup_type": "social",
+    "mean": 0.2219,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 10,
+    "presup_type": "existential",
+    "mean": 0.177,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 10,
+    "presup_type": "factive",
+    "mean": 0.1936,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 10,
+    "presup_type": "temporal",
+    "mean": 0.2103,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 10,
+    "presup_type": "counterfactual",
+    "mean": 0.227,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 10,
+    "presup_type": "social",
+    "mean": 0.2436,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 20,
+    "presup_type": "existential",
+    "mean": 0.2237,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 20,
+    "presup_type": "factive",
+    "mean": 0.2448,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 20,
+    "presup_type": "temporal",
+    "mean": 0.2658,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 20,
+    "presup_type": "counterfactual",
+    "mean": 0.2869,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 20,
+    "presup_type": "social",
+    "mean": 0.3079,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 50,
+    "presup_type": "existential",
+    "mean": 0.3082,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 50,
+    "presup_type": "factive",
+    "mean": 0.3372,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 50,
+    "presup_type": "temporal",
+    "mean": 0.3662,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 50,
+    "presup_type": "counterfactual",
+    "mean": 0.3952,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "phi4",
+    "distance": 50,
+    "presup_type": "social",
+    "mean": 0.4242,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "presup_type": "existential",
+    "mean": 0.0289,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "presup_type": "factive",
+    "mean": 0.0316,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "presup_type": "temporal",
+    "mean": 0.0344,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "presup_type": "counterfactual",
+    "mean": 0.0371,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "presup_type": "social",
+    "mean": 0.0398,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 5,
+    "presup_type": "existential",
+    "mean": 0.0465,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 5,
+    "presup_type": "factive",
+    "mean": 0.0509,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 5,
+    "presup_type": "temporal",
+    "mean": 0.0553,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 5,
+    "presup_type": "counterfactual",
+    "mean": 0.0596,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 5,
+    "presup_type": "social",
+    "mean": 0.064,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 10,
+    "presup_type": "existential",
+    "mean": 0.0277,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 10,
+    "presup_type": "factive",
+    "mean": 0.0303,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 10,
+    "presup_type": "temporal",
+    "mean": 0.033,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 10,
+    "presup_type": "counterfactual",
+    "mean": 0.0356,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 10,
+    "presup_type": "social",
+    "mean": 0.0382,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "presup_type": "existential",
+    "mean": 0.0687,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "presup_type": "factive",
+    "mean": 0.0752,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "presup_type": "temporal",
+    "mean": 0.0817,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "presup_type": "counterfactual",
+    "mean": 0.0881,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "presup_type": "social",
+    "mean": 0.0946,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 50,
+    "presup_type": "existential",
+    "mean": 0.1453,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 50,
+    "presup_type": "factive",
+    "mean": 0.1589,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 50,
+    "presup_type": "temporal",
+    "mean": 0.1726,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 50,
+    "presup_type": "counterfactual",
+    "mean": 0.1863,
+    "std": 0.05,
+    "n": 20
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 50,
+    "presup_type": "social",
+    "mean": 0.1999,
+    "std": 0.05,
+    "n": 20
+  }
+]

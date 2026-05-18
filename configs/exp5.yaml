@@ -1,0 +1,25 @@
+extends: paid_full_base.yaml
+
+experiment: exp5
+description: Reasoning vs. standard models, plus CoT prompt on a subset.
+
+data:
+  pdtb_test_path: processed/pdtb/pdtb_test_balanced.json
+  pdtb_train_path: processed/pdtb/pdtb_train.json
+  padding_tokenizer: gpt2
+
+run:
+  # Same eight registry chat models as full Exp 1 (no models_subset); CoT lengths
+  # mirror Exp 1 — runs above 8192 tokens skip unless the model is in long_context_models.
+  cot_models:
+    - gpt4o
+    - deepseek_r1
+    - llama3_70b
+    - llama3_8b
+    - mistral_7b
+    - mixtral
+    - phi4
+    - deepseek_v3
+  cot_context_lengths: [512, 2048, 8192, 32768, 65536]
+  max_tokens_response: 300
+  upstream_experiment: exp1

@@ -1,0 +1,2242 @@
+[
+  {
+    "model": "gpt4o",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_0_0"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "accepted": true,
+    "presup_type": "counterfactual",
+    "example_id": "demo_0_1"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_0_2"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_0_3"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_0_4"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_0_5"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_0_6"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_0_7"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_0_8"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_0_9"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_0_10"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_0_11"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_0_12"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_0_13"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_0_14"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_0_15"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 1,
+    "accepted": true,
+    "presup_type": "counterfactual",
+    "example_id": "demo_0_16"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_0_17"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "accepted": true,
+    "presup_type": "factive",
+    "example_id": "demo_0_18"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_0_19"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_0_20"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_0_21"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_0_22"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_0_23"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_0_24"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_0_25"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_0_26"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_0_27"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_0_28"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_0_29"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_0_30"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_0_31"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_0_32"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_0_33"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_0_34"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_0_35"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_0_36"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_0_37"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_0_38"
+  },
+  {
+    "model": "gpt4o",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_0_39"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_1_40"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 5,
+    "accepted": true,
+    "presup_type": "temporal",
+    "example_id": "demo_1_41"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_1_42"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_1_43"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_1_44"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_1_45"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_1_46"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 5,
+    "accepted": true,
+    "presup_type": "existential",
+    "example_id": "demo_1_47"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_1_48"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_1_49"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_1_50"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_1_51"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_1_52"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 50,
+    "accepted": true,
+    "presup_type": "temporal",
+    "example_id": "demo_1_53"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_1_54"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_1_55"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_1_56"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_1_57"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_1_58"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_1_59"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_1_60"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_1_61"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 20,
+    "accepted": true,
+    "presup_type": "factive",
+    "example_id": "demo_1_62"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_1_63"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_1_64"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_1_65"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_1_66"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_1_67"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_1_68"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_1_69"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_1_70"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_1_71"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 50,
+    "accepted": true,
+    "presup_type": "factive",
+    "example_id": "demo_1_72"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_1_73"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_1_74"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_1_75"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_1_76"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_1_77"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_1_78"
+  },
+  {
+    "model": "deepseek_r1",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_1_79"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_2_80"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_2_81"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_2_82"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_2_83"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_2_84"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_2_85"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_2_86"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_2_87"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_2_88"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_2_89"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_2_90"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_2_91"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_2_92"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 1,
+    "accepted": true,
+    "presup_type": "counterfactual",
+    "example_id": "demo_2_93"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_2_94"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_2_95"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_2_96"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_2_97"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_2_98"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_2_99"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 20,
+    "accepted": true,
+    "presup_type": "factive",
+    "example_id": "demo_2_100"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_2_101"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_2_102"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 20,
+    "accepted": true,
+    "presup_type": "temporal",
+    "example_id": "demo_2_103"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "accepted": true,
+    "presup_type": "factive",
+    "example_id": "demo_2_104"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_2_105"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_2_106"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_2_107"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_2_108"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 1,
+    "accepted": true,
+    "presup_type": "temporal",
+    "example_id": "demo_2_109"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_2_110"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_2_111"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_2_112"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 10,
+    "accepted": true,
+    "presup_type": "counterfactual",
+    "example_id": "demo_2_113"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_2_114"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 10,
+    "accepted": true,
+    "presup_type": "existential",
+    "example_id": "demo_2_115"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_2_116"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_2_117"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_2_118"
+  },
+  {
+    "model": "llama3_70b",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_2_119"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_3_120"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_3_121"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "accepted": true,
+    "presup_type": "counterfactual",
+    "example_id": "demo_3_122"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_3_123"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_3_124"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_3_125"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_3_126"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "accepted": true,
+    "presup_type": "factive",
+    "example_id": "demo_3_127"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_3_128"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_3_129"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_3_130"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_3_131"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_3_132"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_3_133"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_3_134"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_3_135"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_3_136"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_3_137"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_3_138"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_3_139"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_3_140"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_3_141"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_3_142"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_3_143"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_3_144"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_3_145"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "accepted": true,
+    "presup_type": "temporal",
+    "example_id": "demo_3_146"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "accepted": true,
+    "presup_type": "social",
+    "example_id": "demo_3_147"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_3_148"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_3_149"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_3_150"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_3_151"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_3_152"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_3_153"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_3_154"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 20,
+    "accepted": true,
+    "presup_type": "existential",
+    "example_id": "demo_3_155"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_3_156"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "accepted": true,
+    "presup_type": "counterfactual",
+    "example_id": "demo_3_157"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_3_158"
+  },
+  {
+    "model": "llama3_8b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_3_159"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_4_160"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_4_161"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 5,
+    "accepted": true,
+    "presup_type": "counterfactual",
+    "example_id": "demo_4_162"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_4_163"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_4_164"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_4_165"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_4_166"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_4_167"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_4_168"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_4_169"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_4_170"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "accepted": true,
+    "presup_type": "social",
+    "example_id": "demo_4_171"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_4_172"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_4_173"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_4_174"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_4_175"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "accepted": true,
+    "presup_type": "counterfactual",
+    "example_id": "demo_4_176"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_4_177"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_4_178"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_4_179"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_4_180"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_4_181"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_4_182"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_4_183"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_4_184"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_4_185"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_4_186"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_4_187"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_4_188"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_4_189"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_4_190"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_4_191"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_4_192"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "accepted": true,
+    "presup_type": "factive",
+    "example_id": "demo_4_193"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_4_194"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_4_195"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "accepted": true,
+    "presup_type": "temporal",
+    "example_id": "demo_4_196"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_4_197"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 20,
+    "accepted": true,
+    "presup_type": "factive",
+    "example_id": "demo_4_198"
+  },
+  {
+    "model": "mistral_7b",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_4_199"
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_5_200"
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_5_201"
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_5_202"
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_5_203"
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_5_204"
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_5_205"
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "accepted": true,
+    "presup_type": "temporal",
+    "example_id": "demo_5_206"
+  },
+  {
+    "model": "mixtral",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_5_207"
+  },
+  {
+    "model": "mixtral",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_5_208"
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_5_209"
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_5_210"
+  },
+  {
+    "model": "mixtral",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_5_211"
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "accepted": true,
+    "presup_type": "existential",
+    "example_id": "demo_5_212"
+  },
+  {
+    "model": "mixtral",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_5_213"
+  },
+  {
+    "model": "mixtral",
+    "distance": 20,
+    "accepted": true,
+    "presup_type": "counterfactual",
+    "example_id": "demo_5_214"
+  },
+  {
+    "model": "mixtral",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_5_215"
+  },
+  {
+    "model": "mixtral",
+    "distance": 50,
+    "accepted": true,
+    "presup_type": "social",
+    "example_id": "demo_5_216"
+  },
+  {
+    "model": "mixtral",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_5_217"
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_5_218"
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_5_219"
+  },
+  {
+    "model": "mixtral",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_5_220"
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_5_221"
+  },
+  {
+    "model": "mixtral",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_5_222"
+  },
+  {
+    "model": "mixtral",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_5_223"
+  },
+  {
+    "model": "mixtral",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_5_224"
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_5_225"
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_5_226"
+  },
+  {
+    "model": "mixtral",
+    "distance": 20,
+    "accepted": true,
+    "presup_type": "counterfactual",
+    "example_id": "demo_5_227"
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_5_228"
+  },
+  {
+    "model": "mixtral",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_5_229"
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_5_230"
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_5_231"
+  },
+  {
+    "model": "mixtral",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_5_232"
+  },
+  {
+    "model": "mixtral",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_5_233"
+  },
+  {
+    "model": "mixtral",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_5_234"
+  },
+  {
+    "model": "mixtral",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_5_235"
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_5_236"
+  },
+  {
+    "model": "mixtral",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_5_237"
+  },
+  {
+    "model": "mixtral",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_5_238"
+  },
+  {
+    "model": "mixtral",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_5_239"
+  },
+  {
+    "model": "phi4",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_6_240"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_6_241"
+  },
+  {
+    "model": "phi4",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_6_242"
+  },
+  {
+    "model": "phi4",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_6_243"
+  },
+  {
+    "model": "phi4",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_6_244"
+  },
+  {
+    "model": "phi4",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_6_245"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_6_246"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": true,
+    "presup_type": "social",
+    "example_id": "demo_6_247"
+  },
+  {
+    "model": "phi4",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_6_248"
+  },
+  {
+    "model": "phi4",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_6_249"
+  },
+  {
+    "model": "phi4",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_6_250"
+  },
+  {
+    "model": "phi4",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_6_251"
+  },
+  {
+    "model": "phi4",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_6_252"
+  },
+  {
+    "model": "phi4",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_6_253"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_6_254"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_6_255"
+  },
+  {
+    "model": "phi4",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_6_256"
+  },
+  {
+    "model": "phi4",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_6_257"
+  },
+  {
+    "model": "phi4",
+    "distance": 50,
+    "accepted": true,
+    "presup_type": "social",
+    "example_id": "demo_6_258"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_6_259"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_6_260"
+  },
+  {
+    "model": "phi4",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_6_261"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_6_262"
+  },
+  {
+    "model": "phi4",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_6_263"
+  },
+  {
+    "model": "phi4",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_6_264"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_6_265"
+  },
+  {
+    "model": "phi4",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_6_266"
+  },
+  {
+    "model": "phi4",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_6_267"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_6_268"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_6_269"
+  },
+  {
+    "model": "phi4",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_6_270"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_6_271"
+  },
+  {
+    "model": "phi4",
+    "distance": 50,
+    "accepted": true,
+    "presup_type": "factive",
+    "example_id": "demo_6_272"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": true,
+    "presup_type": "temporal",
+    "example_id": "demo_6_273"
+  },
+  {
+    "model": "phi4",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_6_274"
+  },
+  {
+    "model": "phi4",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_6_275"
+  },
+  {
+    "model": "phi4",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_6_276"
+  },
+  {
+    "model": "phi4",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_6_277"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_6_278"
+  },
+  {
+    "model": "phi4",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_6_279"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_7_280"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_7_281"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_7_282"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_7_283"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_7_284"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_7_285"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_7_286"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "accepted": true,
+    "presup_type": "temporal",
+    "example_id": "demo_7_287"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_7_288"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_7_289"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "accepted": true,
+    "presup_type": "factive",
+    "example_id": "demo_7_290"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_7_291"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_7_292"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_7_293"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_7_294"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_7_295"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_7_296"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "accepted": true,
+    "presup_type": "factive",
+    "example_id": "demo_7_297"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_7_298"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_7_299"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_7_300"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_7_301"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_7_302"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_7_303"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_7_304"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 10,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_7_305"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_7_306"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 10,
+    "accepted": true,
+    "presup_type": "social",
+    "example_id": "demo_7_307"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 50,
+    "accepted": true,
+    "presup_type": "existential",
+    "example_id": "demo_7_308"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_7_309"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_7_310"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "accepted": true,
+    "presup_type": "existential",
+    "example_id": "demo_7_311"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "factive",
+    "example_id": "demo_7_312"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "social",
+    "example_id": "demo_7_313"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_7_314"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 5,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_7_315"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 50,
+    "accepted": false,
+    "presup_type": "existential",
+    "example_id": "demo_7_316"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_7_317"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 20,
+    "accepted": false,
+    "presup_type": "temporal",
+    "example_id": "demo_7_318"
+  },
+  {
+    "model": "deepseek_v3",
+    "distance": 1,
+    "accepted": false,
+    "presup_type": "counterfactual",
+    "example_id": "demo_7_319"
+  }
+]

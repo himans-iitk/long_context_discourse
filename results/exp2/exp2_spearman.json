@@ -1,0 +1,42 @@
+[
+  {
+    "model": "gpt4o",
+    "rho": 0.9775,
+    "p_value": 0.05
+  },
+  {
+    "model": "deepseek_r1",
+    "rho": 0.9981,
+    "p_value": 0.05
+  },
+  {
+    "model": "llama3_70b",
+    "rho": 0.9945,
+    "p_value": 0.05
+  },
+  {
+    "model": "llama3_8b",
+    "rho": 0.997,
+    "p_value": 0.05
+  },
+  {
+    "model": "mistral_7b",
+    "rho": 0.9823,
+    "p_value": 0.05
+  },
+  {
+    "model": "mixtral",
+    "rho": 0.9925,
+    "p_value": 0.05
+  },
+  {
+    "model": "phi4",
+    "rho": 0.9957,
+    "p_value": 0.05
+  },
+  {
+    "model": "deepseek_v3",
+    "rho": 0.972,
+    "p_value": 0.05
+  }
+]

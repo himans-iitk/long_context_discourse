@@ -1,0 +1,8 @@
+extends: ../../exp2.yaml
+experiment: exp2__shard_llama3_70b
+run:
+  models_subset:
+  - llama3_70b
+ablation:
+  models:
+  - llama3_70b

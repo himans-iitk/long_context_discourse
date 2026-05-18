@@ -1,0 +1,206 @@
+{
+  "English": {
+    "deepseek_r1": {
+      "Explicit": -25.73,
+      "Implicit": 20.12
+    },
+    "deepseek_v3": {
+      "Explicit": 18.63,
+      "Implicit": -2.02
+    },
+    "gpt4o": {
+      "Explicit": -2.67,
+      "Implicit": 1.82
+    },
+    "llama3_70b": {
+      "Explicit": -20.24,
+      "Implicit": -13.12
+    },
+    "llama3_8b": {
+      "Explicit": 7.45,
+      "Implicit": -13.02
+    },
+    "mistral_7b": {
+      "Explicit": 17.4,
+      "Implicit": 10.23
+    },
+    "mixtral": {
+      "Explicit": -17.79,
+      "Implicit": 5.03
+    },
+    "phi4": {
+      "Explicit": 0.83,
+      "Implicit": -0.1
+    }
+  },
+  "German": {
+    "deepseek_r1": {
+      "Explicit": -12.78,
+      "Implicit": 12.77
+    },
+    "deepseek_v3": {
+      "Explicit": -27.84,
+      "Implicit": -1.48
+    },
+    "gpt4o": {
+      "Explicit": -14.91,
+      "Implicit": -8.04
+    },
+    "llama3_70b": {
+      "Explicit": -0.57,
+      "Implicit": 0.62
+    },
+    "llama3_8b": {
+      "Explicit": -3.06,
+      "Implicit": -0.18
+    },
+    "mistral_7b": {
+      "Explicit": 26.33,
+      "Implicit": -7.42
+    },
+    "mixtral": {
+      "Explicit": -25.63,
+      "Implicit": 15.56
+    },
+    "phi4": {
+      "Explicit": 5.53,
+      "Implicit": -8.08
+    }
+  },
+  "Polish": {
+    "deepseek_r1": {
+      "Explicit": -22.98,
+      "Implicit": 16.64
+    },
+    "deepseek_v3": {
+      "Explicit": 11.24,
+      "Implicit": 8.95
+    },
+    "gpt4o": {
+      "Explicit": 8.54,
+      "Implicit": 6.02
+    },
+    "llama3_70b": {
+      "Explicit": 16.04,
+      "Implicit": -0.97
+    },
+    "llama3_8b": {
+      "Explicit": -37.52,
+      "Implicit": -7.22
+    },
+    "mistral_7b": {
+      "Explicit": 3.57,
+      "Implicit": -13.23
+    },
+    "mixtral": {
+      "Explicit": 12.28,
+      "Implicit": 11.5
+    },
+    "phi4": {
+      "Explicit": -35.67,
+      "Implicit": -17.02
+    }
+  },
+  "Portuguese": {
+    "deepseek_r1": {
+      "Explicit": -17.96,
+      "Implicit": 5.2
+    },
+    "deepseek_v3": {
+      "Explicit": -21.75,
+      "Implicit": -0.61
+    },
+    "gpt4o": {
+      "Explicit": -3.19,
+      "Implicit": -16.39
+    },
+    "llama3_70b": {
+      "Explicit": 0.82,
+      "Implicit": 0.62
+    },
+    "llama3_8b": {
+      "Explicit": 0.19,
+      "Implicit": 1.76
+    },
+    "mistral_7b": {
+      "Explicit": 13.59,
+      "Implicit": 7.47
+    },
+    "mixtral": {
+      "Explicit": 1.21,
+      "Implicit": 4.03
+    },
+    "phi4": {
+      "Explicit": -49.83,
+      "Implicit": 5.35
+    }
+  },
+  "Russian": {
+    "deepseek_r1": {
+      "Explicit": -16.05,
+      "Implicit": -20.43
+    },
+    "deepseek_v3": {
+      "Explicit": 1.63,
+      "Implicit": -2.86
+    },
+    "gpt4o": {
+      "Explicit": -24.05,
+      "Implicit": 3.96
+    },
+    "llama3_70b": {
+      "Explicit": 17.79,
+      "Implicit": -3.68
+    },
+    "llama3_8b": {
+      "Explicit": 27.46,
+      "Implicit": 7.05
+    },
+    "mistral_7b": {
+      "Explicit": 3.25,
+      "Implicit": 3.5
+    },
+    "mixtral": {
+      "Explicit": 17.84,
+      "Implicit": 2.15
+    },
+    "phi4": {
+      "Explicit": 21.81,
+      "Implicit": -12.74
+    }
+  },
+  "Turkish": {
+    "deepseek_r1": {
+      "Explicit": -6.2,
+      "Implicit": 7.5
+    },
+    "deepseek_v3": {
+      "Explicit": -5.11,
+      "Implicit": -2.67
+    },
+    "gpt4o": {
+      "Explicit": -1.24,
+      "Implicit": -1.43
+    },
+    "llama3_70b": {
+      "Explicit": 0.96,
+      "Implicit": 7.48
+    },
+    "llama3_8b": {
+      "Explicit": 14.71,
+      "Implicit": -5.28
+    },
+    "mistral_7b": {
+      "Explicit": -7.18,
+      "Implicit": -17.2
+    },
+    "mixtral": {
+      "Explicit": 10.58,
+      "Implicit": -8.82
+    },
+    "phi4": {
+      "Explicit": 3.77,
+      "Implicit": -0.36
+    }
+  }
+}

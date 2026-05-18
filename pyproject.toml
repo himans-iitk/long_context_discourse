@@ -1,0 +1,80 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "long-context-discourse"
+version = "0.1.0"
+description = "EMNLP 2026 — Discourse and pragmatics in long-context LLMs."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Anonymous Authors" }]
+license = { text = "MIT" }
+keywords = ["discourse", "pragmatics", "llm", "long-context", "emnlp"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Intended Audience :: Science/Research",
+]
+dependencies = [
+    "openai>=1.40",
+    "huggingface_hub>=0.24",
+    "datasets>=2.20",
+    "transformers>=4.43",
+    "tokenizers>=0.19",
+    "pandas>=2.0",
+    "numpy>=1.26",
+    "scikit-learn>=1.4",
+    "scipy>=1.13",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "tqdm>=4.66",
+    "python-dotenv>=1.0",
+    "pyyaml>=6.0",
+    "tenacity>=8.2",
+]
+
+[project.optional-dependencies]
+probe = [
+    "torch>=2.2",
+    "accelerate>=0.30",
+    "bitsandbytes>=0.43; platform_system != 'Darwin'",
+]
+dev = [
+    "pytest>=7",
+    "pytest-cov>=4",
+    "ruff>=0.4",
+    "mypy>=1.10",
+]
+
+[project.scripts]
+lcd-run-exp1 = "long_context_discourse.scripts_entry:run_exp1"
+lcd-run-exp2 = "long_context_discourse.scripts_entry:run_exp2"
+lcd-run-exp2b = "long_context_discourse.scripts_entry:run_exp2b"
+lcd-run-exp3 = "long_context_discourse.scripts_entry:run_exp3"
+lcd-run-exp4 = "long_context_discourse.scripts_entry:run_exp4"
+lcd-run-exp5 = "long_context_discourse.scripts_entry:run_exp5"
+lcd-analyze-exp1 = "long_context_discourse.scripts_entry:analyze_exp1"
+lcd-analyze-exp2 = "long_context_discourse.scripts_entry:analyze_exp2"
+lcd-analyze-exp3 = "long_context_discourse.scripts_entry:analyze_exp3"
+lcd-analyze-exp4 = "long_context_discourse.scripts_entry:analyze_exp4"
+lcd-analyze-exp5 = "long_context_discourse.scripts_entry:analyze_exp5"
+lcd-compile-results = "long_context_discourse.scripts_entry:compile_master_results"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+long_context_discourse = ["py.typed"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM", "RUF"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+addopts = "-q --strict-markers"
+testpaths = ["tests"]

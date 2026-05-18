@@ -1,0 +1,28 @@
+extends: paid_full_base.yaml
+
+experiment: exp2
+description: Presupposition tracking across conversational distance (FPAR).
+
+data:
+  presupposition_path: SyntheticDataset/presupposition_dataset.json
+
+run:
+  judge_model: openai/gpt-4o-mini
+  max_tokens_response: 200
+  max_tokens_judge: 10
+  checkpoint_every: 100
+
+ablation:
+  enabled: true
+  # Full sweep: all chat models in paid_full_base / default registry (Exp 3 excluded — local probe).
+  models:
+    - gpt4o
+    - deepseek_r1
+    - llama3_70b
+    - llama3_8b
+    - mistral_7b
+    - mixtral
+    - phi4
+    - deepseek_v3
+  distance: 20
+  reminder_every: 10

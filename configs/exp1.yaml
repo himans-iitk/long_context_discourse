@@ -1,0 +1,18 @@
+extends: paid_full_base.yaml
+
+experiment: exp1
+description: PDTB 3.0 — implicit vs explicit discourse relation degradation by context length.
+
+data:
+  pdtb_test_path: processed/pdtb/pdtb_test_balanced.json
+  pdtb_train_path: processed/pdtb/pdtb_train.json
+
+run:
+  context_lengths: [512, 2048, 8192, 32768, 65536]
+  padding_tokenizer: gpt2
+  # OpenAI o-series rejects max_output_tokens < 16 via OpenRouter.
+  max_tokens_response: 16
+  checkpoint_every: 50
+
+analysis:
+  key_models: [gpt4o, llama3_70b, mistral_7b, deepseek_r1]

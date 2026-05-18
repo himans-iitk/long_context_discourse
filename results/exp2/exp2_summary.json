@@ -1,0 +1,11 @@
+{
+  "experiment": "exp2",
+  "n_rows": 320,
+  "avg_fpar_distance_1": 4.749601870347106,
+  "avg_fpar_distance_50": 21.890423699247137,
+  "rise_pp_d1_to_d50": 17.14082182890003,
+  "most_vulnerable_type": "factive",
+  "least_vulnerable_type": "temporal",
+  "figure": "/Users/himanshumishra/Desktop/UBC/Research/Projects/long_context_discourse/figures/fig2_presupposition_demo.png",
+  "_demo_synthetic": true
+}

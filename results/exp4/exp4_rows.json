@@ -1,0 +1,74 @@
+[
+  {
+    "model": "gpt4o",
+    "language": "English",
+    "rel_type": "Implicit",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "language": "English",
+    "rel_type": "Implicit",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "language": "English",
+    "rel_type": "Implicit",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "language": "English",
+    "rel_type": "Implicit",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "mistral_7b",
+    "language": "English",
+    "rel_type": "Implicit",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "language": "English",
+    "rel_type": "Implicit",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "language": "English",
+    "rel_type": "Implicit",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "language": "English",
+    "rel_type": "Implicit",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  }
+]

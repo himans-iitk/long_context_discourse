@@ -1,0 +1,26 @@
+# Shared defaults for full paid OpenRouter sweeps (no `:free` models).
+# Extend this from configs/exp1.yaml, exp2.yaml, exp4.yaml, exp5.yaml.
+#
+# Prerequisites: OPENROUTER_* keys in .env; funded OpenRouter credits (free-route
+# daily caps do not apply to paid model IDs).
+
+extends: default.yaml
+
+experiment: paid_full_base
+
+description: >-
+  Base layer for production EMNLP-style API runs (paid OpenRouter). Does not run
+  anything by itself — use exp1/exp2/exp4/exp5 YAMLs that extend this file.
+
+openrouter:
+  # Long padded prompts (up to 65k targets) and frontier latency.
+  request_timeout_seconds: 300
+  rate_limit_sleep_seconds: 0.2
+
+compile:
+  result_subdirs:
+    exp1: exp1
+    exp2: exp2
+    exp3: exp3
+    exp4: exp4
+    exp5: exp5

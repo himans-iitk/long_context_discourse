@@ -1,0 +1,5 @@
+extends: ../../exp5.yaml
+experiment: exp5__shard_deepseek_v3
+run:
+  cot_models:
+  - deepseek_v3

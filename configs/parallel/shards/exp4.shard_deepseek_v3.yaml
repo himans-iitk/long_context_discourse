@@ -1,0 +1,4 @@
+extends: ../../exp4.yaml
+experiment: exp4__shard_deepseek_v3
+models_subset:
+- deepseek_v3

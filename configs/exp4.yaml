@@ -1,0 +1,21 @@
+extends: paid_full_base.yaml
+
+experiment: exp4
+description: Cross-lingual discourse degradation on TED-MDB.
+
+data:
+  ted_processed_path: processed/exp4/ted_mdb_processed.json
+  pdtb_train_path: processed/pdtb/pdtb_train.json   # padding pool
+
+run:
+  languages: [English, German, Polish, Russian, Portuguese, Turkish]
+  context_lengths: [512, 8192, 32768]
+  padding_tokenizer: gpt2
+  per_lang_per_type: 50
+  max_tokens_response: 5
+
+models_subset:
+  - gpt4o
+  - llama3_70b
+  - mistral_7b
+  - deepseek_v3

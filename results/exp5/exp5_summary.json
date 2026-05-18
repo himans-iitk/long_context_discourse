@@ -1,0 +1,30 @@
+[
+  {
+    "context_length": 512,
+    "rel_type": "Implicit",
+    "standard_macro_f1": 0.2988,
+    "cot_macro_f1": 0.3088,
+    "reasoning_macro_f1": 0.3062
+  },
+  {
+    "context_length": 512,
+    "rel_type": "Explicit",
+    "standard_macro_f1": 0.2988,
+    "cot_macro_f1": 0.3938,
+    "reasoning_macro_f1": 0.3062
+  },
+  {
+    "context_length": 8192,
+    "rel_type": "Implicit",
+    "standard_macro_f1": 0.305,
+    "cot_macro_f1": 0.275,
+    "reasoning_macro_f1": 0.3126
+  },
+  {
+    "context_length": 8192,
+    "rel_type": "Explicit",
+    "standard_macro_f1": 0.305,
+    "cot_macro_f1": 0.389,
+    "reasoning_macro_f1": 0.3126
+  }
+]

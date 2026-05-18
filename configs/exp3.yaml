@@ -1,0 +1,19 @@
+extends: default.yaml
+
+experiment: exp3
+description: Linear probing of nucleus/satellite role representations from GUM.
+
+data:
+  gum_processed_path: processed/exp3/gum_rst_processed.json
+  min_text_chars: 20
+  max_text_chars: 500
+
+probe:
+  model_name: meta-llama/Meta-Llama-3-8B-Instruct
+  load_in_4bit: true
+  max_length_tokens: 128
+  pool: mean_excluding_bos
+  cv_folds: 5
+  position_buckets: 5
+  balance_threshold: 0.7
+  device: auto

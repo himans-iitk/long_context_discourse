@@ -1,0 +1,5 @@
+extends: ../../exp1.yaml
+experiment: exp1__shard_mixtral
+run:
+  models_subset:
+  - mixtral

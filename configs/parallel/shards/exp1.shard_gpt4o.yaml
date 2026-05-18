@@ -1,0 +1,5 @@
+extends: ../../exp1.yaml
+experiment: exp1__shard_gpt4o
+run:
+  models_subset:
+  - gpt4o

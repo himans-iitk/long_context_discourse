@@ -1,0 +1,12 @@
+{
+  "experiment": "exp1",
+  "n_rows": 960,
+  "parse_failure_rate": 0.015,
+  "implicit_avg_degradation_pct": 6.497499999999999,
+  "explicit_avg_degradation_pct": 7.414999999999999,
+  "degradation_ratio": null,
+  "wilcoxon_statistic": 1.0,
+  "wilcoxon_p_value": 0.875,
+  "figure": "/Users/himanshumishra/Desktop/UBC/Research/Projects/long_context_discourse/figures/fig1_degradation_demo.png",
+  "_demo_synthetic": true
+}

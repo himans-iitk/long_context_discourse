@@ -1,0 +1,4 @@
+extends: ../../exp4.yaml
+experiment: exp4__shard_llama3_70b
+models_subset:
+- llama3_70b

@@ -1,0 +1,2562 @@
+[
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_r1",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "deepseek_v3",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "gpt4o",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "llama3_70b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "llama3_8b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "mistral_7b",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "mixtral",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "A",
+    "pred_label": "D",
+    "correct": 0
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 512,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "A",
+    "correct": 0
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "C",
+    "pred_label": "C",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "C",
+    "correct": 0
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "B",
+    "correct": 0
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "A",
+    "pred_label": "A",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "B",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "D",
+    "pred_label": "D",
+    "correct": 1
+  },
+  {
+    "model": "phi4",
+    "condition": "cot_prompted",
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "context_length": 8192,
+    "gold_label": "B",
+    "pred_label": "A",
+    "correct": 0
+  }
+]

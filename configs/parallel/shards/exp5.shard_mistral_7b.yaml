@@ -1,0 +1,5 @@
+extends: ../../exp5.yaml
+experiment: exp5__shard_mistral_7b
+run:
+  cot_models:
+  - mistral_7b

@@ -1,0 +1,33 @@
+{
+  "experiment": "exp2b",
+  "n_rows": 3200,
+  "rescue": {
+    "weak_marker": {
+      "delta_pp_mean": -4.2,
+      "delta_pp_per_model": {
+        "gpt4o": -3.5,
+        "deepseek_r1": -3.5,
+        "llama3_70b": -3.5,
+        "llama3_8b": -3.5,
+        "mistral_7b": -3.5,
+        "mixtral": -3.5,
+        "phi4": -3.5,
+        "deepseek_v3": -3.5
+      }
+    },
+    "strong_marker": {
+      "delta_pp_mean": -9.1,
+      "delta_pp_per_model": {
+        "gpt4o": -8.0,
+        "deepseek_r1": -8.0,
+        "llama3_70b": -8.0,
+        "llama3_8b": -8.0,
+        "mistral_7b": -8.0,
+        "mixtral": -8.0,
+        "phi4": -8.0,
+        "deepseek_v3": -8.0
+      }
+    }
+  },
+  "_demo_synthetic": true
+}

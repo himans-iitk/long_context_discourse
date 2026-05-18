@@ -1,0 +1,45 @@
+# Defaults shared across experiments. Per-experiment YAMLs override what they need.
+
+# Filesystem layout. Relative paths are resolved against the project root.
+paths:
+  dataset_root: ../../long_context_discourse_dataset
+  results_dir: results
+  figures_dir: figures
+  checkpoints_subdir: checkpoints
+
+# OpenRouter / model defaults.
+openrouter:
+  base_url: https://openrouter.ai/api/v1
+  api_key_env: OPENROUTER_API_KEY
+  referer_env: OPENROUTER_REFERER
+  title_env: OPENROUTER_TITLE
+  request_timeout_seconds: 120
+  max_retries: 4
+  retry_base_seconds: 1.5
+  rate_limit_sleep_seconds: 0.15
+
+# Chat models for paid sweeps (short names → OpenRouter IDs).
+# Excluded from registry (routing / empty-response issues on OpenRouter): gemini_pro, o3, qwen_72b.
+models:
+  gpt4o:        openai/gpt-4o
+  deepseek_r1:  deepseek/deepseek-r1
+  llama3_70b:   meta-llama/llama-3.3-70b-instruct
+  llama3_8b:    meta-llama/llama-3.1-8b-instruct
+  mistral_7b:   mistralai/mistral-7b-instruct-v0.1
+  mixtral:      mistralai/mixtral-8x22b-instruct
+  phi4:         microsoft/phi-4
+  deepseek_v3:  deepseek/deepseek-chat-v3.1
+
+# Models that support 32K+ contexts. Exp1 / Exp4 skip longer contexts otherwise.
+long_context_models:
+  - gpt4o
+  - deepseek_r1
+  - llama3_70b
+
+# Reasoning-augmented models for Exp5.
+reasoning_models:
+  - deepseek_r1
+
+# Determinism.
+seed: 42
+temperature: 0.0
