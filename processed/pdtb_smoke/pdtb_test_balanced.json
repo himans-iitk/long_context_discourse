@@ -1,0 +1,810 @@
+[
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg1-as-denier",
+    "arg1": "it left the market vulnerable to continued selling this morning",
+    "arg2": "Friday's debacle involved mainly professional traders rather than investors",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg1-as-denier",
+    "arg1": "But it barely managed to stay this side of chaos",
+    "arg2": "the New York Stock Exchange didn't fall apart Friday",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "No, it wasn't Black Monday",
+    "arg2": "while the New York Stock Exchange didn't fall apart Friday as the Dow Jones Industrial Average plunged 190.58 points -- most of it in the final hour -- it barely managed to stay this side of chaos",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "These stocks eventually reopened",
+    "arg2": "as panic spread, speculators began to sell blue-chip stocks such as Philip Morris and International Business Machines to offset their losses",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Arbitragers couldn't dump their UAL stock",
+    "arg2": "they rid themselves of nearly every \"rumor\" stock they had",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "2,000 S&P contracts were for sale on the close, the equivalent of $330 million in stock",
+    "arg2": "there were no buyers",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "The Dow's decline was second in point terms only to the 508-point Black Monday crash that occurred Oct. 19, 1987",
+    "arg2": "In percentage terms the Dow's dive was the 12th-worst ever and the sharpest since the market fell 156.83, or 8%, a week after Black Monday",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "Most of the stock selling pressure came from Wall Street professionals, including computer-guided program traders",
+    "arg2": "most of their major institutional investors sat tight",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "At those levels, stocks are set up to be hammered by index arbitragers",
+    "arg2": "nobody knows at what level the futures and stocks will open today",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "But the exchange will \"look at the performance of all specialists in all stocks",
+    "arg2": "specialists complain privately that just as in the 1987 crash, the \"upstairs\" firms -- big investment banks that support the market by trading big blocks of stock -- stayed on the sidelines during Friday's blood-letting",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "This confusion effectively halted one form of program trading, stock index arbitrage, that closely links the futures and stock markets, and has been blamed by some for the market's big swings",
+    "arg2": "stocks kept falling",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "and for a brief time the futures and stock markets started to come back in line",
+    "arg2": "the build-up of S&P futures sell orders weighed on the market, and the link with stocks began to fray again",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Our systemic performance was good",
+    "arg2": "the exchange will \"look at the performance of all specialists in all stocks",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "that \"there are significant differences between the current environment and that of October 1987\" and that there are still \"attractive investment opportunities\" in the stock market",
+    "arg2": "that Friday's plunge is \"going to set back\" relations with customers",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg1-as-goal",
+    "arg1": "to support the beleaguered floor traders",
+    "arg2": "buying big blocks of stock",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg1-as-goal",
+    "arg1": "who lock in profits",
+    "arg2": "buying futures when futures prices fall",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "even central banks can't stop it",
+    "arg2": "the dollar is in a free-fall",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "that Friday's plunge is \"going to set back\" relations with customers",
+    "arg2": "it reinforces the concern of volatility",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Many money managers and some traders had already left their offices early Friday afternoon on a warm autumn day",
+    "arg2": "the stock market was so quiet",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "After the trading halt in the S&P 500 pit in Chicago, waves of selling continued to hit stocks themselves on the Big Board, and specialists continued to notch prices down",
+    "arg2": "the link between the futures and stock markets ripped apart",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "that Friday's plunge is \"going to set back\" relations with customers, \"because it reinforces the concern of volatility",
+    "arg2": "a lot of people will harp on program trading",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "that \"there are significant differences between the current environment and that of October 1987",
+    "arg2": "that there are still \"attractive investment opportunities\" in the stock market",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Manner.Arg2-as-manner",
+    "arg1": "that support the market",
+    "arg2": "trading big blocks of stock",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "the build-up of S&P futures sell orders weighed on the market",
+    "arg2": "the link with stocks began to fray again",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "buy or sell big baskets of stocks",
+    "arg2": "offset the trade in futures",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "but they rid themselves of nearly every \"rumor\" stock they had",
+    "arg2": "their selling caused trading halts to be declared in USAir Group, which closed down 3 7/8 to 41 1/2, Delta Air Lines, which fell 7 3/4 to 69 1/4, and Philips Industries, which sank 3 to 21 1/2",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "At about 3:30 p.m. EDT, S&P futures resumed trading",
+    "arg2": "for a brief time the futures and stock markets started to come back in line",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "waves of selling continued to hit stocks themselves on the Big Board",
+    "arg2": "specialists continued to notch prices down",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "For weeks, the market had been nervous about takeovers, after Campeau Corp. 's cash crunch spurred concern about the prospects for future highly leveraged takeovers",
+    "arg2": "10 minutes after the UAL trading halt came news that the UAL group couldn't get financing for its bid",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "stopped trading",
+    "arg2": "never resumed",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "a takeover would succeed",
+    "arg2": "UAL stock would rise",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "closely links the futures and stock markets",
+    "arg2": "has been blamed by some for the market's big swings",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "lock in profits by buying futures when futures prices fall",
+    "arg2": "simultaneously sell off stocks",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "At about 3:45, the S&P market careened to still another limit, of 30 points down",
+    "arg2": "trading was locked again",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "which are triggered by computer",
+    "arg2": "prices fall to certain levels",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "For weeks, the market had been nervous about takeovers",
+    "arg2": "Campeau Corp. 's cash crunch spurred concern about the prospects for future highly leveraged takeovers",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "the stock was trading at 41, down 3 3/8, while IBM closed 5 5/8 lower at 102",
+    "arg2": "trading was halted in Philip Morris",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Meanwhile, during the the S&P trading halt, S&P futures sell orders began piling up",
+    "arg2": "stocks in New York kept falling sharply",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "But speculators began to sell blue-chip stocks such as Philip Morris and International Business Machines",
+    "arg2": "panic spread",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "Many money managers and some traders had already left their offices early Friday afternoon on a warm autumn day",
+    "arg2": "in a lightning plunge, the Dow Jones industrials in barely an hour surrendered about a third of their gains this year, chalking up a 190.58-point, or 6.9%, loss on the day in gargantuan trading volume",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "the S&P pit stayed locked at its 30-point trading limit",
+    "arg2": "the Dow average ground to its final 190.58 loss Friday",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "by buying futures",
+    "arg2": "futures prices fall",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "The Dow industrials were down 55 points at 3 p.m. before the futures-trading halt.\nAt 3:30 p.m., at the end of the \"cooling off\" period, the average was down 114.76 points",
+    "arg2": "during the the S&P trading halt, S&P futures sell orders began piling up, while stocks in New York kept falling sharply",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Mr.\nPhelan was flying to Bangkok",
+    "arg2": "the market was falling",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "It's a few hundred years",
+    "arg2": "England has been a kingdom",
+    "document_id": "wsj_2301"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "lock in profits by buying futures when futures prices fall",
+    "arg2": "and sell off stocks",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "On the exchange floor we braced for a panic",
+    "arg2": "UAL stopped trading",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "while the New York Stock Exchange didn't fall apart Friday",
+    "arg2": "the Dow Jones Industrial Average plunged 190.58 points -- most of it in the final hour",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Several traders could be seen shaking their heads",
+    "arg2": "the news flashed",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "the stock was trading at 41, down 3 3/8",
+    "arg2": "IBM closed 5 5/8 lower at 102",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "it cracked every model we had for the marketplace",
+    "arg2": "the airline information came through",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "Now, at 3:07, one of the market's post-crash \"reforms\" took hold",
+    "arg2": "the S&P 500 futures contract had plunged 12 points, equivalent to around a 100-point drop in the Dow industrials",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "It is easy to say the specialist isn't doing his job",
+    "arg2": "When the dollar is in a free-fall, even central banks can't stop it",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Stock-index futures contracts settled at much lower prices than indexes of the stock market itself",
+    "arg2": "At those levels, stocks are set up to be hammered by index arbitragers, who lock in profits by buying futures when futures prices fall, and simultaneously sell off stocks",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "The Dow industrials were down 55 points at 3 p.m. before the futures-trading halt",
+    "arg2": "At 3:30 p.m., at the end of the \"cooling off\" period, the average was down 114.76 points",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "not to sell",
+    "arg2": "to look for an opportunity to buy",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "In percentage terms, however, the Dow's dive was the 12th-worst ever and the sharpest since the market fell 156.83, or 8%, a week after Black Monday",
+    "arg2": "The Dow fell 22.6% on Black Monday",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "that just as in the 1987 crash, the \"upstairs\" firms -- big investment banks that support the market by trading big blocks of stock -- stayed on the sidelines during Friday's blood-letting",
+    "arg2": "It will take another day or two\" to analyze who was buying and selling Friday",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "The equity market was illiquid",
+    "arg2": "Once again {the specialists} were not able to handle the imbalances on the floor of the New York Stock Exchange",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "to step up to the plate",
+    "arg2": "to support the beleaguered floor traders by buying big blocks of stock",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "to sell blue-chip stocks such as Philip Morris and International Business Machines",
+    "arg2": "to offset their losses",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "waves of selling continued to hit stocks themselves on the Big Board",
+    "arg2": "and specialists continued to notch prices down",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "it left the market vulnerable to continued selling this morning",
+    "arg2": "Stock-index futures contracts settled at much lower prices than indexes of the stock market itself",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "I have a hunch that this particular decline today is something `more ado about less",
+    "arg2": "It would be my inclination to advise clients not to sell, to look for an opportunity to buy",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "At about 3:30 p.m. EDT, S&P futures resumed trading, and for a brief time the futures and stock markets started to come back in line",
+    "arg2": "Buyers stepped in to the futures pit",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "And I think a lot of people will harp on program trading",
+    "arg2": "It's going to bring the debate right back to the forefront",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "The market crumbled",
+    "arg2": "Arbitragers couldn't dump their UAL stock -- but they rid themselves of nearly every \"rumor\" stock they had",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "a takeover would succeed",
+    "arg2": "and UAL stock would rise",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "At about 3:45, the S&P market careened to still another limit, of 30 points down",
+    "arg2": "and trading was locked again",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "At 2:43 p.m. EDT, came the sickening news: The Big Board was halting trading in UAL, \"pending news",
+    "arg2": "On the exchange floor, \"as soon as UAL stopped trading, we braced for a panic",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "During this time, small investors began ringing their brokers",
+    "arg2": "wondering whether another crash had begun",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "That's when George L. Ball, chairman of the Prudential Insurance Co. of America unit, took to the internal intercom system",
+    "arg2": "to declare that the plunge was only \"mechanical",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "But as panic spread, speculators began to sell blue-chip stocks such as Philip Morris and International Business Machines to offset their losses",
+    "arg2": "When trading was halted in Philip Morris, the stock was trading at 41, down 3 3/8, while IBM closed 5 5/8 lower at 102",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "But the build-up of S&P futures sell orders weighed on the market",
+    "arg2": "and the link with stocks began to fray again",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "At about 3:30 p.m. EDT, S&P futures resumed trading",
+    "arg2": "and for a brief time the futures and stock markets started to come back in line",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Some \"circuit breakers\" installed after the October 1987 crash failed their first test",
+    "arg2": "unable to cool the selling panic in both stocks and futures",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "When the airline information came through, it cracked every model we had for the marketplace",
+    "arg2": "We didn't even get a chance to do the programs we wanted to do",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Shares of UAL, the parent of United Airlines, were extremely active all day Friday",
+    "arg2": "reacting to news and rumors about the proposed $6.79 billion buy-out of the airline by an employee-management group",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "In a stock-index arbitrage sell program, traders buy or sell big baskets of stocks and offset the trade in futures",
+    "arg2": "to lock in a price difference",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Final-hour trading accelerated to 108.1 million shares, a record for the Big Board",
+    "arg2": "At the end of the day, 251.2 million shares were traded",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "the circuit breaker \"worked well mechanically",
+    "arg2": "it's nonproductive at this point to get into a debate if index arbitrage would have helped or hurt things",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "The futures halt was even assailed by Big Board floor traders",
+    "arg2": "It screwed things up,\" said one major specialist",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "On the exchange floor, \"as soon as UAL stopped trading, we braced for a panic",
+    "arg2": "Several traders could be seen shaking their heads when the news flashed",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "At 2:43 p.m. EDT, came the sickening news",
+    "arg2": "The Big Board was halting trading in UAL, \"pending news",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "Now, at 3:07, one of the market's post-crash \"reforms\" took hold as the S&P 500 futures contract had plunged 12 points, equivalent to around a 100-point drop in the Dow industrials",
+    "arg2": "Under an agreement signed by the Big Board and the Chicago Mercantile Exchange, trading was temporarily halted in Chicago",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Substitution.Arg2-as-subst",
+    "arg1": "It's a few hundred years since England has been a kingdom",
+    "arg2": "It's now the United Kingdom of Great Britain and Northern Ireland, comprising Wales, Northern Ireland, Scotland, and . . . oh yes, England, too",
+    "document_id": "wsj_2301"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "As the Dow average ground to its final 190.58 loss Friday, the S&P pit stayed locked at its 30-point trading limit",
+    "arg2": "2,000 S&P contracts were for sale on the close, the equivalent of $330 million in stock",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Some \"circuit breakers\" installed after the October 1987 crash failed their first test unable to cool the selling panic in both stocks and futures",
+    "arg2": "The 49 stock specialist firms on the Big Board floor once again couldn't handle the selling pressure",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "Then in a lightning plunge, the Dow Jones industrials in barely an hour surrendered about a third of their gains this year",
+    "arg2": "chalking up a 190.58-point, or 6.9%, loss on the day in gargantuan trading volume",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "Without the guidepost of stock-index futures many traders were afraid to trust stock prices quoted on the Big Board",
+    "arg2": "The futures halt was even assailed by Big Board floor traders",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "But stocks kept falling",
+    "arg2": "The Dow industrials were down 55 points at 3 p.m. before the futures-trading halt",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "At the end of the day, 251.2 million shares were traded",
+    "arg2": "The Dow Jones industrials closed at 2569.26",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "The finger-pointing has already begun",
+    "arg2": "The equity market was illiquid.\nOnce again {the specialists} were not able to handle the imbalances on the floor of the New York Stock Exchange,\" said Christopher Pedersen, senior vice president at Twenty-First Securities Corp",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "Selling snowballed because of waves of automatic \"stop-loss\" orders, which are triggered by computer when prices fall to certain levels",
+    "arg2": "Most of the stock selling pressure came from Wall Street professionals, including computer-guided program traders",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Some \"circuit breakers\" installed after the October 1987 crash failed their first test unable to cool the selling panic in both stocks and futures.\nThe 49 stock specialist firms on the Big Board floor -- the buyers and sellers of last resort who were criticized after the 1987 crash -- once again couldn't handle the selling pressure. \n\nBig investment banks refused to step up to the plate to support the beleaguered floor traders by buying big blocks of stock",
+    "arg2": "Heavy selling of Standard & Poor's 500-stock index futures in Chicago relentlessly beat stocks downward",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "At about 3:45, the S&P market careened to still another limit, of 30 points down, and trading was locked again",
+    "arg2": "the S&P was signaling that the Dow could fall as much as 200 points",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "At Merrill Lynch & Co., the nation's biggest brokerage firm, a news release was prepared headlined \"Merrill Lynch Comments on Market Drop",
+    "arg2": "The release cautioned that \"there are significant differences between the current environment and that of October 1987\" and that there are still \"attractive investment opportunities\" in the stock market",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "Then in a lightning plunge, the Dow Jones industrials in barely an hour surrendered about a third of their gains this year, chalking up a 190.58-point, or 6.9%, loss on the day in gargantuan trading volume",
+    "arg2": "Final-hour trading accelerated to 108.1 million shares, a record for the Big Board",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "But the exchange will \"look at the performance of all specialists in all stocks",
+    "arg2": "Obviously we'll take a close look at any situation in which we think the dealer-community obligations weren't met",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "As a result, the link between the futures and stock markets ripped apart",
+    "arg2": "Without the guidepost of stock-index futures -- the barometer of where traders think the overall stock market is headed -- many traders were afraid to trust stock prices quoted on the Big Board",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "Shares of UAL, the parent of United Airlines, were extremely active all day Friday, reacting to news and rumors about the proposed $6.79 billion buy-out of the airline by an employee-management group",
+    "arg2": "Wall Street's takeover-stock speculators, or \"risk arbitragers,\" had placed unusually large bets that a takeover would succeed and UAL stock would rise",
+    "document_id": "wsj_2300"
+  }
+]

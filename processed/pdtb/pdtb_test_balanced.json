@@ -1,0 +1,3202 @@
+[
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Mr. Mosbacher called for concrete results by next spring in negotiations over fundamental Japanese business practices that supposedly inhibit free trade",
+    "arg2": "Mrs. Hills stressed that the objective \"is not to get definitive action by spring or summer, it is rather to have a blueprint for action",
+    "document_id": "wsj_2321"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Our systemic performance was good",
+    "arg2": "the exchange will \"look at the performance of all specialists in all stocks",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "they're on top of everything",
+    "arg2": "to improve, they've really got to make the investment in people",
+    "document_id": "wsj_2351"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg1-as-denier",
+    "arg1": "it also differs in an important way from recent history",
+    "arg2": "the role these four dissenters are assuming is a familiar one in modern Supreme Court history",
+    "document_id": "wsj_2347"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "A handful of hot retail locations, such as the 57th Street and Madison and Fifth Avenue areas, have been able to sustain what many see as astronomical rents.\nAnd, in some neighborhoods, rents have merely hit a plateau",
+    "arg2": "on average, Manhattan retail rents have dropped 10% to 15% in the past six months alone",
+    "document_id": "wsj_2346"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "acknowledged that the U.S. is discussing the allegations with the Italian government and Cocom",
+    "arg2": "declined to confirm any details",
+    "document_id": "wsj_2326"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "In the early 1980s, P&G tried to launch here a concentrated detergent under the Ariel brand name that it markets in Europe",
+    "arg2": "the product, which wasn't as concentrated as the new Cheer, bombed in a market test in Denver and was dropped",
+    "document_id": "wsj_2320"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "that, like Compaq's, uses an Intel 286 microprocessor and has a hard disk drive",
+    "arg2": "the Dynabook product is twice as heavy and costs more than Compaq's",
+    "document_id": "wsj_2387"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "When a plant has just been running flat out to meet demand, calculating lost profit and thus claims under business-interruption insurance is straightforward",
+    "arg2": "the numbers become trickier -- and subject to dickering between insured and insurer -- when demand is shifting",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "First Boston Corp. projects that 10 of the 15 companies it follows will report lower profit",
+    "arg2": "some industry giants are expected to report continuing gains",
+    "document_id": "wsj_2398"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "If I had come into Friday on margin or with very little cash in the portfolios, I would not do any buying",
+    "arg2": "we came into Friday with a conservative portfolio, so I would look to do some modest buying\" on behalf of clients",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "These aren't mature assets",
+    "arg2": "they have the potential to be so",
+    "document_id": "wsj_2303"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "that he has not yet seen the bid",
+    "arg2": "that he would review it and bring it to the attention of the creditors committee",
+    "document_id": "wsj_2303"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "In the recent talks, the EC had its quota increased about 300,000 tons, to 7% of the U.S. market from 6.7% in 1988",
+    "arg2": "Japan has agreed to cut its quota to about 5% from 5.9% previously",
+    "document_id": "wsj_2316"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "The Bronx also figures in Bruce Jay Friedman's latest novel, which flashes back to the New York of the '50s",
+    "arg2": "both the past and present worlds of \"The Current Climate\" (Atlantic Monthly Press, 200 pages, $18.95) feel cramped and static",
+    "document_id": "wsj_2343"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "and have been able to pick up a fifth vote to eke out a number of major victories in civil rights and liberties cases",
+    "arg2": "Now victories for the liberals are rare",
+    "document_id": "wsj_2347"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Small investors matched their big institutional brethren in anxiety over the weekend",
+    "arg2": "most seemed to be taking a philosophical approach and said they were resigned to riding out the latest storm in the stock market",
+    "document_id": "wsj_2386"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "The principal-only securities pay the principal from the underlying Freddie Mac 8% securities",
+    "arg2": "the interest-only securities pay only interest",
+    "document_id": "wsj_2399"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "But the exchange will \"look at the performance of all specialists in all stocks",
+    "arg2": "specialists complain privately that just as in the 1987 crash, the \"upstairs\" firms -- big investment banks that support the market by trading big blocks of stock -- stayed on the sidelines during Friday's blood-letting",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "it won't renew contracts with NWA Inc. 's Northwest Airlines unit, Pan Am Corp. 's Pan American World Airways unit and Midway Airlines at the end of this year",
+    "arg2": "it remains involved in programs with AMR Corp. 's American Airlines unit and Delta Air Lines",
+    "document_id": "wsj_2394"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "it canceled plans for a preferred-stock swap",
+    "arg2": "that in January 1990, it may resume payments of dividends on the preferred stock",
+    "document_id": "wsj_2340"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "the market to open weaker Monday",
+    "arg2": "then it should find some stability",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Line by line Mr. Friedman's weary cynicism can be amusing",
+    "arg2": "it doesn't take too many lines to figure Harry out",
+    "document_id": "wsj_2343"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "that his company executed every order it received by the close of trading",
+    "arg2": "you can only take one call at a time",
+    "document_id": "wsj_2379"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg1-as-denier",
+    "arg1": "the company still has a big stake in polyethylene",
+    "arg2": "Dow has aggressively diversified into specialty chemicals and pharmaceuticals",
+    "document_id": "wsj_2398"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Terms weren't disclosed",
+    "arg2": "it expected to post a modest pretax gain and to save about $2 million in operating costs annually",
+    "document_id": "wsj_2353"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Arbitragers couldn't dump their UAL stock",
+    "arg2": "they rid themselves of nearly every \"rumor\" stock they had",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "The government estimates that the new plan will boost production next year by about 66 million bushels",
+    "arg2": "the full effect on prices of the winter wheat now being planted won't be felt until the second half of next year",
+    "document_id": "wsj_2330"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "The result is a new and huge appetite for programming",
+    "arg2": "perhaps to the consternation of those calling for quotas, most of this void is likely to be filled with the cheapest and most plentiful programming now available -- reruns -- usually of shows made in the U.S",
+    "document_id": "wsj_2361"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Ideal's directors rejected that offer",
+    "arg2": "they endorsed the merger proposal",
+    "document_id": "wsj_2329"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "The book loses some momentum toward the end",
+    "arg2": "For the most part there's much pleasure in her saucy, poignant probe into the mysteries of the Babylonian Bronx",
+    "document_id": "wsj_2343"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Since production costs were guaranteed, it didn't matter that a program couldn't be sold abroad or put into syndication",
+    "arg2": "not much money was spent on the shows, either, a situation that encouraged cheap-to-make talk and game shows, while discouraging expensive-to-produce dramas",
+    "document_id": "wsj_2361"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Pool is hot in New York and Chicago where \"upscale, suit-and-tie places\" are adding tables With today's tougher drunk driving laws people don't want to just sit around and drink Besides, rowdy behavior seems unlikely at the Grand Kempinski, where rooms average $200 a night and the cheap mixed drinks go for $3.50 a pop.\nAt the lounge, manager Elizabeth Dyer won't admit patrons in jeans, T-shirts or tennis shoes",
+    "arg2": "a majority of the Addison council didn't buy those arguments",
+    "document_id": "wsj_2367"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg1-as-denier",
+    "arg1": "Elcotel will also benefit from moving into other areas",
+    "arg2": "that line of business to strengthen in the next year",
+    "document_id": "wsj_2317"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "In computer publishing, a battle over typefaces is hurting Adobe Systems Inc",
+    "arg2": "The short-term outlook for Adobe's business appears strong",
+    "document_id": "wsj_2365"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "that his company may join the Ferranti fight, as part of a possible consortium that would bid against British Aerospace and Thomson-CSF",
+    "arg2": "it may be weeks before GEC and its potential partners decide whether to bid",
+    "document_id": "wsj_2362"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "it ebbs during periods of calm",
+    "arg2": "viewership soars when big news breaks",
+    "document_id": "wsj_2351"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "that some investors moved money from stock funds to money-market funds",
+    "arg2": "most investors seemed to be \"in an information mode rather than in a transaction mode",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "The OTC market has only a handful of takeover-related stocks",
+    "arg2": "they fell sharply",
+    "document_id": "wsj_2379"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "weighs less than a pound, costs a mere $400 and runs on three AA batteries",
+    "arg2": "has the power to run some spreadsheets and word processing programs",
+    "document_id": "wsj_2387"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "Many Americans have interpreted a 1986 agreement as assuring U.S. companies a 20% share by 1991",
+    "arg2": "the Japanese have denied making any such promise",
+    "document_id": "wsj_2321"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg1-as-denier",
+    "arg1": "they control nearly one-third of discretionary income",
+    "arg2": "they represent only 2% of the population",
+    "document_id": "wsj_2366"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Mr. Stookey, 59 years old, declined to be interviewed for this article",
+    "arg2": "he has consistently argued that over the long haul -- across both the peaks and the troughs of the plastics market -- Quantum will prosper through its new direction",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Others undoubtedly will follow",
+    "arg2": "Compaq has at least a six-month lead on the competition",
+    "document_id": "wsj_2387"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg1-as-denier",
+    "arg1": "it did play a role in the market's decline",
+    "arg2": "the report, which was released before the stock market opened, didn't trigger the 190.58-point drop in the Dow Jones Industrial Average",
+    "document_id": "wsj_2358"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Wyse has done well establishing a distribution business",
+    "arg2": "they haven't delivered products that sell",
+    "document_id": "wsj_2365"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Of course, the health of the economy will be threatened if the market continues to dive this week",
+    "arg2": "if the stock market doesn't continue to plummet, the beneficial effects of lower interest rates and a lower dollar may well dominate",
+    "document_id": "wsj_2397"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "reached the same conclusions about some attempts to buy closely held concerns",
+    "arg2": "eventually allowed those acquisitions to proceed",
+    "document_id": "wsj_2339"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Mr. Richardson wouldn't offer specifics regarding Atco's proposed British project",
+    "arg2": "he said it would compete for customers with two huge British power generating companies that would be formed under the country's plan to privatize its massive water and electric utilities",
+    "document_id": "wsj_2309"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Elaine Garzarelli predicts the market will open down at least 50 points on technical factors and \"some panic selling",
+    "arg2": "she expects prices to rebound soon",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "issue preferred stock to a friendly trust",
+    "arg2": "and dilute the worth and voting power of ASKO and other shareholders",
+    "document_id": "wsj_2383"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "sweep it under the rug",
+    "arg2": "hide it",
+    "document_id": "wsj_2347"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "to dismiss the suits",
+    "arg2": "Sunbelt's liabilities exceeded its assets by about $2 billion when federal regulators closed it in August 1988",
+    "document_id": "wsj_2354"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Quantum described the payout at the time as a way for it to share the bonanza with its holders",
+    "arg2": "its stock price wasn't reflecting the huge profit increases",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Justice Stevens, 69, is probably the most philosophical of the dissenters about his role",
+    "arg2": "he may be the least liberal of the four",
+    "document_id": "wsj_2347"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "to purchase Quest stock at a discount",
+    "arg2": "any person or group acquires more than 15% of the company's common stock or announces a tender offer",
+    "document_id": "wsj_2319"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "would the water be quite so hot",
+    "arg2": "Mr. Mason had used less derogatory language to articulate his amateur analysis of the voting behavior of his fellow New Yorkers",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "you leave the realm of reporting and enter the orbit of speculation",
+    "arg2": "you suggest otherwise",
+    "document_id": "wsj_2352"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "but was cut out",
+    "arg2": "it lost money",
+    "document_id": "wsj_2372"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "I was buying at the close (Friday) and I'll be buying again",
+    "arg2": "I know we're getting good value",
+    "document_id": "wsj_2381"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "And she would know to wear them behind her left, not right, ear",
+    "arg2": "she were engaged",
+    "document_id": "wsj_2368"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "We have no problem with the announcement",
+    "arg2": "we don't know what change it's going to bring about",
+    "document_id": "wsj_2331"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition+SpeechAct",
+    "arg1": "A good bet would be the tension between blacks and Jews in New York City",
+    "arg2": "so it must seem to Jackie Mason, the veteran Jewish comedian appearing in a new ABC sitcom airing on Tuesday nights (9:30-10 p.m. EDT)",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "that the delay of Interprovincial's proposed expansion won't by itself increase U.S. dependence on offshore crude, however",
+    "arg2": "Canadian imports are limited in any case by Canada's falling output",
+    "document_id": "wsj_2363"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "Line by line Mr. Friedman's weary cynicism can be amusing",
+    "arg2": "he's riffing on the Hollywood social scheme -- the way people size each other up",
+    "document_id": "wsj_2343"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "There is no prospect of any so-called grand compromise or deal next year",
+    "arg2": "the administration simply didn't live up to this year's deal",
+    "document_id": "wsj_2384"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "But 70% of the cable-television-equipped households that watch news do so between 6:30 p.m. and 7 p.m",
+    "arg2": "CNN wants in",
+    "document_id": "wsj_2351"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "come in tomorrow",
+    "arg2": "buy a Chrysler TC by Maserati",
+    "document_id": "wsj_2386"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "to buy",
+    "arg2": "the prices drop to the level he wants",
+    "document_id": "wsj_2386"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "Those that pulled out (of stocks) regretted it",
+    "arg2": "I doubt you'll see any significant changes\" in institutional portfolios as a result of Friday's decline",
+    "document_id": "wsj_2381"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "bet that prices had peaked",
+    "arg2": "and began to draw down inventories rather than order new product",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "some prices fell without trades taking place",
+    "arg2": "the damage wasn't as bad as it was in 1987",
+    "document_id": "wsj_2379"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "But the beneficial effects of lower interest rates and a lower dollar may well dominate",
+    "arg2": "the stock market doesn't continue to plummet",
+    "document_id": "wsj_2397"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "analysts are encouraged",
+    "arg2": "they don't expect a price increase for the rest of this year",
+    "document_id": "wsj_2337"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "The market was up 35% since {President} Bush took office",
+    "arg2": "a correction was to be expected",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "However ad rates will be effectively 7.5% higher per subscriber, according to Richard Heinemann, Time associate publisher",
+    "arg2": "the guaranteed circulation base is being lowered",
+    "document_id": "wsj_2350"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "That has changed",
+    "arg2": "the two years following the worst stock-market plunge in history have been reasonably comfortable",
+    "document_id": "wsj_2397"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "The measure repeals a 50% exclusion given to banks on the interest from loans used to acquire securities for an ESOP",
+    "arg2": "the ESOP owns less than 30% of the employer's stock",
+    "document_id": "wsj_2372"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "Today exports and business investment spending may be insufficient to pick up the slack",
+    "arg2": "and consumers retrench in reaction",
+    "document_id": "wsj_2397"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "of people switching over to CNN",
+    "arg2": "what, at least in the public's mind, is the same news",
+    "document_id": "wsj_2351"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Most often, they do just that",
+    "arg2": "stocks have proved to be the best-performing long-term investment",
+    "document_id": "wsj_2381"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "heaping scorn on the witnesses",
+    "arg2": "exercising the Fifth",
+    "document_id": "wsj_2377"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "should they sign a lease",
+    "arg2": "prices are still coming down",
+    "document_id": "wsj_2346"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "The trend is pretty well established",
+    "arg2": "local programs are the most popular, with American programs second",
+    "document_id": "wsj_2361"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "Pricing cycles, to be sure, are nothing new for plastics producers",
+    "arg2": "the financial decline of some looks steep only in comparison with the heady period that is just behind them",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Still, some industry giants are expected to report continuing gains",
+    "arg2": "so much of their business is outside commodity chemicals",
+    "document_id": "wsj_2398"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "he'll be buying blue chips such as Bristol-Myers and Kellogg",
+    "arg2": "the market drops further today",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "to sell off the bonds, and to eventually place some of them in a separate affiliate",
+    "arg2": "required under the new thrift law",
+    "document_id": "wsj_2360"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "group conflicts still exist",
+    "arg2": "what other means do we have for letting off steam",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "that could slip",
+    "arg2": "it is pegged to Zenith's share and sales",
+    "document_id": "wsj_2387"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "Quantum's annual profit fluctuates by about 85 cents a share, provided no other variables are changing",
+    "arg2": "the price of polyethylene moves a mere penny a pound",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Harry has avoided all that",
+    "arg2": "living in a Long Island suburb with his wife, who's so addicted to soap operas and mystery novels she barely seems to notice when her husband disappears for drug-seeking forays into Manhattan",
+    "document_id": "wsj_2343"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition+SpeechAct",
+    "arg1": "why is his investigation so oriented as to identify criminal activity",
+    "arg2": "his explanation of motivation is true",
+    "document_id": "wsj_2377"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "to invest the rest",
+    "arg2": "the market weakens further",
+    "document_id": "wsj_2381"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "some of them put the shares back on the shelf",
+    "arg2": "they couldn't sell",
+    "document_id": "wsj_2379"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "Now, as in those two years, her stock market indicators are positive",
+    "arg2": "she thinks the damage will be short-lived and contained",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "Mr. Mason's type of ethnic humor is passe",
+    "arg2": "and what other means do we have for letting off steam",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "It worked",
+    "arg2": "there were no exceptions",
+    "document_id": "wsj_2372"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "hadn't seen the suit",
+    "arg2": "and couldn't comment",
+    "document_id": "wsj_2328"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Accordingly, CNN is adding a world-affairs show in the morning",
+    "arg2": "surveys show its global-news hour in the afternoon is among its most \"differentiated\" programs in viewers' minds",
+    "document_id": "wsj_2351"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "growth is slow",
+    "arg2": "liquids have gained prominence over powders",
+    "document_id": "wsj_2320"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "who resigned last month",
+    "arg2": "Mr. Field had been chairman of McKesson Corp",
+    "document_id": "wsj_2335"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "There is an underlying concern on the part of the American people",
+    "arg2": "there should be",
+    "document_id": "wsj_2384"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "they were worried about setting a precedent that would permit pool halls along Addison's main street",
+    "arg2": "the mayor, in an admonition that bears a rhythmic resemblance to Prof.\nHill's, warned that \"alcohol leads to betting, which leads to fights",
+    "document_id": "wsj_2367"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Compaq to unveil a family of high-end personal computers later this year that are powerful enough to serve as the hub for communications within large networks of desk-top machines",
+    "arg2": "A raft of new computer companies has targeted this \"server\" market",
+    "document_id": "wsj_2365"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "Improved paper prices will help offset weakness in linage, but the retailers' problems have affected the amount of ad linage they usually run",
+    "arg2": "Gannett Co. posted an 11% gain in net income, as total ad pages dropped at USA Today, but advertising revenue rose because of a higher circulation rate base and increased rates",
+    "document_id": "wsj_2337"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "that the administration has not gone far enough in cutting this deficit",
+    "arg2": "that Congress has been unwilling to cut what the administration asked us to cut",
+    "document_id": "wsj_2384"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "He said Jews were \"sick with complexes",
+    "arg2": "he called David Dinkins, Mr. Giuliani's black opponent, \"a fancy shvartze with a mustache",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "clearing court dockets in Texas",
+    "arg2": "reducing the FSLIC's massive legal bills, which topped $73 million last year",
+    "document_id": "wsj_2354"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "quoted first in the Village Voice while he was a paid spokesman for the Rudolph Giuliani mayoral campaign",
+    "arg2": "then in Newsweek after he and the campaign parted company",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "expanding international coverage",
+    "arg2": "adding a second global-news program",
+    "document_id": "wsj_2351"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "These \"clean-bank\" transactions leave the bulk of bad assets, mostly real estate, with the government",
+    "arg2": "In these four the RTC is stuck with $4.51 billion in bad assets",
+    "document_id": "wsj_2348"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Analysts generally cite a lack of bearish developments as well as rumors of a possible tightening of supplies of some fuels and crudes",
+    "arg2": "There are recurring reports that the Soviet Union is having difficulties with its oil exports and that Nigeria has about reached its production limit and can't produce as much as it could sell",
+    "document_id": "wsj_2330"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "The move stems from lessons learned in Japan where local competitors have had phenomenal success with concentrated soapsuds",
+    "arg2": "It marks P&G's growing concern that its Japanese rivals, such as Kao Corp., may bring their superconcentrates to the U.S",
+    "document_id": "wsj_2320"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "The European defense industry is consolidating",
+    "arg2": "West Germany's Siemens AG recently joined GEC in a takeover of Britain's Plessey Co., and Daimler-Benz agreed to buy Messerschmitt-Boelkow Blohm G.m.b.\nH",
+    "document_id": "wsj_2362"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "sold abroad",
+    "arg2": "put into syndication",
+    "document_id": "wsj_2361"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "The land to be purchased by the joint venture hasn't yet received zoning and other approvals required for development",
+    "arg2": "part of Kaufman & Broad's job will be to obtain such approvals",
+    "document_id": "wsj_2313"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "no one got discouraged",
+    "arg2": "we gained that back -- and more",
+    "document_id": "wsj_2386"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "Many have raised cash levels, which act as a buffer against steep market declines",
+    "arg2": "Mario Gabelli holds cash positions well above 20% in several of his funds",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "You say you could have sold X percent of this product and Y percent of that",
+    "arg2": "then you still have to negotiate",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Substitution.Arg2-as-subst",
+    "arg1": "that the objective \"is not to get definitive action by spring or summer",
+    "arg2": "it is to have a blueprint for action",
+    "document_id": "wsj_2321"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "bypass the Maine Democrat",
+    "arg2": "deal with other lawmakers",
+    "document_id": "wsj_2372"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "was mainly due to macroeconomic factors",
+    "arg2": "shouldn't be tackled by setting quantitative targets",
+    "document_id": "wsj_2321"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Compaq's new machines are considered a direct threat to start-up firms like Dynabook Inc",
+    "arg2": "Compaq's announcement spells trouble for Zenith",
+    "document_id": "wsj_2387"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "to draw the adverse inference",
+    "arg2": "to concur with Mr. Pierce's own belief that his testimony could help convict him of a crime",
+    "document_id": "wsj_2377"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "to post a modest pretax gain",
+    "arg2": "to save about $2 million in operating costs annually",
+    "document_id": "wsj_2353"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "attract everybody",
+    "arg2": "offend nobody",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "that the work stoppage at Boeing, now entering its 13th day, \"has caused some turmoil in our scheduling",
+    "arg2": "that more than 500 passengers who were booked to fly out of Houston on America West would now be put on other airlines",
+    "document_id": "wsj_2308"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "eliminate marginal circulation",
+    "arg2": "hold down rates for advertisers",
+    "document_id": "wsj_2350"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "increasing its subscription rates",
+    "arg2": "cutting back on merchandise giveaways",
+    "document_id": "wsj_2350"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Substitution.Arg2-as-subst",
+    "arg1": "the regulators' decision",
+    "arg2": "the regulators should move ahead with approving CenTrust's request to sell 63 of its 71 branches to Great Western Bank, a unit of Great Western Financial Corp. based in Beverly Hills, Calif",
+    "document_id": "wsj_2360"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Now the two firms are collaborating on an alternative to Adobe's approach",
+    "arg2": "they are likely to carry IBM, the biggest seller of personal computers, along with them",
+    "document_id": "wsj_2365"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Alan Seelenfreund, 52 years old, was named chairman of this processor of prescription claims",
+    "arg2": "PCS named Rex R. Malson, 57, executive vice president at McKesson, as a director",
+    "document_id": "wsj_2335"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Despite their considerable incomes and assets, 40% of the respondents in the study don't feel financially secure",
+    "arg2": "one-fourth don't feel that they have made it",
+    "document_id": "wsj_2366"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "closely links the futures and stock markets",
+    "arg2": "has been blamed by some for the market's big swings",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "that they have to be long-term holders",
+    "arg2": "that they can't react to short-term events, good or bad",
+    "document_id": "wsj_2381"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "the expansion will also lower the company's raw material costs",
+    "arg2": "Quantum is tightening its grip on its one large business outside chemicals, propane marketing",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "It was Friday the 13th",
+    "arg2": "the stock market plummeted nearly 200 points",
+    "document_id": "wsj_2378"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "Some lagging competitors even may leave the personal computer business altogether",
+    "arg2": "Wyse Technology is considered a candidate to sell its troubled operation",
+    "document_id": "wsj_2365"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "seemed to be taking a philosophical approach",
+    "arg2": "said they were resigned to riding out the latest storm in the stock market",
+    "document_id": "wsj_2386"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Washington Post Co. is expected to report improved earnings, largely because of increased cable revenue and publishing revenue helped by an improved retail market in the Washington area",
+    "arg2": "According to analysts, profits were helped by successful cost-cutting measures at Newsweek",
+    "document_id": "wsj_2337"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "'re faster",
+    "arg2": "carry more memory",
+    "document_id": "wsj_2387"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "was one of the most anxious periods of my life",
+    "arg2": "is for most people",
+    "document_id": "wsj_2373"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Madison and Fifth Avenues and East 57th Street can command rents of up to $500 a square foot",
+    "arg2": "$250 is not uncommon",
+    "document_id": "wsj_2346"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "The plant expansion should strengthen the company's sway in the polyethylene business",
+    "arg2": "the expansion will lower the company's raw material costs",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "he accepted the resignation of Thomas Wilson, vice president of corporate sales",
+    "arg2": "that his marketing responsibilities have been reassigned",
+    "document_id": "wsj_2342"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Strikes and mismanagement were cited",
+    "arg2": "Premier Ryzhkov warned of \"tough measures",
+    "document_id": "wsj_2356"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "opening markets",
+    "arg2": "expanding trade",
+    "document_id": "wsj_2321"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "nonperforming assets rose to slightly more than $700 million from $516 million between June and September that significant additional loan-loss provisions may be required by federal regulators as part of the current annual examination of City Federal Savings Bank, CityFed's primary subsidiary, based in Somerset, N.J",
+    "arg2": "CityFed will mark its portfolio of high-yield corporate bonds to market as a result of federal legislation requiring that savings institutions divest themselves of such bonds",
+    "document_id": "wsj_2359"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "a takeover would succeed",
+    "arg2": "UAL stock would rise",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "for going out and buying stocks",
+    "arg2": "the panic was the worst",
+    "document_id": "wsj_2381"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "The offering, Series 102 was priced",
+    "arg2": "the market's afternoon surge",
+    "document_id": "wsj_2399"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "wheat prices remain stubbornly high",
+    "arg2": "corn and soybean prices have slumped well below their drought-induced peaks of 1988",
+    "document_id": "wsj_2330"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Sales at general merchandise stores rose 1.7%",
+    "arg2": "sales of building materials fell 1.8% after rising 1.7%",
+    "document_id": "wsj_2358"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "ASKO also disclosed it holds a 15% stake in Ahold",
+    "arg2": "It was thought ASKO held a 13.6% stake that was accumulated since July",
+    "document_id": "wsj_2383"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "You say you could have sold X percent of this product and Y percent of that",
+    "arg2": "And you still have to negotiate",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "while sales of building materials fell 1.8%",
+    "arg2": "rising 1.7%",
+    "document_id": "wsj_2358"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "who has been in contact with both sides",
+    "arg2": "the strike began",
+    "document_id": "wsj_2308"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "and then in Newsweek",
+    "arg2": "he and the campaign parted company",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Total advertising linage was \"modestly\" lower as classified-ad volume increased",
+    "arg2": "there was \"softer demand\" for retail and national ad linage",
+    "document_id": "wsj_2337"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "My unemployment insurance ran out",
+    "arg2": "I found a job",
+    "document_id": "wsj_2373"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "it had discussed the possibility of a joint venture with Jaguar",
+    "arg2": "Ford began buying shares",
+    "document_id": "wsj_2392"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "only 25% give $2,500 or more to charity each year",
+    "arg2": "twothirds feel some guilt about being affluent",
+    "document_id": "wsj_2366"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "the company will study results from this market",
+    "arg2": "expanding to others",
+    "document_id": "wsj_2320"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "The company is trying to carry out a three-year, $1.3 billion plant-expansion program started this year",
+    "arg2": "its annual payments on long-term debt will more than double from a year ago to about $240 million, largely because of debt taken on to pay a $50-a-share special dividend earlier this year",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "the number of employees who might use retail services shrinks",
+    "arg2": "businesses contract or depart",
+    "document_id": "wsj_2346"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "by all tradition, the economy followed",
+    "arg2": "it went down",
+    "document_id": "wsj_2397"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "the company progressed in September to within 12 hours of completing the drawn-out process of restarting it",
+    "arg2": "an explosion idled the plant in June",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "here many believe that its absence is to blame for the European TV industry's sluggish development",
+    "arg2": "some in the U.S. contend that advertising is the bane of television",
+    "document_id": "wsj_2361"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "that she could name any of 100 different cheeses after just one nibble",
+    "arg2": "blindfolded",
+    "document_id": "wsj_2361"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "while the New York Stock Exchange didn't fall apart Friday",
+    "arg2": "the Dow Jones Industrial Average plunged 190.58 points -- most of it in the final hour",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "many become widowed",
+    "arg2": "people get even older",
+    "document_id": "wsj_2366"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "The Fiero plant was viewed as a model of union-management cooperation at GM",
+    "arg2": "slow sales of the Fiero forced the company to close the factory last year",
+    "document_id": "wsj_2338"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "Food prices declined 0.6%",
+    "arg2": "climbing 0.3% in August",
+    "document_id": "wsj_2358"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "For weeks, the market had been nervous about takeovers",
+    "arg2": "Campeau Corp. 's cash crunch spurred concern about the prospects for future highly leveraged takeovers",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "it agreed to extend its contract on a day-by-day basis, with a 10-day notification to cancel",
+    "arg2": "it continues bargaining",
+    "document_id": "wsj_2308"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "who was leisurely strolling through the bright orange and yellow leaves of the mountains here",
+    "arg2": "his company's shares plunged $5.75 to close at $86.50",
+    "document_id": "wsj_2345"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "analysts are encouraged, because they don't expect a price increase for the rest of this year",
+    "arg2": "a supply crunch caused prices to rise 14% since 1986 to $650 a metric ton",
+    "document_id": "wsj_2337"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "to see evidence that all Cocom members are complying fully with existing export-control procedures",
+    "arg2": "it will support further liberalization",
+    "document_id": "wsj_2326"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "the S&P pit stayed locked at its 30-point trading limit",
+    "arg2": "the Dow average ground to its final 190.58 loss Friday",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "which can be forced to sell stockholdings",
+    "arg2": "investors rush to withdraw money",
+    "document_id": "wsj_2381"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Among those companies expected to have a down quarter are Hewlett-Packard Co., Amdahl Corp. and Sun Microsystems Inc., generally solid performers in the past.\nInternational Business Machines Corp. also is expected to report disappointing results",
+    "arg2": "Apple Computer Inc. is expected to show improved earnings for the period ended Sept",
+    "document_id": "wsj_2365"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "Stock fund redemptions during the 1987 debacle didn't begin to snowball",
+    "arg2": "after the market opened on Black Monday",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "Fidelity's Mr. Lynch, for his part, snapped up Southern Co. shares Friday",
+    "arg2": "the stock got hammered",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Prices for capital equipment rose a hefty 1.1% in September",
+    "arg2": "prices for home electronic equipment fell 1.1%",
+    "document_id": "wsj_2358"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "It's a few hundred years",
+    "arg2": "England has been a kingdom",
+    "document_id": "wsj_2301"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Europe's cultural curators have taken to the ramparts against American \"cultural imperialism",
+    "arg2": "the 1992 economic integration approaches",
+    "document_id": "wsj_2361"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Quantum Chemical Corp. went along for the ride",
+    "arg2": "the price of plastics took off in 1987",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "when Mr. Pierce asserted the Fifth in a noncriminal proceeding",
+    "arg2": "presumably receiving extensive advice from legal counsel",
+    "document_id": "wsj_2377"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "The market was up 35%",
+    "arg2": "{President} Bush took office",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "when energy prices zoomed up 6.5%",
+    "arg2": "plunging 7.3% in August",
+    "document_id": "wsj_2358"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Now, however, commercial channels are coming to most European countries",
+    "arg2": "and satellite and cable technology is spreading rapidly",
+    "document_id": "wsj_2361"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "the company progressed in September to within 12 hours of completing the drawn-out process of restarting it",
+    "arg2": "a second explosion occurred",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Moreover, the Wilmington, Del., company is helped",
+    "arg2": "prices weaken on the commodity chemicals it buys for its own production needs, such as ethylene",
+    "document_id": "wsj_2398"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "Oregon Sen. Bob Packwood, the ranking GOP member of the tax-writing Senate Finance Committee, hailed it",
+    "arg2": "an agreement was reached to strip capital gains from the legislation",
+    "document_id": "wsj_2384"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "the big guys hurt badly",
+    "arg2": "the little guy gets frightened",
+    "document_id": "wsj_2386"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "The brief attention viewers give CNN could put it at a disadvantage",
+    "arg2": "ratings data, and advertising, become more important to cable-TV channels",
+    "document_id": "wsj_2351"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "the trend toward smaller packaging is likely to accelerate",
+    "arg2": "competitors follow with their own superconcentrates",
+    "document_id": "wsj_2320"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "Richard Rahn, the supply-side chief economist of the U.S. Chamber of Commerce, issued a statement attributing the drop in stock prices to the Senate decision to postpone action on capital gains",
+    "arg2": "the sun had set on Friday",
+    "document_id": "wsj_2384"
+  },
+  {
+    "rel_type": "Explicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "The company introduced a superconcentrated Lemon Cheer in Japan",
+    "arg2": "watching the success of Attack",
+    "document_id": "wsj_2320"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Apple's family of Macintosh computers, for instance, uses four different buses",
+    "arg2": "and no one seems to mind",
+    "document_id": "wsj_2365"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "If it promptly cuts the discount rate it charges on loans to banks That could quiet things down",
+    "arg2": "If not, \"We could go to 2200 very soon",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Everyone will tell you that this time is different from 1987",
+    "arg2": "Well, in some ways it is different, but technically it is just the same",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Not really insurance, this tactic was designed to soften the blow of declining stock prices and generate an offsetting profit by selling waves of S&P futures contracts",
+    "arg2": "In its severest test, the $60 billion of portfolio insurance in effect in the 1987 crash didn't work, as stock buyers disappeared and stock and futures prices became disconnected",
+    "document_id": "wsj_2381"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "the commodities off more than the others",
+    "arg2": "and the diversified companies about even or slightly better",
+    "document_id": "wsj_2398"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "The administration has been trying to push the dollar lower",
+    "arg2": "the Fed has been resisting",
+    "document_id": "wsj_2384"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "The company didn't break out its fourth-quarter results",
+    "arg2": "In the latest nine months net income was $4.7 million, or $1.31 a share, on revenue of $44.3 million",
+    "document_id": "wsj_2322"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "Its watchers are, on the whole, a disloyal group of channel-zapping \"grazers\" and news junkies, who spend an average of just 26 minutes a day watching CNN, according to audience research",
+    "arg2": "That's less than one-third the time that viewers watch the major broadcast networks",
+    "document_id": "wsj_2351"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "He says financial problems plaguing electronics, fur and furniture companies have further deflated the market",
+    "arg2": "Hardest hit are what he calls \"secondary\" sites that primarily serve neighborhood residents",
+    "document_id": "wsj_2346"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "We were all wonderful heroes last year",
+    "arg2": "Now we're at the bottom of the heap",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "a safe one",
+    "arg2": "imagine if the romance in question were between an Orthodox Jew and a member of the Nation of Islam",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "The Dow industrials were down 55 points at 3 p.m. before the futures-trading halt",
+    "arg2": "At 3:30 p.m., at the end of the \"cooling off\" period, the average was down 114.76 points",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "Another, \"Jeux Sans Frontieres is a hit in France",
+    "arg2": "A U.S.-made imitation under the title \"Almost Anything Goes\" flopped fast",
+    "document_id": "wsj_2361"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Passenger car prices jumped 3.8% in September, after climbing 0.5% in August and declining in the late spring and summer",
+    "arg2": "the September increase was a one-time event, coming as dealers introduced their 1990 models",
+    "document_id": "wsj_2358"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "I am painted sometimes as ferocious, perhaps because I have a ferocious list of statutes to implement",
+    "arg2": "I don't feel very ferocious",
+    "document_id": "wsj_2321"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "In the third quarter of 1987, the economy spurted at an inflation-adjusted annual rate of 5.3%",
+    "arg2": "that it grew a much more sluggish 2.3% in the third quarter of 1989",
+    "document_id": "wsj_2397"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg1-as-denier",
+    "arg1": "I think my line has been very consistent",
+    "arg2": "I am painted sometimes as ferocious, perhaps because I have a ferocious list of statutes to implement",
+    "document_id": "wsj_2321"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "It is easy to say the specialist isn't doing his job",
+    "arg2": "When the dollar is in a free-fall, even central banks can't stop it",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Some shareholders have held off until today because any fund exchanges made after Friday's close would take place at today's closing prices",
+    "arg2": "Stock fund redemptions during the 1987 debacle didn't begin to snowball until after the market opened on Black Monday",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "To the delight of some doctors, the bill dropped a plan passed by the Finance Committee that would have overhauled the entire physician-reimbursement system under Medicare",
+    "arg2": "To the detriment of many low-income people, efforts to boost Medicaid funding, especially in rural areas, also were stricken",
+    "document_id": "wsj_2372"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "Between 1987 and 1988, North Dakota was the only state in the Midwest to lose population, a loss of 4,000 people",
+    "arg2": "Six of the 12 midwestern states have been growing steadily since 1980 -- Illinois, Kansas, Minnesota, Missouri, South Dakota and Wisconsin",
+    "document_id": "wsj_2366"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "The $409 million bid is estimated by Mr. Simpson as representing 75% of the value of all Hooker real-estate holdings in the U.S",
+    "arg2": "Not included in the bid are Bonwit Teller or B. Altman & Co., L.J. Hooker's department-store chains",
+    "document_id": "wsj_2303"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "The Fed is now poised to pour money into the economy if needed to soothe the markets",
+    "arg2": "Fed officials may protest that this doesn't necessarily mean a fundamental change in their interest-rate policies",
+    "document_id": "wsj_2397"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "Two years ago there were massive redemption levels over the weekend and a lot of fear around",
+    "arg2": "This feels more like a one-shot deal",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Stock-index futures contracts settled at much lower prices than indexes of the stock market itself",
+    "arg2": "At those levels, stocks are set up to be hammered by index arbitragers, who lock in profits by buying futures when futures prices fall, and simultaneously sell off stocks",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "retail investors nervously sold stock Friday and never returned to bargain-hunt",
+    "arg2": "Institutional investors were calmer",
+    "document_id": "wsj_2379"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Third-quarter profit estimates for several companies are being strongly affected by the price of newsprint, which in the last two years has had several price increases",
+    "arg2": "analysts are encouraged, because they don't expect a price increase for the rest of this year",
+    "document_id": "wsj_2337"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "I've had a lot of people trying to sell me services to find out how big it is",
+    "arg2": "Whether it's $5 billion or $3.5 billion, it doesn't matter",
+    "document_id": "wsj_2387"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "that the FBI has been given the authority to seize U.S. fugitives overseas without the permission of foreign governments",
+    "arg2": "that the new policy wouldn't be invoked by the Bush administration without full consideration of foreign-policy implications",
+    "document_id": "wsj_2356"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "these producers also will be reporting against exceptionally strong performances in the 1988 third quarter",
+    "arg2": "Once the chief beneficiaries of the industry's now fading boom",
+    "document_id": "wsj_2398"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "which had refused requests to reduce its holdings",
+    "arg2": "Ferruzzi has denied it was trying to manipulate the soybean futures market",
+    "document_id": "wsj_2330"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Don't say the TV sitcom, because that happens to be a genre that, in its desperate need to attract everybody and offend nobody, resembles politics more than it does comedy",
+    "arg2": "It is true that the best sitcoms do allow group differences to simmer",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "When the news broke of an attempted coup in Panama two weeks ago, Sen. Christopher Dodd called the State Department for a briefing",
+    "arg2": "They said, `follow CNN",
+    "document_id": "wsj_2351"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "But some saw it as a classic negotiating tactic",
+    "arg2": "Others said the Bush administration may feel the rhetoric on both sides is getting out of hand",
+    "document_id": "wsj_2321"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "the resurgence {in inflation} is going to continue for a few months",
+    "arg2": "that inflation will moderate next year",
+    "document_id": "wsj_2358"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "multiply that a few times over, though, and it will",
+    "arg2": "If the reactions of executives gathered Saturday at Hot Springs, Va., for the Business Council meetings are typical, business leaders weren't overly rattled by Friday's decline",
+    "document_id": "wsj_2397"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "I was laid off in August 1988, and after a thorough and exhausting job search, was hired in August 1989",
+    "arg2": "My unemployment insurance ran out before I found a job",
+    "document_id": "wsj_2373"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "only about $150 million of the current holdings are tradeable securities registered with the Securities and Exchange Commission",
+    "arg2": "The remainder are commercial loan participations, or private placements, that aren't filed with the SEC and don't have a ready market",
+    "document_id": "wsj_2360"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Mr. Rogers won't decide what to do today until he sees how the London and Tokyo markets go",
+    "arg2": "He recommends that investors sell takeover-related stocks, but hang on to some other stocks",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "The dissenters in the Warren Court appeared to be writing for the short-term",
+    "arg2": "Brennan and Marshall are speaking in their dissents to a more distant future",
+    "document_id": "wsj_2347"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "It has plunged 13% since July to around 26 cents a pound",
+    "arg2": "A year ago ethylene sold for 33 cents",
+    "document_id": "wsj_2325"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Margin debt was at a record high.\nThere was tremendous public enthusiasm for stock mutual funds",
+    "arg2": "The main thing was portfolio insurance,\" a mechanical trading system intended to protect an investor against losses",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "It fell $1.875 a share Friday, to $6.25, a new low, in over-the-counter trading",
+    "arg2": "Its high for the past year was $16.375 a share",
+    "document_id": "wsj_2342"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "it will take up less shelf space",
+    "arg2": "When shelf space was cheap, bigger was better",
+    "document_id": "wsj_2320"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Contrast",
+    "arg1": "America West, though, is a smaller airline and therefore more affected by the delayed delivery of a single plane than many of its competitors would be",
+    "arg2": "that American and United probably have such a hard time counting all the planes in their fleets, they might not miss one at all",
+    "document_id": "wsj_2308"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct",
+    "arg1": "To top it off, you captioned the graph showing the average number of months in a job search as \"Time Off",
+    "arg2": "Are you kidding?\nLooking for a job was one of the most anxious periods of my life -- and is for most people",
+    "document_id": "wsj_2373"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "The only thing Robert Goldberg could praise about CBS's new show \"Island Son\" (Leisure & Arts, Sept. 25) was the local color",
+    "arg2": "unfortunately neither he nor the producers of the show have done their homework",
+    "document_id": "wsj_2368"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "Under the agreement, Gulf must give the U.S. government 45 days' advance written notice before issuing any dividends on common stock.\nThe company's net worth cannot fall below $185 million after the dividends are issued",
+    "arg2": "The terms of that agreement only become effective the date of Gulf's reorganization",
+    "document_id": "wsj_2344"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "The Van Nuys plant, which employs about 3,000 workers, doesn't have a product to build after 1993",
+    "arg2": "the facility was asked to draw up plans to continue working as a \"flex plant",
+    "document_id": "wsj_2338"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Comparison",
+    "sense_full": "Comparison.Concession.Arg2-as-denier",
+    "arg1": "that $1 million of the payment was previously provided for in its financial statements and that $500,000 will be recognized in its 1989 third-quarter statement",
+    "arg2": "The agreement and consent decree are subject to court approval",
+    "document_id": "wsj_2344"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "Per-capita personal income in the U.S. grew faster than inflation last year, according to the Bureau of Economic Analysis",
+    "arg2": "The amount of income divvied up for each man, woman and child was $16,489 in 1988, up 6.6% from $15,472 in 1987",
+    "document_id": "wsj_2366"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "This is not a good environment to be fully invested\" in stocks",
+    "arg2": "If I had come into Friday on margin or with very little cash in the portfolios, I would not do any buying",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "I've let the money build up",
+    "arg2": "he has had trouble finding stocks he likes",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "Two years ago, about the only point of comparison was the 1929 crash and the subsequent Depression",
+    "arg2": "The doomsayers had a receptive audience",
+    "document_id": "wsj_2397"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "That was offset by strength elsewhere",
+    "arg2": "The effects} were much less severe and less prolonged than some had feared or expected",
+    "document_id": "wsj_2397"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "prices have nose-dived",
+    "arg2": "and Quantum's profit is plummeting",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Still, fund groups aren't taking any chances",
+    "arg2": "They hope to avoid the jammed phone lines and other snags that infuriated some fund investors in October 1987",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Wyse Technology, for instance, is considered a candidate to sell its troubled operation",
+    "arg2": "Wyse has done well establishing a distribution business, but they haven't delivered products that sell",
+    "document_id": "wsj_2365"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "but the 0.9% climb was higher than most anticipated",
+    "arg2": "the resurgence {in inflation} is going to continue for a few months",
+    "document_id": "wsj_2358"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "taken on",
+    "arg2": "to pay a $50-a-share special dividend earlier this year",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "They came by their strangeness honestly",
+    "arg2": "Lily's grandmother, no cookie baker, excised the heads of disliked relatives from the family album, and lugged around her perennial work-in-progress, \"Philosophy for Women",
+    "document_id": "wsj_2343"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "There also are recurring reports that the Soviet Union is having difficulties with its oil exports and that Nigeria has about reached its production limit and can't produce as much as it could sell",
+    "arg2": "Many traders foresee a tightening of near-term supplies, particularly of high-quality crudes such as those produced in the North Sea and in Nigeria",
+    "document_id": "wsj_2330"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "has about reached its production limit",
+    "arg2": "and can't produce as much as it could sell",
+    "document_id": "wsj_2330"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "Stocks, as measured by the Standard & Poor's 500-stock index, have been stellar performers this year, rising 27.97% before Friday's plunge, excluding dividends",
+    "arg2": "Even Friday's slump leaves investors ahead more than 20%, well above the annual average for stocks over several decades",
+    "document_id": "wsj_2381"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "from getting federal tax refunds resulting from losses caused by interest payments on debt issued",
+    "arg2": "to finance the buy-outs",
+    "document_id": "wsj_2372"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "that Japan do something quickly",
+    "arg2": "to reduce its trade surplus with the U.S",
+    "document_id": "wsj_2321"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause+Belief.Reason+Belief",
+    "arg1": "that Mr. Mason is \"like a dinosaur",
+    "arg2": "People are fast leaving the place where he is stuck",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "However, as expected, Brazil waited for the crop estimate to come out and then cut the export price of its juice concentrate to about $1.34 a pound from around $1.55",
+    "arg2": "Friday's consequent selling of futures contracts erased whatever supportive effect the U.S. report might have had and sent the November orange juice contract down as much as 6.55 cents a pound at one time",
+    "document_id": "wsj_2330"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "But Justice Brennan foresaw his new role",
+    "arg2": "strongly defending the importance of dissents in a 1985 speech",
+    "document_id": "wsj_2347"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "He expects the downturn to carry the Dow Jones Industrial Average down to around 2000 sometime next year",
+    "arg2": "That would be a normal bear market",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "From the investors' standpoint, institutions and individuals learned a painful lesson . . . by selling at the lows\" on Black Monday",
+    "arg2": "This time, \"I don't think we'll get a panic reaction",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "needed",
+    "arg2": "to win the capital-gains issue on the floor",
+    "document_id": "wsj_2372"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Should the courts uphold the validity of this type of defense, ASKO will then ask the court to overturn such a vote-diluting maneuver recently deployed by Koninklijke Ahold NV",
+    "arg2": "the Dutch-based international food retailer hadn't reasonable grounds to issue preferred stock to a friendly trust and thus dilute the worth and voting power of ASKO and other shareholders",
+    "document_id": "wsj_2383"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "This feels more like a one-shot deal",
+    "arg2": "People aren't panicking",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "that the Fed won't be able to live up to its tough words on eliminating inflation because of its responsibility to protect fragile financial markets, banks and highly leveraged corporations",
+    "arg2": "The biggest threat on the economic horizon right now isn't recession",
+    "document_id": "wsj_2397"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "stock buyers disappeared",
+    "arg2": "and stock and futures prices became disconnected",
+    "document_id": "wsj_2381"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "to sell blue-chip stocks such as Philip Morris and International Business Machines",
+    "arg2": "to offset their losses",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "There seems to be a move around the world to deregulate the generation of electricity",
+    "arg2": "and Canadian Utilities hopes to capitalize on it",
+    "document_id": "wsj_2309"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "The University is seeking to block the acquisition of Connaught by foreign interests",
+    "arg2": "concerns about the amount of research that would be done in Canada",
+    "document_id": "wsj_2339"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "However, these agencies generally agree that the West should be cautious about any further liberalization",
+    "arg2": "There's no evidence that the Soviet program to (illegally) acquire Western technology has diminished",
+    "document_id": "wsj_2326"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "But they will have to act quickly",
+    "arg2": "Compaq to unveil a family of high-end personal computers later this year that are powerful enough to serve as the hub for communications within large networks of desk-top machines",
+    "document_id": "wsj_2365"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "Unfortunately, by my rough guess, he used better than 5,000 words",
+    "arg2": "heaping scorn on the witnesses for exercising the Fifth",
+    "document_id": "wsj_2377"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "what happens now will depend a good deal on the Federal Reserve Board",
+    "arg2": "If it promptly cuts the discount rate it charges on loans to banks That could quiet things down.\" If not, \"We could go to 2200 very soon",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "GM is under intense pressure to close factories that became unprofitable as the giant auto maker's U.S. market share skidded during the past decade",
+    "arg2": "The company, currently using about 80% of its North American vehicle capacity, has vowed it will run at 100% of capacity by 1992",
+    "document_id": "wsj_2338"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Meanwhile, competition between various operating systems spells trouble for software firms generally",
+    "arg2": "It creates uncertainty and usually slows down sales",
+    "document_id": "wsj_2365"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "But most investors were seeking share prices and other information",
+    "arg2": "Trading volume was only modestly higher than normal",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Condition.Arg2-as-cond",
+    "arg1": "the disclosure couldn't be better timed",
+    "arg2": "to support the position of export-control hawks in the Pentagon and the intelligence community",
+    "document_id": "wsj_2326"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "The venture's importance for Thomson is great",
+    "arg2": "the future of its defense business depends on building cooperation with other Europeans",
+    "document_id": "wsj_2362"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "to step up to the plate",
+    "arg2": "to support the beleaguered floor traders by buying big blocks of stock",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "Canada's current oil exports to the U.S. total about 600,000 barrels a day, or about 9.1% of net U.S. crude imports",
+    "arg2": "That ranks Canada as the fourth-largest source of imported crude, behind Saudi Arabia, Nigeria and Mexico",
+    "document_id": "wsj_2363"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "There are about 2,000 stores for rent, up from a more typical range of 1,200 to 1,500",
+    "arg2": "This further confuses retailers",
+    "document_id": "wsj_2346"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "it reduced its rating on $165 million of subordinated debt of this Beverly Hills, Calif., thrift",
+    "arg2": "turmoil in the market for low-grade, high-yield securities",
+    "document_id": "wsj_2375"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Giveaways just give people the wrong image",
+    "arg2": "That perception takes the focus off the magazine",
+    "document_id": "wsj_2350"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "The cuts are necessary because Congress and the administration have failed to reach agreement on a deficit-cutting bill",
+    "arg2": "We simply don't have strong leadership to try to reduce the deficit and make tough choices",
+    "document_id": "wsj_2384"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "The interest-only securities were priced at 35 1/2",
+    "arg2": "to yield 10.72%",
+    "document_id": "wsj_2399"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "He sandwiched his praise of constitutional meat between large loaves of bilious commentary",
+    "arg2": "As your editorial rightly pointed out, Samuel Pierce, former HUD secretary, and Lance Wilson, Mr. Pierce's former aide, \"are currently being held up to scorn for taking the Fifth Amendment",
+    "document_id": "wsj_2377"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "Crude oil production may turn out to be the most surprising element of companies' earnings this year",
+    "arg2": "Prices have stayed well above most companies' expectations",
+    "document_id": "wsj_2325"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Result",
+    "arg1": "So CNN, a unit of Atlanta-based Turner Broadcasting System Inc., is trying to reposition itself as a primary channel",
+    "arg2": "Tonight, to kick off the effort, CNN will premiere its first prime-time newscast in years, an hourlong show at 6 p.m. Eastern time to air head-to-head against the network newscasts",
+    "document_id": "wsj_2351"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Purpose.Arg2-as-goal",
+    "arg1": "to be stepping up the pace of its factory consolidation",
+    "arg2": "to get in shape for the 1990s",
+    "document_id": "wsj_2338"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Contingency",
+    "sense_full": "Contingency.Cause.Reason",
+    "arg1": "If the market drops further today he'll be buying blue chips such as Bristol-Myers and Kellogg",
+    "arg2": "If they croak stocks like that it presents an opportunity that is \"the kind of thing you dream about",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg1-as-detail",
+    "arg1": "For instance: \"Haole\" (white) is not the ultimate insult; \"Mainland haole\" is.\nRichard Chamberlain dresses as a \"Mainland haole,\" tucking in a Hawaiian shirt and rolling up its long sleeves.\nAnd the local expression for brother is \"brah,\" not \"bruddah.\" And even if a nurse would wear flowers in her hair while on duty, if she were engaged she would know to wear them behind her left, not right, ear",
+    "arg2": "Sorry, the show does not even have the one redeeming quality of genuine local color",
+    "document_id": "wsj_2368"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "The pace of trading was orderly",
+    "arg2": "Nasdaq's Small Order Execution System \"worked beautifully,\" as did the automated system for larger trades, according to Mr. Hardiman",
+    "document_id": "wsj_2379"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "Like their younger counterparts, the older elderly are less likely to live with other relatives",
+    "arg2": "Only 17% of those aged 75 and older lived with relatives other than spouses in 1988, down from 26% in 1970",
+    "document_id": "wsj_2366"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "Many fund managers argue that now's the time to buy",
+    "arg2": "Vincent Bajakian, manager of the $1.8 billion Wellington Fund, added to his positions in Bristol-Myers Squibb, Woolworth and Dun & Bradstreet Friday",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Laidlaw Transportation lost 1 1/8 to 19 1/2",
+    "arg2": "the American depositary receipts of Jaguar were off 1/4 to 10 1/4",
+    "document_id": "wsj_2379"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Under the agreement, Gulf must give the U.S. government 45 days' advance written notice before issuing any dividends on common stock",
+    "arg2": "The company's net worth cannot fall below $185 million after the dividends are issued",
+    "document_id": "wsj_2344"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Mario Gabelli, for instance, holds cash positions well above 20% in several of his funds",
+    "arg2": "Windsor Fund's John Neff and Mutual Series' Michael Price said they had raised their cash levels to more than 20% and 30%, respectively, this year",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "At Fidelity Investments, the nation's largest fund company, telephone volume was up sharply, but it was still at just half the level of the weekend preceding Black Monday in 1987",
+    "arg2": "stock-fund redemptions were running at less than one-third the level two years ago",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "He said that many black voters feel bitter about racial discrimination, so they, too, support black candidates uncritically",
+    "arg2": "He said that Jews have contributed more to black causes over the years than vice versa",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "One of France's most popular Saturday night programs features semi-celebrities seeking out their grammar-school classmates for on-air reunions",
+    "arg2": "A Flemish game show has as its host a Belgian pretending to be Italian",
+    "document_id": "wsj_2361"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Equivalence",
+    "arg1": "to start from scratch",
+    "arg2": "to train writers and producers to make shows that other people will want to see",
+    "document_id": "wsj_2361"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "But, in the process, the Fed risks reigniting inflation",
+    "arg2": "Even before Friday's events, Harvard University economist Benjamin Friedman was arguing that the Fed won't be able to live up to its tough words on eliminating inflation because of its responsibility to protect fragile financial markets, banks and highly leveraged corporations",
+    "document_id": "wsj_2397"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "The market is so new, nobody knows yet how big it can be",
+    "arg2": "I've had a lot of people trying to sell me services to find out how big it is",
+    "document_id": "wsj_2387"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Equivalence",
+    "arg1": "The gap between winners and laggards will grow",
+    "arg2": "In personal computers, Apple, Compaq and IBM are expected to tighten their hold on their business.\nAt the same time, second-tier firms will continue to lose ground",
+    "document_id": "wsj_2365"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "after watching the success of Attack",
+    "arg2": "When Attack hit the shelves in 1987, P&G's share of the Japanese market fell to about 8% from more than 20%",
+    "document_id": "wsj_2320"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "The venture would strengthen the rapidly growing ties between the two companies, and help make them a leading force in European defense contracting",
+    "arg2": "In recent months, a string of cross-border mergers and joint ventures have reshaped the once-balkanized world of European arms manufacture",
+    "document_id": "wsj_2362"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "Last week, Boeing Chairman Frank Shrontz sent striking workers a letter",
+    "arg2": "saying that \"to my knowledge, Boeing's offer represents the best overall three-year contract of any major U.S. industrial firm in recent history",
+    "document_id": "wsj_2308"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "weighs less than a pound",
+    "arg2": "costs a mere $400",
+    "document_id": "wsj_2387"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "While oil prices have been better than expected, natural gas prices have been worse",
+    "arg2": "In the third quarter, they averaged about 5% less than they were in 1988",
+    "document_id": "wsj_2325"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "Several fund managers expect a rough market this morning before prices stabilize",
+    "arg2": "Some early selling is likely to stem from investors and portfolio managers who want to lock in this year's fat profits",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "despite all the media prattle about comedy and politics not mixing, they are similar in one respect",
+    "arg2": "Both can serve as mechanisms for easing tensions and facilitating the co-existence of groups in conflict",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "We view {Friday's} market decline as offering us a buying opportunity as long-term investors,\" a recording at Gabelli & Co. funds said over the weekend",
+    "arg2": "The Janus Group had a similar recording for investors",
+    "document_id": "wsj_2306"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "I see this as a reaction to the whole junk bond explosion",
+    "arg2": "The explosion of junk bonds and takeovers has lodged a lot of insecure securities in the hands of investors and loaded the corporations that are the objects of takeovers or feared takeovers with huge amounts of debt rather than equity",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Analysts don't see it that way. \"I can't imagine that you'll talk to anyone who won't tell you this is dynamite for Compaq and a stopper for everyone else,\" says Gene Talsky, president of Professional Marketing Management Inc",
+    "arg2": "Adds Bill Lempesis, senior industry analyst for DataQuest, a high-technology market research firm: \"We basically think that these are very hot products",
+    "document_id": "wsj_2387"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "MedChem said the court's ruling was issued as part of a \"first-phase trial\" in the patent-infringement proceedings and concerns only one of its defenses in the case",
+    "arg2": "It said it is considering \"all of its options in light of the decision, including a possible appeal",
+    "document_id": "wsj_2336"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Equivalence",
+    "arg1": "the changes represent a new focus in the magazine industry: a magazine's net revenue per subscriber, or the actual revenue from subscribers after discounts and the cost of premiums have been stripped away",
+    "arg2": "The question is how much are we getting from each reader",
+    "document_id": "wsj_2350"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "Quantum is also tightening its grip on its one large business outside chemicals, propane marketing",
+    "arg2": "Through a venture with its investment banker, First Boston Corp., Quantum completed in August an acquisition of Petrolane Inc. in a transaction valued at $1.18 billion",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "But Mr. Treybig questions whether that will be enough to stop Tandem's first mainframe from taking on some of the functions that large organizations previously sought from Big Blue's machines",
+    "arg2": "The answer isn't price reductions, but new systems",
+    "document_id": "wsj_2396"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "But a majority of the Addison council didn't buy those arguments",
+    "arg2": "Introducing pool, argued Councilwoman Riley Reinker, would be \"dangerous",
+    "document_id": "wsj_2367"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "While USA Today's total paid ad pages for the year to date totaled 2,735, a decrease of 4% from last year, the paper's ad revenue increased 8% in the quarter and 13% in the nine months",
+    "arg2": "In the nine months, Gannett's net rose 9.5% to $270 million, or $1.68 a share, from $247 million, or $1.52 a share",
+    "document_id": "wsj_2337"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Mr. Shidler's company specializes in commercial real-estate investment and claims to have $1 billion in assets",
+    "arg2": "Mr. Simpson is a developer and a former senior executive of L.J. Hooker",
+    "document_id": "wsj_2303"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "Late Friday night, the Senate voted 87-7 to approve an estimated $13.5 billion measure that had been stripped of hundreds of provisions that would have widened, rather than narrowed, the federal budget deficit",
+    "arg2": "Lawmakers drastically streamlined the bill to blunt criticism that it was bloated with special-interest tax breaks and spending increases",
+    "document_id": "wsj_2372"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "It focused on building up its news bureaus around the world, so as events took place it could go live quicker and longer than other networks",
+    "arg2": "It filled its daily schedule with newscasts called \"Daybreak,\" \"Daywatch,\" \"Newsday,\" and \"Newsnight,\" but the shows varied little in content, personality or look",
+    "document_id": "wsj_2351"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Right now they're telling me to get the hell out and stay out",
+    "arg2": "I see no major support until 2200",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Mr. Mason said that many Jewish voters feel guilty toward blacks, so they support black candidates uncritically",
+    "arg2": "He said that many black voters feel bitter about racial discrimination, so they, too, support black candidates uncritically",
+    "document_id": "wsj_2369"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "Obviously they're not in touch with what's going on",
+    "arg2": "Pool is hot in New York and Chicago where \"upscale, suit-and-tie places\" are adding tables",
+    "document_id": "wsj_2367"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "Another contradictory message comes from Businessland Inc., a computer retailer",
+    "arg2": "In July, the company reported that booming sales of new personal computers from Apple and IBM had resulted in net income more than doubling for its fourth quarter ended June 30 to $7.4 million, or 23 cents a share. \n\nThis month, however, Businessland warned investors that results for its first quarter ended Sept. 30 hadn't met expectations",
+    "document_id": "wsj_2365"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "In addition, Gulf must give the government 20 days' advance written notice of any loans exceeding $50 million that are made to the Bermuda-based holding company",
+    "arg2": "Gulf's net worth after those transaction must be at least $150 million",
+    "document_id": "wsj_2344"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Level-of-detail.Arg2-as-detail",
+    "arg1": "The St. Louis-based company is expected to report again that losses in its G.D. Searle & Co. pharmaceutical business are narrowing",
+    "arg2": "Searle continued to operate in the red through the first half of the year, but Monsanto has said it expects Searle to post a profit for all of 1989",
+    "document_id": "wsj_2398"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Substitution.Arg2-as-subst",
+    "arg1": "Workers at plants in Van Nuys, Calif., Oklahoma City and Pontiac, Mich., were told their facilities are no longer being considered to build the next generation of the Pontiac Firebird and Chevrolet Camaro muscle cars",
+    "arg2": "GM is studying whether it can build the new Camaro-Firebird profitably at a plant in St. Therese, Quebec, company and union officials said",
+    "document_id": "wsj_2338"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "For example, in the Oklahoma panhandle, 40% or more of the topsoil is short of moisture",
+    "arg2": "That figure climbs to about 47% in wheat-growing portions of Kansas",
+    "document_id": "wsj_2330"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "He ticks off several major differences between now and two years ago",
+    "arg2": "Unlike 1987, interest rates have been falling this year",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Substitution.Arg2-as-subst",
+    "arg1": "Allowing the defendant to take the Fifth in a civil matter is not based on a constitutional right to refuse to testify where one's testimony harms him in the civil matter",
+    "arg2": "but because the testimony in the civil matter could be unconstitutionally used against him in a subsequent criminal prosecution",
+    "document_id": "wsj_2377"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Instantiation.Arg2-as-instance",
+    "arg1": "seasonal retail ad spending patterns in newspapers have been upset by shifts in ownership and general hardships within the retail industry",
+    "arg2": "In New York, the Bonwit Teller and B. Altman & Co. department stores have filed for protection from creditors under Chapter 11 of the federal Bankruptcy Code",
+    "document_id": "wsj_2337"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "it marked the first time in its four-year history that the agency has made an adverse net-benefit decision about the acquisition of a publicly traded company",
+    "arg2": "it has reached the same conclusions about some attempts to buy closely held concerns, but eventually allowed those acquisitions to proceed",
+    "document_id": "wsj_2339"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Equivalence",
+    "arg1": "What we are doing is screening out the readers who are only casually related to the magazine and don't really read it",
+    "arg2": "We are trying to create quality and involvement",
+    "document_id": "wsj_2350"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Brazil is expected to negotiate a somewhat bigger share of the U.S. market than it had under the previous five-year steel quotas, which expired Sept. 30",
+    "arg2": "Brazil and Venezuela are the only two countries that haven't completed steel talks with the U.S. for the year ending Oct. 1, 1990",
+    "document_id": "wsj_2316"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Unlike 1987, interest rates have been falling this year",
+    "arg2": "Unlike 1987, the dollar has been strong",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "My unemployment insurance ran out before I found a job",
+    "arg2": "I found cutbacks and layoffs in many companies",
+    "document_id": "wsj_2373"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Expansion",
+    "sense_full": "Expansion.Conjunction",
+    "arg1": "Her friend Susan, whose parents kept reminding her she was unwanted, slept on a narrow bed wedged into her parents' bedroom, as though she were a temporary visitor",
+    "arg2": "Her friend Diana's father was a professional thief; they didn't seem to have any bedrooms at all",
+    "document_id": "wsj_2343"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Thousands of supporters gave the anti-apartheid activists a tumultuous reception upon their return to black townships across the country",
+    "arg2": "many brandishing flags of the outlawed African National Congress",
+    "document_id": "wsj_2356"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Rosie died",
+    "arg2": "young",
+    "document_id": "wsj_2343"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Tandem Computers Inc said it expects to post higher revenue and earnings for its fiscal fourth quarter ended Sept. 30",
+    "arg2": "preparing to fight with International Business Machines Corp. for a piece of the mainframe business",
+    "document_id": "wsj_2396"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "L.J. Hooker was a small home-building company based in Atlanta in 1979 when Mr. Simpson was hired to push it into commercial development",
+    "arg2": "The company grew modestly until 1986, when a majority position in Hooker Corp. was acquired by Australian developer George Herscu, currently Hooker's chairman",
+    "document_id": "wsj_2303"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "Shares of UAL, the parent of United Airlines, were extremely active all day Friday, reacting to news and rumors about the proposed $6.79 billion buy-out of the airline by an employee-management group",
+    "arg2": "Wall Street's takeover-stock speculators, or \"risk arbitragers,\" had placed unusually large bets that a takeover would succeed and UAL stock would rise",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "the principal-only securities were priced at 58 1/4 to yield 8.45%, assuming an average life of eight years and a prepayment of 160% of the PSA model",
+    "arg2": "The interest-only securities were priced at 35 1/2 to yield 10.72%",
+    "document_id": "wsj_2399"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "set up",
+    "arg2": "and shot down",
+    "document_id": "wsj_2378"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "get the hell out",
+    "arg2": "and stay out",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "The union is continuing to work through its expired contract, however",
+    "arg2": "It had planned a strike vote for next Sunday, but that has been pushed back indefinitely",
+    "document_id": "wsj_2308"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "Typically, a margin call occurs when the price of a stock falls below 75% of its original value",
+    "arg2": "If the investor doesn't put up the extra cash to satisfy the call, the brokerage firm may begin liquidating the securities",
+    "document_id": "wsj_2393"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "was originally in the Senate bill",
+    "arg2": "but was cut out because it lost money",
+    "document_id": "wsj_2372"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "But Mrs. Hills stressed that the objective \"is not to get definitive action by spring or summer, it is rather to have a blueprint for action",
+    "arg2": "speaking at a breakfast meeting of the American Chamber of Commerce in Japan on Saturday",
+    "document_id": "wsj_2321"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Prices for capital equipment rose a hefty 1.1% in September, while prices for home electronic equipment fell 1.1%",
+    "arg2": "Food prices declined 0.6%, after climbing 0.3% in August",
+    "document_id": "wsj_2358"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "A State Department spokesman acknowledged that the U.S. is discussing the allegations with the Italian government and Cocom, but declined to confirm any details",
+    "arg2": "Italian President Francesco Cossiga promised a quick investigation into whether Olivetti broke Cocom rules",
+    "document_id": "wsj_2326"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "these producers now see their prices eroding",
+    "arg2": "Having just passed through one of the most profitable periods in their history",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "this happened two years ago",
+    "arg2": "and there was a recovery",
+    "document_id": "wsj_2345"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "McCaw lost 8%, or 3 1/2, to 40",
+    "arg2": "LIN Broadcasting, dropped 5 1/2, or 5%, to 107 1/2",
+    "document_id": "wsj_2379"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "natural gas prices are anywhere from 8% to 17% lower than a year earlier",
+    "arg2": "Going into the fourth quarter",
+    "document_id": "wsj_2325"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "Mr. Crandall smiled broadly and said: \"No comment",
+    "arg2": "Asked whether Friday's action could help him avoid being Trumped by the New York real estate magnate",
+    "document_id": "wsj_2345"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "the executive replied, \"That isn't the reason Dreyfus has been brought in.\nHe was brought in to turn around the company",
+    "arg2": "Asked about the speculation that Mr. Louis-Dreyfus has been hired to pave the way for a buy-out by the brothers",
+    "document_id": "wsj_2331"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Mr. Shidler said that he believes the various Hooker malls can become profitable with new management",
+    "arg2": "Reached in Honolulu",
+    "document_id": "wsj_2303"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "A year ago ethylene sold for 33 cents",
+    "arg2": "peaking at about 34 cents last December",
+    "document_id": "wsj_2325"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "AIM Telephones Inc., a Parsippany, N.J., telecommunications equipment supply company, started trading with the symbol AIM",
+    "arg2": "It had traded over-the-counter",
+    "document_id": "wsj_2346"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "Friday's consequent selling of futures contracts erased whatever supportive effect the U.S. report might have had and sent the November orange juice contract down as much as 6.55 cents a pound at one time",
+    "arg2": "It settled with a loss of 4.95 cents at $1.3210 a pound",
+    "document_id": "wsj_2330"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "New Mexico Sen. Pete Domenici, the ranking Republican on the Senate Budget Committee, said, \"We're looking like idiots.\nThings had just gone too far",
+    "arg2": "Asked why senators were giving up so much",
+    "document_id": "wsj_2372"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "he remarks, \"Some say October.\nSome say November.\nI say 1992",
+    "arg2": "Noting others' estimates of when price increases can be sustained",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "she felt",
+    "arg2": "living in the AnaMor Towers as a little girl",
+    "document_id": "wsj_2343"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Tandem expects to report the full results for the quarter next week",
+    "arg2": "Analysts have predicted that the Cupertino, Calif., company will report revenue of $430 million to $460 million and earnings of 35 cents to 40 cents a share",
+    "document_id": "wsj_2396"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "the market will be heading down into November",
+    "arg2": "We will probably have a year-end rally",
+    "document_id": "wsj_2376"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "These included International Business Machines Corp., which during Friday's session traded below $100 a share for the first time since June 1984",
+    "arg2": "IBM closed at $102, down $5.625",
+    "document_id": "wsj_2391"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "Columbia Laboratories Inc., Miami, began trading with the symbol COB",
+    "arg2": "The pharmaceuticals maker had traded over-the-counter",
+    "document_id": "wsj_2346"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Madison and Fifth Avenues and East 57th Street can command rents of up to $500 a square foot, and $250 is not uncommon",
+    "arg2": "The thriving 34th Street area offers rents of about $100 a square foot, as do up-and-coming locations along lower Fifth Avenue",
+    "document_id": "wsj_2346"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "review it",
+    "arg2": "and bring it to the attention of the creditors committee",
+    "document_id": "wsj_2303"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "nervously sold stock Friday",
+    "arg2": "and never returned to bargain-hunt",
+    "document_id": "wsj_2379"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "ASKO also disclosed it holds a 15% stake in Ahold",
+    "arg2": "Speaking through its Dutch lawyers",
+    "document_id": "wsj_2383"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "More than 2,100 others escaped to West Germany through Hungary over the Weekend",
+    "arg2": "In Leipzig, activists vowed to continue street protests to demand internal change",
+    "document_id": "wsj_2356"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "got out just before the 1987 crash",
+    "arg2": "and, to his regret, never went back even as the market soared",
+    "document_id": "wsj_2386"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "As a result, the link between the futures and stock markets ripped apart",
+    "arg2": "Without the guidepost of stock-index futures -- the barometer of where traders think the overall stock market is headed -- many traders were afraid to trust stock prices quoted on the Big Board",
+    "document_id": "wsj_2300"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "The broadcast group had been based in New York until a year ago, when RJR's previous management moved it to Atlanta",
+    "arg2": "RJR moved 11 employees of the group back to New York in September because \"there was supposed to be a future",
+    "document_id": "wsj_2315"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "The S&L lawyers were encouraged last month by an appellate-court ruling in two cases brought against defunct Sunbelt Savings & Loan Association of Dallas by the developers of the Valley Ranch, best known as the training center for the Dallas Cowboys football team",
+    "arg2": "Sunbelt foreclosed on the ranch",
+    "document_id": "wsj_2354"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "L.J. Hooker, based in Atlanta, is operating with protection from its creditors under Chapter 11 of the U.S. Bankruptcy Code",
+    "arg2": "Its parent company, Hooker Corp. of Sydney, Australia, is currently being managed by a court-appointed provisional liquidator",
+    "document_id": "wsj_2303"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "Apparently, their verdict is in",
+    "arg2": "Right now they're pursuing evidence",
+    "document_id": "wsj_2377"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "smiled broadly",
+    "arg2": "and said: \"No comment",
+    "document_id": "wsj_2345"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Producer prices for intermediate goods grew 0.4% in September, after dropping for three consecutive months",
+    "arg2": "Prices for crude goods, an array of raw materials, jumped 1.1% after declining 1.9% in August and edging up 0.2% in July",
+    "document_id": "wsj_2358"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Synchronous",
+    "arg1": "Hundreds of East Germans flocked to Bonn's Embassy in Warsaw, bringing to more than 1,200 the number of emigres expected to flee to the West beginning today",
+    "arg2": "More than 2,100 others escaped to West Germany through Hungary over the Weekend",
+    "document_id": "wsj_2356"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "a BP spokesman says, \"We pretty much have a policy of not commenting on rumors, and I think that falls in that category",
+    "arg2": "Asked about a bid for Quantum",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "Oregon Sen. Bob Packwood, the ranking GOP member of the tax-writing Senate Finance Committee, hailed it",
+    "arg2": "Asked if the administration agreed, he curtly replied: \"The adminstration will have to speak for itself",
+    "document_id": "wsj_2384"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "I was buying at the close (Friday)",
+    "arg2": "and I'll be buying again",
+    "document_id": "wsj_2381"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Succession",
+    "arg1": "The stock closed at $34.375 share, down $1.125, in New York Stock Exchange composite trading Friday",
+    "arg2": "having lost nearly a quarter of its value since Sept. 1",
+    "document_id": "wsj_2314"
+  },
+  {
+    "rel_type": "Implicit",
+    "sense_l1": "Temporal",
+    "sense_full": "Temporal.Asynchronous.Precedence",
+    "arg1": "that shipments to Phoenix started late last month",
+    "arg2": "the company will study results from this market before expanding to others",
+    "document_id": "wsj_2320"
+  }
+]

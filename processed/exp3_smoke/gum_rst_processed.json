@@ -1,0 +1,4664 @@
+[
+  {
+    "document_id": "GENTLE_dictionary_next",
+    "genre": "dictionary",
+    "segments": [
+      {
+        "segment_id": 1,
+        "text": "next",
+        "role": "satellite",
+        "position_ratio": 0.0
+      },
+      {
+        "segment_id": 2,
+        "text": "English",
+        "role": "nucleus",
+        "position_ratio": 0.007519
+      },
+      {
+        "segment_id": 3,
+        "text": "Alternative forms",
+        "role": "nucleus",
+        "position_ratio": 0.015038
+      },
+      {
+        "segment_id": 4,
+        "text": "neest",
+        "role": "nucleus",
+        "position_ratio": 0.022556
+      },
+      {
+        "segment_id": 5,
+        "text": "( dialectal )",
+        "role": "satellite",
+        "position_ratio": 0.030075
+      },
+      {
+        "segment_id": 6,
+        "text": "neist",
+        "role": "nucleus",
+        "position_ratio": 0.037594
+      },
+      {
+        "segment_id": 7,
+        "text": "( Scotland )",
+        "role": "satellite",
+        "position_ratio": 0.045113
+      },
+      {
+        "segment_id": 8,
+        "text": "nex",
+        "role": "nucleus",
+        "position_ratio": 0.052632
+      },
+      {
+        "segment_id": 9,
+        "text": "( archaic )",
+        "role": "satellite",
+        "position_ratio": 0.06015
+      },
+      {
+        "segment_id": 10,
+        "text": "nex'",
+        "role": "nucleus",
+        "position_ratio": 0.067669
+      },
+      {
+        "segment_id": 11,
+        "text": "( dialectal )",
+        "role": "satellite",
+        "position_ratio": 0.075188
+      },
+      {
+        "segment_id": 12,
+        "text": "Etymology",
+        "role": "nucleus",
+        "position_ratio": 0.082707
+      },
+      {
+        "segment_id": 13,
+        "text": "From Middle English nexte , nexste , nixte , from Old English nīehsta , nīehste , etc. , inflected forms of nīehst",
+        "role": "nucleus",
+        "position_ratio": 0.090226
+      },
+      {
+        "segment_id": 14,
+        "text": "( “ nearest , next ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.097744
+      },
+      {
+        "segment_id": 15,
+        "text": "superlative form of nēah",
+        "role": "nucleus",
+        "position_ratio": 0.105263
+      },
+      {
+        "segment_id": 16,
+        "text": "( “ nigh , near ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.112782
+      },
+      {
+        "segment_id": 17,
+        "text": "corresponding to Proto-Germanic *nēhwist",
+        "role": "nucleus",
+        "position_ratio": 0.120301
+      },
+      {
+        "segment_id": 18,
+        "text": "( “ nearest , closest ” ) ;",
+        "role": "satellite",
+        "position_ratio": 0.12782
+      },
+      {
+        "segment_id": 19,
+        "text": "equivalent to nigh + -est .",
+        "role": "nucleus",
+        "position_ratio": 0.135338
+      },
+      {
+        "segment_id": 20,
+        "text": "Cognate with Saterland Frisian naist",
+        "role": "nucleus",
+        "position_ratio": 0.142857
+      },
+      {
+        "segment_id": 21,
+        "text": "( “ next ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.150376
+      },
+      {
+        "segment_id": 22,
+        "text": "Dutch naast",
+        "role": "nucleus",
+        "position_ratio": 0.157895
+      },
+      {
+        "segment_id": 23,
+        "text": "( “ next ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.165414
+      },
+      {
+        "segment_id": 24,
+        "text": "German nächst",
+        "role": "nucleus",
+        "position_ratio": 0.172932
+      },
+      {
+        "segment_id": 25,
+        "text": "( “ next ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.180451
+      },
+      {
+        "segment_id": 26,
+        "text": "Danish næste",
+        "role": "nucleus",
+        "position_ratio": 0.18797
+      },
+      {
+        "segment_id": 27,
+        "text": "( “ next ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.195489
+      },
+      {
+        "segment_id": 28,
+        "text": "Swedish näst",
+        "role": "nucleus",
+        "position_ratio": 0.203008
+      },
+      {
+        "segment_id": 29,
+        "text": "( “ next ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.210526
+      },
+      {
+        "segment_id": 30,
+        "text": "Icelandic næst",
+        "role": "nucleus",
+        "position_ratio": 0.218045
+      },
+      {
+        "segment_id": 31,
+        "text": "( “ next ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.225564
+      },
+      {
+        "segment_id": 32,
+        "text": "Persian نزد",
+        "role": "nucleus",
+        "position_ratio": 0.233083
+      },
+      {
+        "segment_id": 33,
+        "text": "( nazd , “ near , with ” ) .",
+        "role": "satellite",
+        "position_ratio": 0.240602
+      },
+      {
+        "segment_id": 34,
+        "text": "Pronunciation",
+        "role": "nucleus",
+        "position_ratio": 0.24812
+      },
+      {
+        "segment_id": 35,
+        "text": "enPR :",
+        "role": "satellite",
+        "position_ratio": 0.255639
+      },
+      {
+        "segment_id": 36,
+        "text": "nĕ kst ,",
+        "role": "nucleus",
+        "position_ratio": 0.263158
+      },
+      {
+        "segment_id": 37,
+        "text": "IPA",
+        "role": "nucleus",
+        "position_ratio": 0.270677
+      },
+      {
+        "segment_id": 38,
+        "text": "( key ) :",
+        "role": "satellite",
+        "position_ratio": 0.278195
+      },
+      {
+        "segment_id": 39,
+        "text": "/ nɛkst /",
+        "role": "nucleus",
+        "position_ratio": 0.285714
+      },
+      {
+        "segment_id": 40,
+        "text": "Audio ( US )",
+        "role": "nucleus",
+        "position_ratio": 0.293233
+      },
+      {
+        "segment_id": 41,
+        "text": "Rhymes :",
+        "role": "satellite",
+        "position_ratio": 0.300752
+      },
+      {
+        "segment_id": 42,
+        "text": "-ɛkst",
+        "role": "nucleus",
+        "position_ratio": 0.308271
+      },
+      {
+        "segment_id": 43,
+        "text": "Adjective",
+        "role": "satellite",
+        "position_ratio": 0.315789
+      },
+      {
+        "segment_id": 44,
+        "text": "next",
+        "role": "nucleus",
+        "position_ratio": 0.323308
+      },
+      {
+        "segment_id": 45,
+        "text": "( not comparable )",
+        "role": "satellite",
+        "position_ratio": 0.330827
+      },
+      {
+        "segment_id": 46,
+        "text": "Nearest in place or position ,",
+        "role": "nucleus",
+        "position_ratio": 0.338346
+      },
+      {
+        "segment_id": 47,
+        "text": "having nothing similar",
+        "role": "nucleus",
+        "position_ratio": 0.345865
+      },
+      {
+        "segment_id": 48,
+        "text": "intervening ;",
+        "role": "satellite",
+        "position_ratio": 0.353383
+      },
+      {
+        "segment_id": 49,
+        "text": "adjoining .",
+        "role": "nucleus",
+        "position_ratio": 0.360902
+      },
+      {
+        "segment_id": 50,
+        "text": "The man in the next bunk kept me awake all night with his snoring .",
+        "role": "nucleus",
+        "position_ratio": 0.368421
+      },
+      {
+        "segment_id": 51,
+        "text": "She lives a mile or two away , in the next village .",
+        "role": "nucleus",
+        "position_ratio": 0.37594
+      },
+      {
+        "segment_id": 52,
+        "text": "( obsolete )",
+        "role": "satellite",
+        "position_ratio": 0.383459
+      },
+      {
+        "segment_id": 53,
+        "text": "Most direct , or shortest or nearest in distance or time .",
+        "role": "nucleus",
+        "position_ratio": 0.390977
+      },
+      {
+        "segment_id": 54,
+        "text": "Nearest in order , succession , or rank ;",
+        "role": "nucleus",
+        "position_ratio": 0.398496
+      },
+      {
+        "segment_id": 55,
+        "text": "immediately following",
+        "role": "nucleus",
+        "position_ratio": 0.406015
+      },
+      {
+        "segment_id": 56,
+        "text": "( or sometimes preceding )",
+        "role": "satellite",
+        "position_ratio": 0.413534
+      },
+      {
+        "segment_id": 57,
+        "text": "in order .",
+        "role": "nucleus",
+        "position_ratio": 0.421053
+      },
+      {
+        "segment_id": 58,
+        "text": "Please turn to the next page .",
+        "role": "nucleus",
+        "position_ratio": 0.428571
+      },
+      {
+        "segment_id": 59,
+        "text": "On Wednesday next , I 'm going to Spain .",
+        "role": "nucleus",
+        "position_ratio": 0.43609
+      },
+      {
+        "segment_id": 60,
+        "text": "the next chapter ; the next week ; the Sunday next before Easter",
+        "role": "nucleus",
+        "position_ratio": 0.443609
+      },
+      {
+        "segment_id": 61,
+        "text": "The man was driven by his love for money and his desire",
+        "role": "nucleus",
+        "position_ratio": 0.451128
+      },
+      {
+        "segment_id": 62,
+        "text": "to become the next Bill Gates .",
+        "role": "satellite",
+        "position_ratio": 0.458647
+      },
+      {
+        "segment_id": 63,
+        "text": "( chiefly law )",
+        "role": "satellite",
+        "position_ratio": 0.466165
+      },
+      {
+        "segment_id": 64,
+        "text": "Nearest in relationship .",
+        "role": "nucleus",
+        "position_ratio": 0.473684
+      },
+      {
+        "segment_id": 65,
+        "text": "( See also next of kin . )",
+        "role": "satellite",
+        "position_ratio": 0.481203
+      },
+      {
+        "segment_id": 66,
+        "text": "next friend",
+        "role": "satellite",
+        "position_ratio": 0.488722
+      },
+      {
+        "segment_id": 67,
+        "text": "Usage notes",
+        "role": "nucleus",
+        "position_ratio": 0.496241
+      },
+      {
+        "segment_id": 68,
+        "text": "Near was originally the comparative form of nigh ;",
+        "role": "nucleus",
+        "position_ratio": 0.503759
+      },
+      {
+        "segment_id": 69,
+        "text": "the superlative form was next .",
+        "role": "nucleus",
+        "position_ratio": 0.511278
+      },
+      {
+        "segment_id": 70,
+        "text": "Nigh is used today mostly in archaic , poetic , or regional contexts .",
+        "role": "nucleus",
+        "position_ratio": 0.518797
+      },
+      {
+        "segment_id": 71,
+        "text": "Synonyms",
+        "role": "satellite",
+        "position_ratio": 0.526316
+      },
+      {
+        "segment_id": 72,
+        "text": "( nearest in order ) :",
+        "role": "satellite",
+        "position_ratio": 0.533835
+      },
+      {
+        "segment_id": 73,
+        "text": "See also Thesaurus : former or Thesaurus : subsequent",
+        "role": "nucleus",
+        "position_ratio": 0.541353
+      },
+      {
+        "segment_id": 74,
+        "text": "Antonyms",
+        "role": "satellite",
+        "position_ratio": 0.548872
+      },
+      {
+        "segment_id": 75,
+        "text": "previous",
+        "role": "nucleus",
+        "position_ratio": 0.556391
+      },
+      {
+        "segment_id": 76,
+        "text": "Derived terms",
+        "role": "satellite",
+        "position_ratio": 0.56391
+      },
+      {
+        "segment_id": 77,
+        "text": "next - day",
+        "role": "nucleus",
+        "position_ratio": 0.571429
+      },
+      {
+        "segment_id": 78,
+        "text": "Determiner",
+        "role": "satellite",
+        "position_ratio": 0.578947
+      },
+      {
+        "segment_id": 79,
+        "text": "next",
+        "role": "nucleus",
+        "position_ratio": 0.586466
+      },
+      {
+        "segment_id": 80,
+        "text": "Denotes the one",
+        "role": "nucleus",
+        "position_ratio": 0.593985
+      },
+      {
+        "segment_id": 81,
+        "text": "immediately following the current or most recent one .",
+        "role": "satellite",
+        "position_ratio": 0.601504
+      },
+      {
+        "segment_id": 82,
+        "text": "Next week would be a good time",
+        "role": "nucleus",
+        "position_ratio": 0.609023
+      },
+      {
+        "segment_id": 83,
+        "text": "to meet .",
+        "role": "satellite",
+        "position_ratio": 0.616541
+      },
+      {
+        "segment_id": 84,
+        "text": "I 'll know better next time .",
+        "role": "nucleus",
+        "position_ratio": 0.62406
+      },
+      {
+        "segment_id": 85,
+        "text": "( of days of the week or months of the year )",
+        "role": "satellite",
+        "position_ratio": 0.631579
+      },
+      {
+        "segment_id": 86,
+        "text": "Closest in the future , or closest but one",
+        "role": "nucleus",
+        "position_ratio": 0.639098
+      },
+      {
+        "segment_id": 87,
+        "text": "if the closest is very soon ;",
+        "role": "satellite",
+        "position_ratio": 0.646617
+      },
+      {
+        "segment_id": 88,
+        "text": "of days , sometimes thought to specifically refer to the instance closest to seven days",
+        "role": "nucleus",
+        "position_ratio": 0.654135
+      },
+      {
+        "segment_id": 89,
+        "text": "( one week )",
+        "role": "satellite",
+        "position_ratio": 0.661654
+      },
+      {
+        "segment_id": 90,
+        "text": "in the future .",
+        "role": "nucleus",
+        "position_ratio": 0.669173
+      },
+      {
+        "segment_id": 91,
+        "text": "The party is next Tuesday ;",
+        "role": "nucleus",
+        "position_ratio": 0.676692
+      },
+      {
+        "segment_id": 92,
+        "text": "that is ,",
+        "role": "nucleus",
+        "position_ratio": 0.684211
+      },
+      {
+        "segment_id": 93,
+        "text": "not tomorrow ,",
+        "role": "satellite",
+        "position_ratio": 0.691729
+      },
+      {
+        "segment_id": 94,
+        "text": "but eight days from now .",
+        "role": "nucleus",
+        "position_ratio": 0.699248
+      },
+      {
+        "segment_id": 95,
+        "text": "When you say next Thursday ,",
+        "role": "satellite",
+        "position_ratio": 0.706767
+      },
+      {
+        "segment_id": 96,
+        "text": "do you mean Thursday this week or Thursday next week ?",
+        "role": "nucleus",
+        "position_ratio": 0.714286
+      },
+      {
+        "segment_id": 97,
+        "text": "See also",
+        "role": "nucleus",
+        "position_ratio": 0.721805
+      },
+      {
+        "segment_id": 98,
+        "text": "last",
+        "role": "nucleus",
+        "position_ratio": 0.729323
+      },
+      {
+        "segment_id": 99,
+        "text": "this",
+        "role": "nucleus",
+        "position_ratio": 0.736842
+      },
+      {
+        "segment_id": 100,
+        "text": "this coming",
+        "role": "nucleus",
+        "position_ratio": 0.744361
+      },
+      {
+        "segment_id": 101,
+        "text": "week",
+        "role": "nucleus",
+        "position_ratio": 0.75188
+      },
+      {
+        "segment_id": 102,
+        "text": "( as in Saturday week )",
+        "role": "satellite",
+        "position_ratio": 0.759398
+      },
+      {
+        "segment_id": 103,
+        "text": "Adverb",
+        "role": "satellite",
+        "position_ratio": 0.766917
+      },
+      {
+        "segment_id": 104,
+        "text": "next",
+        "role": "nucleus",
+        "position_ratio": 0.774436
+      },
+      {
+        "segment_id": 105,
+        "text": "( not comparable )",
+        "role": "satellite",
+        "position_ratio": 0.781955
+      },
+      {
+        "segment_id": 106,
+        "text": "In a time , place , rank or sequence closest or following .",
+        "role": "nucleus",
+        "position_ratio": 0.789474
+      },
+      {
+        "segment_id": 107,
+        "text": "They live in the next closest house .",
+        "role": "nucleus",
+        "position_ratio": 0.796992
+      },
+      {
+        "segment_id": 108,
+        "text": "It 's the next best thing to ice cream .",
+        "role": "nucleus",
+        "position_ratio": 0.804511
+      },
+      {
+        "segment_id": 109,
+        "text": "( conjunctive )",
+        "role": "satellite",
+        "position_ratio": 0.81203
+      },
+      {
+        "segment_id": 110,
+        "text": "So as to follow in time or sequence something",
+        "role": "nucleus",
+        "position_ratio": 0.819549
+      },
+      {
+        "segment_id": 111,
+        "text": "previously mentioned .",
+        "role": "satellite",
+        "position_ratio": 0.827068
+      },
+      {
+        "segment_id": 112,
+        "text": "First we removed all the handles ;",
+        "role": "nucleus",
+        "position_ratio": 0.834586
+      },
+      {
+        "segment_id": 113,
+        "text": "next , we stripped off the old paint .",
+        "role": "nucleus",
+        "position_ratio": 0.842105
+      },
+      {
+        "segment_id": 114,
+        "text": "On the first subsequent occasion .",
+        "role": "nucleus",
+        "position_ratio": 0.849624
+      },
+      {
+        "segment_id": 115,
+        "text": "Financial panic , earthquakes , oil spills , riots .",
+        "role": "satellite",
+        "position_ratio": 0.857143
+      },
+      {
+        "segment_id": 116,
+        "text": "What comes next ?",
+        "role": "nucleus",
+        "position_ratio": 0.864662
+      },
+      {
+        "segment_id": 117,
+        "text": "When we next meet ,",
+        "role": "satellite",
+        "position_ratio": 0.87218
+      },
+      {
+        "segment_id": 118,
+        "text": "you 'll be married .",
+        "role": "nucleus",
+        "position_ratio": 0.879699
+      },
+      {
+        "segment_id": 119,
+        "text": "Antonyms",
+        "role": "satellite",
+        "position_ratio": 0.887218
+      },
+      {
+        "segment_id": 120,
+        "text": "previously",
+        "role": "nucleus",
+        "position_ratio": 0.894737
+      },
+      {
+        "segment_id": 121,
+        "text": "Preposition",
+        "role": "satellite",
+        "position_ratio": 0.902256
+      },
+      {
+        "segment_id": 122,
+        "text": "next",
+        "role": "satellite",
+        "position_ratio": 0.909774
+      },
+      {
+        "segment_id": 123,
+        "text": "( obsolete or poetic )",
+        "role": "satellite",
+        "position_ratio": 0.917293
+      },
+      {
+        "segment_id": 124,
+        "text": "On the side of ; nearest or adjacent to ; next to .",
+        "role": "nucleus",
+        "position_ratio": 0.924812
+      },
+      {
+        "segment_id": 125,
+        "text": "Noun",
+        "role": "satellite",
+        "position_ratio": 0.932331
+      },
+      {
+        "segment_id": 126,
+        "text": "next",
+        "role": "nucleus",
+        "position_ratio": 0.93985
+      },
+      {
+        "segment_id": 127,
+        "text": "( uncountable )",
+        "role": "satellite",
+        "position_ratio": 0.947368
+      },
+      {
+        "segment_id": 128,
+        "text": "The one",
+        "role": "nucleus",
+        "position_ratio": 0.954887
+      },
+      {
+        "segment_id": 129,
+        "text": "that follows after this one .",
+        "role": "satellite",
+        "position_ratio": 0.962406
+      },
+      {
+        "segment_id": 130,
+        "text": "Next , please ,",
+        "role": "nucleus",
+        "position_ratio": 0.969925
+      },
+      {
+        "segment_id": 131,
+        "text": "do n't hold up the queue !",
+        "role": "nucleus",
+        "position_ratio": 0.977444
+      },
+      {
+        "segment_id": 132,
+        "text": "One moment she was there ,",
+        "role": "nucleus",
+        "position_ratio": 0.984962
+      },
+      {
+        "segment_id": 133,
+        "text": "the next she was n't .",
+        "role": "nucleus",
+        "position_ratio": 0.992481
+      },
+      {
+        "segment_id": 134,
+        "text": "The week after next",
+        "role": "nucleus",
+        "position_ratio": 1.0
+      }
+    ]
+  },
+  {
+    "document_id": "GENTLE_dictionary_school",
+    "genre": "dictionary",
+    "segments": [
+      {
+        "segment_id": 1,
+        "text": "school",
+        "role": "satellite",
+        "position_ratio": 0.0
+      },
+      {
+        "segment_id": 2,
+        "text": "English",
+        "role": "nucleus",
+        "position_ratio": 0.00625
+      },
+      {
+        "segment_id": 3,
+        "text": "Pronunciation",
+        "role": "nucleus",
+        "position_ratio": 0.0125
+      },
+      {
+        "segment_id": 4,
+        "text": "enPR :",
+        "role": "satellite",
+        "position_ratio": 0.01875
+      },
+      {
+        "segment_id": 5,
+        "text": "sko͞ol ,",
+        "role": "nucleus",
+        "position_ratio": 0.025
+      },
+      {
+        "segment_id": 6,
+        "text": "IPA",
+        "role": "nucleus",
+        "position_ratio": 0.03125
+      },
+      {
+        "segment_id": 7,
+        "text": "( key ) :",
+        "role": "satellite",
+        "position_ratio": 0.0375
+      },
+      {
+        "segment_id": 8,
+        "text": "/ skuːl /",
+        "role": "nucleus",
+        "position_ratio": 0.04375
+      },
+      {
+        "segment_id": 9,
+        "text": "Audio",
+        "role": "nucleus",
+        "position_ratio": 0.05
+      },
+      {
+        "segment_id": 10,
+        "text": "( Received Pronunciation )",
+        "role": "satellite",
+        "position_ratio": 0.05625
+      },
+      {
+        "segment_id": 11,
+        "text": "Rhymes :",
+        "role": "satellite",
+        "position_ratio": 0.0625
+      },
+      {
+        "segment_id": 12,
+        "text": "-uːl",
+        "role": "nucleus",
+        "position_ratio": 0.06875
+      },
+      {
+        "segment_id": 13,
+        "text": "Etymology 1",
+        "role": "nucleus",
+        "position_ratio": 0.075
+      },
+      {
+        "segment_id": 14,
+        "text": "From Middle English scole , schole",
+        "role": "nucleus",
+        "position_ratio": 0.08125
+      },
+      {
+        "segment_id": 15,
+        "text": "( “ group of persons , multitude , host , school of fish ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.0875
+      },
+      {
+        "segment_id": 16,
+        "text": "from Middle Dutch scole",
+        "role": "nucleus",
+        "position_ratio": 0.09375
+      },
+      {
+        "segment_id": 17,
+        "text": "( “ multitude , troop of people , swarm of animals ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.1
+      },
+      {
+        "segment_id": 18,
+        "text": "from Old Dutch *scola , *skola",
+        "role": "nucleus",
+        "position_ratio": 0.10625
+      },
+      {
+        "segment_id": 19,
+        "text": "( “ troop , multitude ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.1125
+      },
+      {
+        "segment_id": 20,
+        "text": "from Proto-Germanic *skulō",
+        "role": "nucleus",
+        "position_ratio": 0.11875
+      },
+      {
+        "segment_id": 21,
+        "text": "( “ crowd ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.125
+      },
+      {
+        "segment_id": 22,
+        "text": "from Proto-Indo-European *(s)kʷel-",
+        "role": "nucleus",
+        "position_ratio": 0.13125
+      },
+      {
+        "segment_id": 23,
+        "text": "( “ crowd , people ” ) .",
+        "role": "satellite",
+        "position_ratio": 0.1375
+      },
+      {
+        "segment_id": 24,
+        "text": "Cognate with Middle Low German schōle",
+        "role": "nucleus",
+        "position_ratio": 0.14375
+      },
+      {
+        "segment_id": 25,
+        "text": "( “ multitude , troop ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.15
+      },
+      {
+        "segment_id": 26,
+        "text": "Old English scolu",
+        "role": "nucleus",
+        "position_ratio": 0.15625
+      },
+      {
+        "segment_id": 27,
+        "text": "( “ troop or band of people , host , multitude , school of fish ” ) .",
+        "role": "satellite",
+        "position_ratio": 0.1625
+      },
+      {
+        "segment_id": 28,
+        "text": "Doublet of shoal .",
+        "role": "nucleus",
+        "position_ratio": 0.16875
+      },
+      {
+        "segment_id": 29,
+        "text": "Alternative forms",
+        "role": "satellite",
+        "position_ratio": 0.175
+      },
+      {
+        "segment_id": 30,
+        "text": "skull",
+        "role": "nucleus",
+        "position_ratio": 0.18125
+      },
+      {
+        "segment_id": 31,
+        "text": "( obsolete )",
+        "role": "satellite",
+        "position_ratio": 0.1875
+      },
+      {
+        "segment_id": 32,
+        "text": "Noun",
+        "role": "satellite",
+        "position_ratio": 0.19375
+      },
+      {
+        "segment_id": 33,
+        "text": "school",
+        "role": "nucleus",
+        "position_ratio": 0.2
+      },
+      {
+        "segment_id": 34,
+        "text": "( 1 )",
+        "role": "satellite",
+        "position_ratio": 0.20625
+      },
+      {
+        "segment_id": 35,
+        "text": "of fish .",
+        "role": "nucleus",
+        "position_ratio": 0.2125
+      },
+      {
+        "segment_id": 36,
+        "text": "school",
+        "role": "nucleus",
+        "position_ratio": 0.21875
+      },
+      {
+        "segment_id": 37,
+        "text": "( plural schools )",
+        "role": "satellite",
+        "position_ratio": 0.225
+      },
+      {
+        "segment_id": 38,
+        "text": "( collective )",
+        "role": "satellite",
+        "position_ratio": 0.23125
+      },
+      {
+        "segment_id": 39,
+        "text": "A group of fish or a group of marine mammals such as porpoises , dolphins , or whales .",
+        "role": "nucleus",
+        "position_ratio": 0.2375
+      },
+      {
+        "segment_id": 40,
+        "text": "The divers encountered a huge school of mackerel .",
+        "role": "satellite",
+        "position_ratio": 0.24375
+      },
+      {
+        "segment_id": 41,
+        "text": "A multitude .",
+        "role": "nucleus",
+        "position_ratio": 0.25
+      },
+      {
+        "segment_id": 42,
+        "text": "Synonyms",
+        "role": "satellite",
+        "position_ratio": 0.25625
+      },
+      {
+        "segment_id": 43,
+        "text": "( fish ) :",
+        "role": "satellite",
+        "position_ratio": 0.2625
+      },
+      {
+        "segment_id": 44,
+        "text": "shoal",
+        "role": "nucleus",
+        "position_ratio": 0.26875
+      },
+      {
+        "segment_id": 45,
+        "text": "Verb",
+        "role": "satellite",
+        "position_ratio": 0.275
+      },
+      {
+        "segment_id": 46,
+        "text": "school",
+        "role": "nucleus",
+        "position_ratio": 0.28125
+      },
+      {
+        "segment_id": 47,
+        "text": "( third - person singular simple present schools ,",
+        "role": "nucleus",
+        "position_ratio": 0.2875
+      },
+      {
+        "segment_id": 48,
+        "text": "present participle schooling ,",
+        "role": "nucleus",
+        "position_ratio": 0.29375
+      },
+      {
+        "segment_id": 49,
+        "text": "simple past and past participle schooled )",
+        "role": "nucleus",
+        "position_ratio": 0.3
+      },
+      {
+        "segment_id": 50,
+        "text": "( intransitive )",
+        "role": "satellite",
+        "position_ratio": 0.30625
+      },
+      {
+        "segment_id": 51,
+        "text": "( of fish )",
+        "role": "satellite",
+        "position_ratio": 0.3125
+      },
+      {
+        "segment_id": 52,
+        "text": "To form into , or travel in a school .",
+        "role": "nucleus",
+        "position_ratio": 0.31875
+      },
+      {
+        "segment_id": 53,
+        "text": "Etymology 2",
+        "role": "nucleus",
+        "position_ratio": 0.325
+      },
+      {
+        "segment_id": 54,
+        "text": "Elementary school",
+        "role": "satellite",
+        "position_ratio": 0.33125
+      },
+      {
+        "segment_id": 55,
+        "text": "From Middle English scole , from Old English scōl",
+        "role": "nucleus",
+        "position_ratio": 0.3375
+      },
+      {
+        "segment_id": 56,
+        "text": "( “ place of education ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.34375
+      },
+      {
+        "segment_id": 57,
+        "text": "from Proto-Germanic *skōla",
+        "role": "nucleus",
+        "position_ratio": 0.35
+      },
+      {
+        "segment_id": 58,
+        "text": "( “ school ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.35625
+      },
+      {
+        "segment_id": 59,
+        "text": "from Late Latin schola , scola",
+        "role": "nucleus",
+        "position_ratio": 0.3625
+      },
+      {
+        "segment_id": 60,
+        "text": "( “ learned discussion or dissertation , lecture , school ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.36875
+      },
+      {
+        "segment_id": 61,
+        "text": "from Ancient Greek σχολεῖον",
+        "role": "nucleus",
+        "position_ratio": 0.375
+      },
+      {
+        "segment_id": 62,
+        "text": "( skholeîon ) ,",
+        "role": "satellite",
+        "position_ratio": 0.38125
+      },
+      {
+        "segment_id": 63,
+        "text": "from σχολή",
+        "role": "nucleus",
+        "position_ratio": 0.3875
+      },
+      {
+        "segment_id": 64,
+        "text": "( skholḗ , “ spare time , leisure ; conversations and the knowledge",
+        "role": "nucleus",
+        "position_ratio": 0.39375
+      },
+      {
+        "segment_id": 65,
+        "text": "gained through them during free time ;",
+        "role": "satellite",
+        "position_ratio": 0.4
+      },
+      {
+        "segment_id": 66,
+        "text": "the places",
+        "role": "nucleus",
+        "position_ratio": 0.40625
+      },
+      {
+        "segment_id": 67,
+        "text": "where these conversations took place ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.4125
+      },
+      {
+        "segment_id": 68,
+        "text": "from Proto-Indo-European *seǵʰ-",
+        "role": "nucleus",
+        "position_ratio": 0.41875
+      },
+      {
+        "segment_id": 69,
+        "text": "( “ to hold , have , possess ” ) .",
+        "role": "satellite",
+        "position_ratio": 0.425
+      },
+      {
+        "segment_id": 70,
+        "text": "Doublet of schola and shul .",
+        "role": "nucleus",
+        "position_ratio": 0.43125
+      },
+      {
+        "segment_id": 71,
+        "text": "Compare Old Frisian skūle , schūle",
+        "role": "nucleus",
+        "position_ratio": 0.4375
+      },
+      {
+        "segment_id": 72,
+        "text": "( “ school ” )",
+        "role": "satellite",
+        "position_ratio": 0.44375
+      },
+      {
+        "segment_id": 73,
+        "text": "( West Frisian skoalle , Saterland Frisian Skoule ) ,",
+        "role": "satellite",
+        "position_ratio": 0.45
+      },
+      {
+        "segment_id": 74,
+        "text": "Dutch school",
+        "role": "nucleus",
+        "position_ratio": 0.45625
+      },
+      {
+        "segment_id": 75,
+        "text": "( “ school ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.4625
+      },
+      {
+        "segment_id": 76,
+        "text": "German Low German School",
+        "role": "nucleus",
+        "position_ratio": 0.46875
+      },
+      {
+        "segment_id": 77,
+        "text": "( “ school ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.475
+      },
+      {
+        "segment_id": 78,
+        "text": "Old High German scuola",
+        "role": "nucleus",
+        "position_ratio": 0.48125
+      },
+      {
+        "segment_id": 79,
+        "text": "( “ school ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.4875
+      },
+      {
+        "segment_id": 80,
+        "text": "Old Norse skóli",
+        "role": "nucleus",
+        "position_ratio": 0.49375
+      },
+      {
+        "segment_id": 81,
+        "text": "( “ school ” ) .",
+        "role": "satellite",
+        "position_ratio": 0.5
+      },
+      {
+        "segment_id": 82,
+        "text": "Influenced in some senses by Middle English schole",
+        "role": "nucleus",
+        "position_ratio": 0.50625
+      },
+      {
+        "segment_id": 83,
+        "text": "( “ group of persons , host , company ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.5125
+      },
+      {
+        "segment_id": 84,
+        "text": "from Middle Dutch scole",
+        "role": "nucleus",
+        "position_ratio": 0.51875
+      },
+      {
+        "segment_id": 85,
+        "text": "( “ multitude , troop , band ” ) .",
+        "role": "satellite",
+        "position_ratio": 0.525
+      },
+      {
+        "segment_id": 86,
+        "text": "See school 1 .",
+        "role": "nucleus",
+        "position_ratio": 0.53125
+      },
+      {
+        "segment_id": 87,
+        "text": "Related also to Old High German sigi",
+        "role": "nucleus",
+        "position_ratio": 0.5375
+      },
+      {
+        "segment_id": 88,
+        "text": "( German Sieg , “ victory ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.54375
+      },
+      {
+        "segment_id": 89,
+        "text": "Old English siġe , sigor",
+        "role": "nucleus",
+        "position_ratio": 0.55
+      },
+      {
+        "segment_id": 90,
+        "text": "( “ victory ” ) .",
+        "role": "satellite",
+        "position_ratio": 0.55625
+      },
+      {
+        "segment_id": 91,
+        "text": "Alternative forms",
+        "role": "satellite",
+        "position_ratio": 0.5625
+      },
+      {
+        "segment_id": 92,
+        "text": "schole",
+        "role": "nucleus",
+        "position_ratio": 0.56875
+      },
+      {
+        "segment_id": 93,
+        "text": "( obsolete )",
+        "role": "satellite",
+        "position_ratio": 0.575
+      },
+      {
+        "segment_id": 94,
+        "text": "Noun",
+        "role": "satellite",
+        "position_ratio": 0.58125
+      },
+      {
+        "segment_id": 95,
+        "text": "school",
+        "role": "nucleus",
+        "position_ratio": 0.5875
+      },
+      {
+        "segment_id": 96,
+        "text": "( countable and uncountable , plural schools )",
+        "role": "satellite",
+        "position_ratio": 0.59375
+      },
+      {
+        "segment_id": 97,
+        "text": "( US , Canada )",
+        "role": "nucleus",
+        "position_ratio": 0.6
+      },
+      {
+        "segment_id": 98,
+        "text": "An institution",
+        "role": "nucleus",
+        "position_ratio": 0.60625
+      },
+      {
+        "segment_id": 99,
+        "text": "dedicated to teaching and learning ;",
+        "role": "satellite",
+        "position_ratio": 0.6125
+      },
+      {
+        "segment_id": 100,
+        "text": "an educational institution .",
+        "role": "nucleus",
+        "position_ratio": 0.61875
+      },
+      {
+        "segment_id": 101,
+        "text": "Our children attend a public school in our neighborhood .",
+        "role": "nucleus",
+        "position_ratio": 0.625
+      },
+      {
+        "segment_id": 102,
+        "text": "Harvard University is a famous American postsecondary school .",
+        "role": "nucleus",
+        "position_ratio": 0.63125
+      },
+      {
+        "segment_id": 103,
+        "text": "( Britain )",
+        "role": "nucleus",
+        "position_ratio": 0.6375
+      },
+      {
+        "segment_id": 104,
+        "text": "An educational institution",
+        "role": "nucleus",
+        "position_ratio": 0.64375
+      },
+      {
+        "segment_id": 105,
+        "text": "providing primary and secondary education ,",
+        "role": "satellite",
+        "position_ratio": 0.65
+      },
+      {
+        "segment_id": 106,
+        "text": "prior to tertiary education",
+        "role": "nucleus",
+        "position_ratio": 0.65625
+      },
+      {
+        "segment_id": 107,
+        "text": "( college or university ) .",
+        "role": "satellite",
+        "position_ratio": 0.6625
+      },
+      {
+        "segment_id": 108,
+        "text": "( UK )",
+        "role": "satellite",
+        "position_ratio": 0.66875
+      },
+      {
+        "segment_id": 109,
+        "text": "At Eton College , a period or session of teaching .",
+        "role": "nucleus",
+        "position_ratio": 0.675
+      },
+      {
+        "segment_id": 110,
+        "text": "Divinity , history and geography are studied for two schools per week .",
+        "role": "satellite",
+        "position_ratio": 0.68125
+      },
+      {
+        "segment_id": 111,
+        "text": "Within a larger educational institution , an organizational unit , such as a department or institute ,",
+        "role": "nucleus",
+        "position_ratio": 0.6875
+      },
+      {
+        "segment_id": 112,
+        "text": "which is dedicated to a specific subject area .",
+        "role": "satellite",
+        "position_ratio": 0.69375
+      },
+      {
+        "segment_id": 113,
+        "text": "We are enrolled in the same university ,",
+        "role": "nucleus",
+        "position_ratio": 0.7
+      },
+      {
+        "segment_id": 114,
+        "text": "but I attend the School of Economics",
+        "role": "nucleus",
+        "position_ratio": 0.70625
+      },
+      {
+        "segment_id": 115,
+        "text": "and my brother is in the School of Music .",
+        "role": "nucleus",
+        "position_ratio": 0.7125
+      },
+      {
+        "segment_id": 116,
+        "text": "An art movement , a community of artists .",
+        "role": "nucleus",
+        "position_ratio": 0.71875
+      },
+      {
+        "segment_id": 117,
+        "text": "The Barbizon school of painters were part of an art movement towards Realism in art ,",
+        "role": "nucleus",
+        "position_ratio": 0.725
+      },
+      {
+        "segment_id": 118,
+        "text": "which arose in the context of the dominant Romantic Movement of the time .",
+        "role": "satellite",
+        "position_ratio": 0.73125
+      },
+      {
+        "segment_id": 119,
+        "text": "( considered collectively )",
+        "role": "nucleus",
+        "position_ratio": 0.7375
+      },
+      {
+        "segment_id": 120,
+        "text": "The followers of a particular doctrine ; a particular way",
+        "role": "nucleus",
+        "position_ratio": 0.74375
+      },
+      {
+        "segment_id": 121,
+        "text": "of thinking",
+        "role": "satellite",
+        "position_ratio": 0.75
+      },
+      {
+        "segment_id": 122,
+        "text": "or particular doctrine ; a school of thought .",
+        "role": "nucleus",
+        "position_ratio": 0.75625
+      },
+      {
+        "segment_id": 123,
+        "text": "These economists belong to the monetarist school .",
+        "role": "satellite",
+        "position_ratio": 0.7625
+      },
+      {
+        "segment_id": 124,
+        "text": "The time",
+        "role": "nucleus",
+        "position_ratio": 0.76875
+      },
+      {
+        "segment_id": 125,
+        "text": "during which classes are attended or in session in an educational institution .",
+        "role": "satellite",
+        "position_ratio": 0.775
+      },
+      {
+        "segment_id": 126,
+        "text": "I 'll see you after school .",
+        "role": "satellite",
+        "position_ratio": 0.78125
+      },
+      {
+        "segment_id": 127,
+        "text": "The room or hall in English universities",
+        "role": "nucleus",
+        "position_ratio": 0.7875
+      },
+      {
+        "segment_id": 128,
+        "text": "where the examinations for degrees and honours are held .",
+        "role": "satellite",
+        "position_ratio": 0.79375
+      },
+      {
+        "segment_id": 129,
+        "text": "The canons , precepts , or body of opinion or practice ,",
+        "role": "nucleus",
+        "position_ratio": 0.8
+      },
+      {
+        "segment_id": 130,
+        "text": "sanctioned by the authority of a particular class or age .",
+        "role": "satellite",
+        "position_ratio": 0.80625
+      },
+      {
+        "segment_id": 131,
+        "text": "He was a gentleman of the old school .",
+        "role": "satellite",
+        "position_ratio": 0.8125
+      },
+      {
+        "segment_id": 132,
+        "text": "An establishment",
+        "role": "nucleus",
+        "position_ratio": 0.81875
+      },
+      {
+        "segment_id": 133,
+        "text": "offering specialized instruction , as for driving , cooking , typing , coding , etc.",
+        "role": "satellite",
+        "position_ratio": 0.825
+      },
+      {
+        "segment_id": 134,
+        "text": "Synonyms",
+        "role": "nucleus",
+        "position_ratio": 0.83125
+      },
+      {
+        "segment_id": 135,
+        "text": "( institution",
+        "role": "nucleus",
+        "position_ratio": 0.8375
+      },
+      {
+        "segment_id": 136,
+        "text": "dedicated to teaching and learning ) :",
+        "role": "satellite",
+        "position_ratio": 0.84375
+      },
+      {
+        "segment_id": 137,
+        "text": "academy , college , university",
+        "role": "nucleus",
+        "position_ratio": 0.85
+      },
+      {
+        "segment_id": 138,
+        "text": "( organizational unity within an educational institution ) :",
+        "role": "satellite",
+        "position_ratio": 0.85625
+      },
+      {
+        "segment_id": 139,
+        "text": "college , department , faculty , institute",
+        "role": "nucleus",
+        "position_ratio": 0.8625
+      },
+      {
+        "segment_id": 140,
+        "text": "Hyponyms",
+        "role": "satellite",
+        "position_ratio": 0.86875
+      },
+      {
+        "segment_id": 141,
+        "text": "See also Thesaurus : school",
+        "role": "nucleus",
+        "position_ratio": 0.875
+      },
+      {
+        "segment_id": 142,
+        "text": "Coordinate terms",
+        "role": "satellite",
+        "position_ratio": 0.88125
+      },
+      {
+        "segment_id": 143,
+        "text": "( institution",
+        "role": "nucleus",
+        "position_ratio": 0.8875
+      },
+      {
+        "segment_id": 144,
+        "text": "providing primary and secondary education ) :",
+        "role": "satellite",
+        "position_ratio": 0.89375
+      },
+      {
+        "segment_id": 145,
+        "text": "nursery school , kindergarten , college , polytechnic , university",
+        "role": "nucleus",
+        "position_ratio": 0.9
+      },
+      {
+        "segment_id": 146,
+        "text": "Verb",
+        "role": "satellite",
+        "position_ratio": 0.90625
+      },
+      {
+        "segment_id": 147,
+        "text": "school",
+        "role": "nucleus",
+        "position_ratio": 0.9125
+      },
+      {
+        "segment_id": 148,
+        "text": "( third - person singular simple present schools ,",
+        "role": "nucleus",
+        "position_ratio": 0.91875
+      },
+      {
+        "segment_id": 149,
+        "text": "present participle schooling ,",
+        "role": "nucleus",
+        "position_ratio": 0.925
+      },
+      {
+        "segment_id": 150,
+        "text": "simple past and past participle schooled )",
+        "role": "nucleus",
+        "position_ratio": 0.93125
+      },
+      {
+        "segment_id": 151,
+        "text": "( transitive )",
+        "role": "satellite",
+        "position_ratio": 0.9375
+      },
+      {
+        "segment_id": 152,
+        "text": "To educate , teach , or train",
+        "role": "nucleus",
+        "position_ratio": 0.94375
+      },
+      {
+        "segment_id": 153,
+        "text": "( often , but not necessarily , in a school ) .",
+        "role": "satellite",
+        "position_ratio": 0.95
+      },
+      {
+        "segment_id": 154,
+        "text": "Many future prime ministers were schooled in Eton .",
+        "role": "satellite",
+        "position_ratio": 0.95625
+      },
+      {
+        "segment_id": 155,
+        "text": "( transitive )",
+        "role": "nucleus",
+        "position_ratio": 0.9625
+      },
+      {
+        "segment_id": 156,
+        "text": "To defeat emphatically ,",
+        "role": "nucleus",
+        "position_ratio": 0.96875
+      },
+      {
+        "segment_id": 157,
+        "text": "to teach an opponent a harsh lesson .",
+        "role": "nucleus",
+        "position_ratio": 0.975
+      },
+      {
+        "segment_id": 158,
+        "text": "( transitive )",
+        "role": "satellite",
+        "position_ratio": 0.98125
+      },
+      {
+        "segment_id": 159,
+        "text": "To control , or compose , one 's expression .",
+        "role": "nucleus",
+        "position_ratio": 0.9875
+      },
+      {
+        "segment_id": 160,
+        "text": "She took care to school her expression ,",
+        "role": "nucleus",
+        "position_ratio": 0.99375
+      },
+      {
+        "segment_id": 161,
+        "text": "not giving away any of her feelings .",
+        "role": "satellite",
+        "position_ratio": 1.0
+      }
+    ]
+  },
+  {
+    "document_id": "GENTLE_dictionary_trust",
+    "genre": "dictionary",
+    "segments": [
+      {
+        "segment_id": 1,
+        "text": "trust",
+        "role": "satellite",
+        "position_ratio": 0.0
+      },
+      {
+        "segment_id": 2,
+        "text": "English",
+        "role": "nucleus",
+        "position_ratio": 0.005917
+      },
+      {
+        "segment_id": 3,
+        "text": "Etymology",
+        "role": "nucleus",
+        "position_ratio": 0.011834
+      },
+      {
+        "segment_id": 4,
+        "text": "From Middle English trust",
+        "role": "nucleus",
+        "position_ratio": 0.017751
+      },
+      {
+        "segment_id": 5,
+        "text": "( “ trust , protection ” ) .",
+        "role": "satellite",
+        "position_ratio": 0.023669
+      },
+      {
+        "segment_id": 6,
+        "text": "Long considered a borrowing from Old Norse traust",
+        "role": "nucleus",
+        "position_ratio": 0.029586
+      },
+      {
+        "segment_id": 7,
+        "text": "( “ confidence , help , protection ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.035503
+      },
+      {
+        "segment_id": 8,
+        "text": "itself from Proto - Germanic *traustą ,",
+        "role": "nucleus",
+        "position_ratio": 0.04142
+      },
+      {
+        "segment_id": 9,
+        "text": "but the root vocalism is incompatible ,",
+        "role": "nucleus",
+        "position_ratio": 0.047337
+      },
+      {
+        "segment_id": 10,
+        "text": "and now it 's considered a reflex of an unattested Old English *trust , from a rare zero - grade proto - Germanic variant of the same root",
+        "role": "nucleus",
+        "position_ratio": 0.053254
+      },
+      {
+        "segment_id": 11,
+        "text": "also attested in Middle High German getrüste",
+        "role": "nucleus",
+        "position_ratio": 0.059172
+      },
+      {
+        "segment_id": 12,
+        "text": "( “ host ” ) .",
+        "role": "satellite",
+        "position_ratio": 0.065089
+      },
+      {
+        "segment_id": 13,
+        "text": "Ultimately from Proto - Indo - European *deru-",
+        "role": "nucleus",
+        "position_ratio": 0.071006
+      },
+      {
+        "segment_id": 14,
+        "text": "( be firm , hard , solid ” ) .",
+        "role": "satellite",
+        "position_ratio": 0.076923
+      },
+      {
+        "segment_id": 15,
+        "text": "Akin to Danish trøst",
+        "role": "nucleus",
+        "position_ratio": 0.08284
+      },
+      {
+        "segment_id": 16,
+        "text": "( “ comfort , solace ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.088757
+      },
+      {
+        "segment_id": 17,
+        "text": "Saterland Frisian Traast",
+        "role": "nucleus",
+        "position_ratio": 0.094675
+      },
+      {
+        "segment_id": 18,
+        "text": "( “ comfort , solace ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.100592
+      },
+      {
+        "segment_id": 19,
+        "text": "West Frisian treast",
+        "role": "nucleus",
+        "position_ratio": 0.106509
+      },
+      {
+        "segment_id": 20,
+        "text": "( “ comfort , solace ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.112426
+      },
+      {
+        "segment_id": 21,
+        "text": "Dutch troost",
+        "role": "nucleus",
+        "position_ratio": 0.118343
+      },
+      {
+        "segment_id": 22,
+        "text": "( “ comfort , consolation ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.12426
+      },
+      {
+        "segment_id": 23,
+        "text": "German Trost",
+        "role": "nucleus",
+        "position_ratio": 0.130178
+      },
+      {
+        "segment_id": 24,
+        "text": "( “ comfort , consolation ” ) ,",
+        "role": "satellite",
+        "position_ratio": 0.136095
+      },
+      {
+        "segment_id": 25,
+        "text": "Gothic trausti",
+        "role": "nucleus",
+        "position_ratio": 0.142012
+      },
+      {
+        "segment_id": 26,
+        "text": "( trausti , “ alliance , pact ” ) .",
+        "role": "satellite",
+        "position_ratio": 0.147929
+      },
+      {
+        "segment_id": 27,
+        "text": "Doublet of tryst .",
+        "role": "nucleus",
+        "position_ratio": 0.153846
+      },
+      {
+        "segment_id": 28,
+        "text": "More at true , tree .",
+        "role": "nucleus",
+        "position_ratio": 0.159763
+      },
+      {
+        "segment_id": 29,
+        "text": "Pronunciation",
+        "role": "nucleus",
+        "position_ratio": 0.16568
+      },
+      {
+        "segment_id": 30,
+        "text": "enPR :",
+        "role": "satellite",
+        "position_ratio": 0.171598
+      },
+      {
+        "segment_id": 31,
+        "text": "trŭst ,",
+        "role": "nucleus",
+        "position_ratio": 0.177515
+      },
+      {
+        "segment_id": 32,
+        "text": "IPA",
+        "role": "nucleus",
+        "position_ratio": 0.183432
+      },
+      {
+        "segment_id": 33,
+        "text": "( key ) :",
+        "role": "satellite",
+        "position_ratio": 0.189349
+      },
+      {
+        "segment_id": 34,
+        "text": "/trʌst/ , [tɹʌst] , [tɹɐst] , [t͡ʃɹ-]",
+        "role": "nucleus",
+        "position_ratio": 0.195266
+      },
+      {
+        "segment_id": 35,
+        "text": "( Northern England )",
+        "role": "satellite",
+        "position_ratio": 0.201183
+      },
+      {
+        "segment_id": 36,
+        "text": "IPA",
+        "role": "nucleus",
+        "position_ratio": 0.207101
+      },
+      {
+        "segment_id": 37,
+        "text": "( key ) :",
+        "role": "satellite",
+        "position_ratio": 0.213018
+      },
+      {
+        "segment_id": 38,
+        "text": "/trʊst/",
+        "role": "nucleus",
+        "position_ratio": 0.218935
+      },
+      {
+        "segment_id": 39,
+        "text": "Audio",
+        "role": "nucleus",
+        "position_ratio": 0.224852
+      },
+      {
+        "segment_id": 40,
+        "text": "( GA )",
+        "role": "satellite",
+        "position_ratio": 0.230769
+      },
+      {
+        "segment_id": 41,
+        "text": "Rhymes :",
+        "role": "satellite",
+        "position_ratio": 0.236686
+      },
+      {
+        "segment_id": 42,
+        "text": "-ʌst",
+        "role": "nucleus",
+        "position_ratio": 0.242604
+      },
+      {
+        "segment_id": 43,
+        "text": "Noun",
+        "role": "satellite",
+        "position_ratio": 0.248521
+      },
+      {
+        "segment_id": 44,
+        "text": "trust",
+        "role": "nucleus",
+        "position_ratio": 0.254438
+      },
+      {
+        "segment_id": 45,
+        "text": "( countable and uncountable , plural trusts )",
+        "role": "satellite",
+        "position_ratio": 0.260355
+      },
+      {
+        "segment_id": 46,
+        "text": "Confidence in or reliance on some person or quality .",
+        "role": "nucleus",
+        "position_ratio": 0.266272
+      },
+      {
+        "segment_id": 47,
+        "text": "He needs to regain her trust",
+        "role": "nucleus",
+        "position_ratio": 0.272189
+      },
+      {
+        "segment_id": 48,
+        "text": "if he is ever going to win her back .",
+        "role": "satellite",
+        "position_ratio": 0.278107
+      },
+      {
+        "segment_id": 49,
+        "text": "to lose trust in someone",
+        "role": "nucleus",
+        "position_ratio": 0.284024
+      },
+      {
+        "segment_id": 50,
+        "text": "build up trust",
+        "role": "nucleus",
+        "position_ratio": 0.289941
+      },
+      {
+        "segment_id": 51,
+        "text": "a relationship",
+        "role": "nucleus",
+        "position_ratio": 0.295858
+      },
+      {
+        "segment_id": 52,
+        "text": "built on mutual trust",
+        "role": "satellite",
+        "position_ratio": 0.301775
+      },
+      {
+        "segment_id": 53,
+        "text": "Dependence upon something in the future ; hope .",
+        "role": "nucleus",
+        "position_ratio": 0.307692
+      },
+      {
+        "segment_id": 54,
+        "text": "Confidence in the future payment for goods or services",
+        "role": "nucleus",
+        "position_ratio": 0.313609
+      },
+      {
+        "segment_id": 55,
+        "text": "supplied ;",
+        "role": "satellite",
+        "position_ratio": 0.319527
+      },
+      {
+        "segment_id": 56,
+        "text": "credit .",
+        "role": "nucleus",
+        "position_ratio": 0.325444
+      },
+      {
+        "segment_id": 57,
+        "text": "I was out of cash ,",
+        "role": "satellite",
+        "position_ratio": 0.331361
+      },
+      {
+        "segment_id": 58,
+        "text": "but the landlady let me have it on trust .",
+        "role": "nucleus",
+        "position_ratio": 0.337278
+      },
+      {
+        "segment_id": 59,
+        "text": "That",
+        "role": "nucleus",
+        "position_ratio": 0.343195
+      },
+      {
+        "segment_id": 60,
+        "text": "which is committed or entrusted ;",
+        "role": "satellite",
+        "position_ratio": 0.349112
+      },
+      {
+        "segment_id": 61,
+        "text": "something",
+        "role": "nucleus",
+        "position_ratio": 0.35503
+      },
+      {
+        "segment_id": 62,
+        "text": "received in confidence ;",
+        "role": "satellite",
+        "position_ratio": 0.360947
+      },
+      {
+        "segment_id": 63,
+        "text": "a charge .",
+        "role": "nucleus",
+        "position_ratio": 0.366864
+      },
+      {
+        "segment_id": 64,
+        "text": "That",
+        "role": "nucleus",
+        "position_ratio": 0.372781
+      },
+      {
+        "segment_id": 65,
+        "text": "upon which confidence is reposed ;",
+        "role": "satellite",
+        "position_ratio": 0.378698
+      },
+      {
+        "segment_id": 66,
+        "text": "ground of reliance ; hope .",
+        "role": "nucleus",
+        "position_ratio": 0.384615
+      },
+      {
+        "segment_id": 67,
+        "text": "( rare )",
+        "role": "satellite",
+        "position_ratio": 0.390533
+      },
+      {
+        "segment_id": 68,
+        "text": "Trustworthiness , reliability .",
+        "role": "nucleus",
+        "position_ratio": 0.39645
+      },
+      {
+        "segment_id": 69,
+        "text": "The condition or obligation of one",
+        "role": "nucleus",
+        "position_ratio": 0.402367
+      },
+      {
+        "segment_id": 70,
+        "text": "to whom anything is confided ;",
+        "role": "satellite",
+        "position_ratio": 0.408284
+      },
+      {
+        "segment_id": 71,
+        "text": "responsible charge or office .",
+        "role": "nucleus",
+        "position_ratio": 0.414201
+      },
+      {
+        "segment_id": 72,
+        "text": "( law )",
+        "role": "satellite",
+        "position_ratio": 0.420118
+      },
+      {
+        "segment_id": 73,
+        "text": "The confidence",
+        "role": "nucleus",
+        "position_ratio": 0.426036
+      },
+      {
+        "segment_id": 74,
+        "text": "vested in a person",
+        "role": "nucleus",
+        "position_ratio": 0.431953
+      },
+      {
+        "segment_id": 75,
+        "text": "who has legal ownership of a property",
+        "role": "nucleus",
+        "position_ratio": 0.43787
+      },
+      {
+        "segment_id": 76,
+        "text": "to manage for the benefit of another .",
+        "role": "satellite",
+        "position_ratio": 0.443787
+      },
+      {
+        "segment_id": 77,
+        "text": "I put the house into my sister 's trust .",
+        "role": "satellite",
+        "position_ratio": 0.449704
+      },
+      {
+        "segment_id": 78,
+        "text": "( law )",
+        "role": "nucleus",
+        "position_ratio": 0.455621
+      },
+      {
+        "segment_id": 79,
+        "text": "An arrangement",
+        "role": "nucleus",
+        "position_ratio": 0.461538
+      },
+      {
+        "segment_id": 80,
+        "text": "whereby property or money is given",
+        "role": "nucleus",
+        "position_ratio": 0.467456
+      },
+      {
+        "segment_id": 81,
+        "text": "to be held by a third party",
+        "role": "nucleus",
+        "position_ratio": 0.473373
+      },
+      {
+        "segment_id": 82,
+        "text": "( a trustee ) ,",
+        "role": "satellite",
+        "position_ratio": 0.47929
+      },
+      {
+        "segment_id": 83,
+        "text": "on the basis",
+        "role": "nucleus",
+        "position_ratio": 0.485207
+      },
+      {
+        "segment_id": 84,
+        "text": "that it will be managed for the benefit of , or eventually transferred to , a stated beneficiary ;",
+        "role": "satellite",
+        "position_ratio": 0.491124
+      },
+      {
+        "segment_id": 85,
+        "text": "for example , money",
+        "role": "nucleus",
+        "position_ratio": 0.497041
+      },
+      {
+        "segment_id": 86,
+        "text": "to be given to a child",
+        "role": "nucleus",
+        "position_ratio": 0.502959
+      },
+      {
+        "segment_id": 87,
+        "text": "when he or she reaches adulthood .",
+        "role": "satellite",
+        "position_ratio": 0.508876
+      },
+      {
+        "segment_id": 88,
+        "text": "A group of businessmen or traders",
+        "role": "nucleus",
+        "position_ratio": 0.514793
+      },
+      {
+        "segment_id": 89,
+        "text": "organised for mutual benefit",
+        "role": "nucleus",
+        "position_ratio": 0.52071
+      },
+      {
+        "segment_id": 90,
+        "text": "to produce and distribute specific commodities or services ,",
+        "role": "satellite",
+        "position_ratio": 0.526627
+      },
+      {
+        "segment_id": 91,
+        "text": "and managed by a central body of trustees .",
+        "role": "nucleus",
+        "position_ratio": 0.532544
+      },
+      {
+        "segment_id": 92,
+        "text": "( computing )",
+        "role": "satellite",
+        "position_ratio": 0.538462
+      },
+      {
+        "segment_id": 93,
+        "text": "Affirmation of the access rights of a user of a computer system .",
+        "role": "nucleus",
+        "position_ratio": 0.544379
+      },
+      {
+        "segment_id": 94,
+        "text": "Synonyms",
+        "role": "nucleus",
+        "position_ratio": 0.550296
+      },
+      {
+        "segment_id": 95,
+        "text": "( confidence in a person or quality )",
+        "role": "satellite",
+        "position_ratio": 0.556213
+      },
+      {
+        "segment_id": 96,
+        "text": "belief , confidence , faith",
+        "role": "nucleus",
+        "position_ratio": 0.56213
+      },
+      {
+        "segment_id": 97,
+        "text": "( hope )",
+        "role": "satellite",
+        "position_ratio": 0.568047
+      },
+      {
+        "segment_id": 98,
+        "text": "expectation , hope",
+        "role": "nucleus",
+        "position_ratio": 0.573964
+      },
+      {
+        "segment_id": 99,
+        "text": "Antonyms",
+        "role": "nucleus",
+        "position_ratio": 0.579882
+      },
+      {
+        "segment_id": 100,
+        "text": "distrust",
+        "role": "nucleus",
+        "position_ratio": 0.585799
+      },
+      {
+        "segment_id": 101,
+        "text": "mistrust",
+        "role": "nucleus",
+        "position_ratio": 0.591716
+      },
+      {
+        "segment_id": 102,
+        "text": "untrust",
+        "role": "nucleus",
+        "position_ratio": 0.597633
+      },
+      {
+        "segment_id": 103,
+        "text": "wantrust",
+        "role": "nucleus",
+        "position_ratio": 0.60355
+      },
+      {
+        "segment_id": 104,
+        "text": "Verb",
+        "role": "satellite",
+        "position_ratio": 0.609467
+      },
+      {
+        "segment_id": 105,
+        "text": "trust",
+        "role": "nucleus",
+        "position_ratio": 0.615385
+      },
+      {
+        "segment_id": 106,
+        "text": "( third - person singular simple present trusts ,",
+        "role": "nucleus",
+        "position_ratio": 0.621302
+      },
+      {
+        "segment_id": 107,
+        "text": "present participle trusting ,",
+        "role": "nucleus",
+        "position_ratio": 0.627219
+      },
+      {
+        "segment_id": 108,
+        "text": "simple past and past participle trusted )",
+        "role": "nucleus",
+        "position_ratio": 0.633136
+      },
+      {
+        "segment_id": 109,
+        "text": "( transitive )",
+        "role": "nucleus",
+        "position_ratio": 0.639053
+      },
+      {
+        "segment_id": 110,
+        "text": "To place confidence in ,",
+        "role": "nucleus",
+        "position_ratio": 0.64497
+      },
+      {
+        "segment_id": 111,
+        "text": "to rely on ,",
+        "role": "nucleus",
+        "position_ratio": 0.650888
+      },
+      {
+        "segment_id": 112,
+        "text": "to confide in .",
+        "role": "nucleus",
+        "position_ratio": 0.656805
+      },
+      {
+        "segment_id": 113,
+        "text": "We can not trust anyone",
+        "role": "nucleus",
+        "position_ratio": 0.662722
+      },
+      {
+        "segment_id": 114,
+        "text": "who deceives us .",
+        "role": "satellite",
+        "position_ratio": 0.668639
+      },
+      {
+        "segment_id": 115,
+        "text": "( intransitive , with in )",
+        "role": "nucleus",
+        "position_ratio": 0.674556
+      },
+      {
+        "segment_id": 116,
+        "text": "To have faith in ;",
+        "role": "nucleus",
+        "position_ratio": 0.680473
+      },
+      {
+        "segment_id": 117,
+        "text": "to rely on for continuing support or aid .",
+        "role": "nucleus",
+        "position_ratio": 0.686391
+      },
+      {
+        "segment_id": 118,
+        "text": "In God We Trust",
+        "role": "nucleus",
+        "position_ratio": 0.692308
+      },
+      {
+        "segment_id": 119,
+        "text": "( official US motto )",
+        "role": "satellite",
+        "position_ratio": 0.698225
+      },
+      {
+        "segment_id": 120,
+        "text": "( transitive )",
+        "role": "nucleus",
+        "position_ratio": 0.704142
+      },
+      {
+        "segment_id": 121,
+        "text": "To give credence to ;",
+        "role": "nucleus",
+        "position_ratio": 0.710059
+      },
+      {
+        "segment_id": 122,
+        "text": "to believe ;",
+        "role": "nucleus",
+        "position_ratio": 0.715976
+      },
+      {
+        "segment_id": 123,
+        "text": "to credit .",
+        "role": "nucleus",
+        "position_ratio": 0.721893
+      },
+      {
+        "segment_id": 124,
+        "text": "( transitive )",
+        "role": "satellite",
+        "position_ratio": 0.727811
+      },
+      {
+        "segment_id": 125,
+        "text": "To hope confidently ;",
+        "role": "nucleus",
+        "position_ratio": 0.733728
+      },
+      {
+        "segment_id": 126,
+        "text": "to believe",
+        "role": "nucleus",
+        "position_ratio": 0.739645
+      },
+      {
+        "segment_id": 127,
+        "text": "( usually with a phrase or infinitive clause as the object )",
+        "role": "nucleus",
+        "position_ratio": 0.745562
+      },
+      {
+        "segment_id": 128,
+        "text": "I trust",
+        "role": "satellite",
+        "position_ratio": 0.751479
+      },
+      {
+        "segment_id": 129,
+        "text": "you have cleaned your room ?",
+        "role": "nucleus",
+        "position_ratio": 0.757396
+      },
+      {
+        "segment_id": 130,
+        "text": "( transitive )",
+        "role": "satellite",
+        "position_ratio": 0.763314
+      },
+      {
+        "segment_id": 131,
+        "text": "to show confidence in a person",
+        "role": "nucleus",
+        "position_ratio": 0.769231
+      },
+      {
+        "segment_id": 132,
+        "text": "by entrusting them with something .",
+        "role": "satellite",
+        "position_ratio": 0.775148
+      },
+      {
+        "segment_id": 133,
+        "text": "( transitive )",
+        "role": "nucleus",
+        "position_ratio": 0.781065
+      },
+      {
+        "segment_id": 134,
+        "text": "To commit , as to one 's care ;",
+        "role": "nucleus",
+        "position_ratio": 0.786982
+      },
+      {
+        "segment_id": 135,
+        "text": "to entrust .",
+        "role": "nucleus",
+        "position_ratio": 0.792899
+      },
+      {
+        "segment_id": 136,
+        "text": "( transitive )",
+        "role": "nucleus",
+        "position_ratio": 0.798817
+      },
+      {
+        "segment_id": 137,
+        "text": "To give credit to ;",
+        "role": "nucleus",
+        "position_ratio": 0.804734
+      },
+      {
+        "segment_id": 138,
+        "text": "to sell to upon credit , or in confidence of future payment .",
+        "role": "nucleus",
+        "position_ratio": 0.810651
+      },
+      {
+        "segment_id": 139,
+        "text": "Merchants and manufacturers trust their customers annually with goods .",
+        "role": "satellite",
+        "position_ratio": 0.816568
+      },
+      {
+        "segment_id": 140,
+        "text": "( intransitive followed by to",
+        "role": "satellite",
+        "position_ratio": 0.822485
+      },
+      {
+        "segment_id": 141,
+        "text": "To rely on ( something ) ,",
+        "role": "nucleus",
+        "position_ratio": 0.828402
+      },
+      {
+        "segment_id": 142,
+        "text": "as though having trust",
+        "role": "nucleus",
+        "position_ratio": 0.83432
+      },
+      {
+        "segment_id": 143,
+        "text": "( on it ) .",
+        "role": "satellite",
+        "position_ratio": 0.840237
+      },
+      {
+        "segment_id": 144,
+        "text": "to trust to luck",
+        "role": "nucleus",
+        "position_ratio": 0.846154
+      },
+      {
+        "segment_id": 145,
+        "text": "Having lost the book ,",
+        "role": "satellite",
+        "position_ratio": 0.852071
+      },
+      {
+        "segment_id": 146,
+        "text": "he had to trust to his memory for further details .",
+        "role": "nucleus",
+        "position_ratio": 0.857988
+      },
+      {
+        "segment_id": 147,
+        "text": "( archaic , transitive",
+        "role": "nucleus",
+        "position_ratio": 0.863905
+      },
+      {
+        "segment_id": 148,
+        "text": "To risk ;",
+        "role": "nucleus",
+        "position_ratio": 0.869822
+      },
+      {
+        "segment_id": 149,
+        "text": "to venture confidently .",
+        "role": "nucleus",
+        "position_ratio": 0.87574
+      },
+      {
+        "segment_id": 150,
+        "text": "( intransitive )",
+        "role": "nucleus",
+        "position_ratio": 0.881657
+      },
+      {
+        "segment_id": 151,
+        "text": "To have trust ;",
+        "role": "nucleus",
+        "position_ratio": 0.887574
+      },
+      {
+        "segment_id": 152,
+        "text": "to be credulous ;",
+        "role": "nucleus",
+        "position_ratio": 0.893491
+      },
+      {
+        "segment_id": 153,
+        "text": "to be won to confidence ;",
+        "role": "nucleus",
+        "position_ratio": 0.899408
+      },
+      {
+        "segment_id": 154,
+        "text": "to confide .",
+        "role": "nucleus",
+        "position_ratio": 0.905325
+      },
+      {
+        "segment_id": 155,
+        "text": "( archaic , intransitive",
+        "role": "nucleus",
+        "position_ratio": 0.911243
+      },
+      {
+        "segment_id": 156,
+        "text": "To sell or deliver anything in reliance upon a promise of payment ;",
+        "role": "nucleus",
+        "position_ratio": 0.91716
+      },
+      {
+        "segment_id": 157,
+        "text": "to give credit .",
+        "role": "nucleus",
+        "position_ratio": 0.923077
+      },
+      {
+        "segment_id": 158,
+        "text": "Antonyms",
+        "role": "nucleus",
+        "position_ratio": 0.928994
+      },
+      {
+        "segment_id": 159,
+        "text": "distrust",
+        "role": "nucleus",
+        "position_ratio": 0.934911
+      },
+      {
+        "segment_id": 160,
+        "text": "mistrust",
+        "role": "nucleus",
+        "position_ratio": 0.940828
+      },
+      {
+        "segment_id": 161,
+        "text": "Adjective",
+        "role": "satellite",
+        "position_ratio": 0.946746
+      },
+      {
+        "segment_id": 162,
+        "text": "trust",
+        "role": "nucleus",
+        "position_ratio": 0.952663
+      },
+      {
+        "segment_id": 163,
+        "text": "( comparative more trust ,",
+        "role": "nucleus",
+        "position_ratio": 0.95858
+      },
+      {
+        "segment_id": 164,
+        "text": "superlative most trust )",
+        "role": "nucleus",
+        "position_ratio": 0.964497
+      },
+      {
+        "segment_id": 165,
+        "text": "( obsolete )",
+        "role": "satellite",
+        "position_ratio": 0.970414
+      },
+      {
+        "segment_id": 166,
+        "text": "Secure , safe .",
+        "role": "nucleus",
+        "position_ratio": 0.976331
+      },
+      {
+        "segment_id": 167,
+        "text": "( obsolete )",
+        "role": "satellite",
+        "position_ratio": 0.982249
+      },
+      {
+        "segment_id": 168,
+        "text": "Faithful , dependable .",
+        "role": "nucleus",
+        "position_ratio": 0.988166
+      },
+      {
+        "segment_id": 169,
+        "text": "( law )",
+        "role": "satellite",
+        "position_ratio": 0.994083
+      },
+      {
+        "segment_id": 170,
+        "text": "of or relating to a trust .",
+        "role": "nucleus",
+        "position_ratio": 1.0
+      }
+    ]
+  },
+  {
+    "document_id": "GENTLE_esports_fifa",
+    "genre": "esports",
+    "segments": [
+      {
+        "segment_id": 1,
+        "text": "Now after last episodes 's amazing conclusion",
+        "role": "nucleus",
+        "position_ratio": 0.0
+      },
+      {
+        "segment_id": 2,
+        "text": "where Napoli they beat us in the first leg of the Champions League quarter-finals",
+        "role": "nucleus",
+        "position_ratio": 0.007634
+      },
+      {
+        "segment_id": 3,
+        "text": "and then we brought it to them in the second leg ,",
+        "role": "nucleus",
+        "position_ratio": 0.015267
+      },
+      {
+        "segment_id": 4,
+        "text": "and now advancing into the semi-finals against Manchester City ,",
+        "role": "nucleus",
+        "position_ratio": 0.022901
+      },
+      {
+        "segment_id": 5,
+        "text": "today 's episode is gon na start off with three games",
+        "role": "nucleus",
+        "position_ratio": 0.030534
+      },
+      {
+        "segment_id": 6,
+        "text": "that",
+        "role": "nucleus",
+        "position_ratio": 0.038168
+      },
+      {
+        "segment_id": 7,
+        "text": "you know",
+        "role": "satellite",
+        "position_ratio": 0.045802
+      },
+      {
+        "segment_id": 8,
+        "text": "are n't as hard as the last couple of matches",
+        "role": "nucleus",
+        "position_ratio": 0.053435
+      },
+      {
+        "segment_id": 9,
+        "text": "we 've had ,",
+        "role": "satellite",
+        "position_ratio": 0.061069
+      },
+      {
+        "segment_id": 10,
+        "text": "and then on uh 27th of April , we have Manchester City in the first leg of the semi-finals ,",
+        "role": "nucleus",
+        "position_ratio": 0.068702
+      },
+      {
+        "segment_id": 11,
+        "text": "which is going to be possibly one of the hardest games",
+        "role": "nucleus",
+        "position_ratio": 0.076336
+      },
+      {
+        "segment_id": 12,
+        "text": "I 'm gon na be playing",
+        "role": "satellite",
+        "position_ratio": 0.083969
+      },
+      {
+        "segment_id": 13,
+        "text": "because Napoli has given me our game",
+        "role": "satellite",
+        "position_ratio": 0.091603
+      },
+      {
+        "segment_id": 14,
+        "text": "and Manchester City I know the way",
+        "role": "nucleus",
+        "position_ratio": 0.099237
+      },
+      {
+        "segment_id": 15,
+        "text": "they play ,",
+        "role": "satellite",
+        "position_ratio": 0.10687
+      },
+      {
+        "segment_id": 16,
+        "text": "they 're exactly like Napoli .",
+        "role": "satellite",
+        "position_ratio": 0.114504
+      },
+      {
+        "segment_id": 17,
+        "text": "So we 're just gon na start off straightaway with a simulated match against Benevento .",
+        "role": "nucleus",
+        "position_ratio": 0.122137
+      },
+      {
+        "segment_id": 18,
+        "text": "We 're gon na play one of these three games",
+        "role": "nucleus",
+        "position_ratio": 0.129771
+      },
+      {
+        "segment_id": 19,
+        "text": "just to get in the mood",
+        "role": "nucleus",
+        "position_ratio": 0.137405
+      },
+      {
+        "segment_id": 20,
+        "text": "of playing games",
+        "role": "satellite",
+        "position_ratio": 0.145038
+      },
+      {
+        "segment_id": 21,
+        "text": "this episode .",
+        "role": "nucleus",
+        "position_ratio": 0.152672
+      },
+      {
+        "segment_id": 22,
+        "text": "We 've got a pretty rotated lineup",
+        "role": "nucleus",
+        "position_ratio": 0.160305
+      },
+      {
+        "segment_id": 23,
+        "text": "Jović scoring ,",
+        "role": "nucleus",
+        "position_ratio": 0.167939
+      },
+      {
+        "segment_id": 24,
+        "text": "van de Beek and Ibrahimovic coming on 3 - 1 victory .",
+        "role": "nucleus",
+        "position_ratio": 0.175573
+      },
+      {
+        "segment_id": 25,
+        "text": "Bakayoko getting himself a red card .",
+        "role": "nucleus",
+        "position_ratio": 0.183206
+      },
+      {
+        "segment_id": 26,
+        "text": "Now I 've mentioned",
+        "role": "nucleus",
+        "position_ratio": 0.19084
+      },
+      {
+        "segment_id": 27,
+        "text": "that earlier in the Serie A UVA has just ran away with the Scudetto 89 points",
+        "role": "nucleus",
+        "position_ratio": 0.198473
+      },
+      {
+        "segment_id": 28,
+        "text": "and right behind them is Napoli us with 76 .",
+        "role": "nucleus",
+        "position_ratio": 0.206107
+      },
+      {
+        "segment_id": 29,
+        "text": "The Scudetto was gon na be tough all the time",
+        "role": "nucleus",
+        "position_ratio": 0.21374
+      },
+      {
+        "segment_id": 30,
+        "text": "UVA 's just way too strong .",
+        "role": "satellite",
+        "position_ratio": 0.221374
+      },
+      {
+        "segment_id": 31,
+        "text": "Genoa is the next match",
+        "role": "nucleus",
+        "position_ratio": 0.229008
+      },
+      {
+        "segment_id": 32,
+        "text": "coming up",
+        "role": "satellite",
+        "position_ratio": 0.236641
+      },
+      {
+        "segment_id": 33,
+        "text": "and I 'm going to be playing this match",
+        "role": "nucleus",
+        "position_ratio": 0.244275
+      },
+      {
+        "segment_id": 34,
+        "text": "because it 's at home .",
+        "role": "satellite",
+        "position_ratio": 0.251908
+      },
+      {
+        "segment_id": 35,
+        "text": "I 'd like to maybe play some of our Academy players in this match .",
+        "role": "satellite",
+        "position_ratio": 0.259542
+      },
+      {
+        "segment_id": 36,
+        "text": "The last match he scored Jović",
+        "role": "satellite",
+        "position_ratio": 0.267176
+      },
+      {
+        "segment_id": 37,
+        "text": "so I 'm gon na continue hopefully his form in this game .",
+        "role": "nucleus",
+        "position_ratio": 0.274809
+      },
+      {
+        "segment_id": 38,
+        "text": "He 's up top with Galano .",
+        "role": "nucleus",
+        "position_ratio": 0.282443
+      },
+      {
+        "segment_id": 39,
+        "text": "Galano started off well",
+        "role": "nucleus",
+        "position_ratio": 0.290076
+      },
+      {
+        "segment_id": 40,
+        "text": "three goals",
+        "role": "satellite",
+        "position_ratio": 0.29771
+      },
+      {
+        "segment_id": 41,
+        "text": "and then just has n't scored .",
+        "role": "nucleus",
+        "position_ratio": 0.305344
+      },
+      {
+        "segment_id": 42,
+        "text": "I do n't know .",
+        "role": "satellite",
+        "position_ratio": 0.312977
+      },
+      {
+        "segment_id": 43,
+        "text": "I thought",
+        "role": "satellite",
+        "position_ratio": 0.320611
+      },
+      {
+        "segment_id": 44,
+        "text": "he was gon na be such a good future star",
+        "role": "nucleus",
+        "position_ratio": 0.328244
+      },
+      {
+        "segment_id": 45,
+        "text": "but he 's still young",
+        "role": "satellite",
+        "position_ratio": 0.335878
+      },
+      {
+        "segment_id": 46,
+        "text": "so maybe he can get himself some goals here .",
+        "role": "nucleus",
+        "position_ratio": 0.343511
+      },
+      {
+        "segment_id": 47,
+        "text": "Paquetá and almost starting Paquetá over Bennacer van de Beek , Tonali .",
+        "role": "nucleus",
+        "position_ratio": 0.351145
+      },
+      {
+        "segment_id": 48,
+        "text": "We have Todibo , Alderweireld in defense",
+        "role": "nucleus",
+        "position_ratio": 0.358779
+      },
+      {
+        "segment_id": 49,
+        "text": "and obviously in goal we have Gigio .",
+        "role": "nucleus",
+        "position_ratio": 0.366412
+      },
+      {
+        "segment_id": 50,
+        "text": "Like I said ,",
+        "role": "nucleus",
+        "position_ratio": 0.374046
+      },
+      {
+        "segment_id": 51,
+        "text": "the Scudetto",
+        "role": "nucleus",
+        "position_ratio": 0.381679
+      },
+      {
+        "segment_id": 52,
+        "text": "if it was n't gon na be this season ,",
+        "role": "satellite",
+        "position_ratio": 0.389313
+      },
+      {
+        "segment_id": 53,
+        "text": "I 'm pushing all for next season in the Champions League .",
+        "role": "nucleus",
+        "position_ratio": 0.396947
+      },
+      {
+        "segment_id": 54,
+        "text": "I think",
+        "role": "nucleus",
+        "position_ratio": 0.40458
+      },
+      {
+        "segment_id": 55,
+        "text": "we 're gon na have to just try and go all - out",
+        "role": "nucleus",
+        "position_ratio": 0.412214
+      },
+      {
+        "segment_id": 56,
+        "text": "and win it in our first season back .",
+        "role": "nucleus",
+        "position_ratio": 0.419847
+      },
+      {
+        "segment_id": 57,
+        "text": "That would be something incredibly special ,",
+        "role": "satellite",
+        "position_ratio": 0.427481
+      },
+      {
+        "segment_id": 58,
+        "text": "but",
+        "role": "nucleus",
+        "position_ratio": 0.435115
+      },
+      {
+        "segment_id": 59,
+        "text": "before we do that",
+        "role": "satellite",
+        "position_ratio": 0.442748
+      },
+      {
+        "segment_id": 60,
+        "text": "we need to get through Manchester City",
+        "role": "nucleus",
+        "position_ratio": 0.450382
+      },
+      {
+        "segment_id": 61,
+        "text": "and that is a poor pass by Paquetá .",
+        "role": "nucleus",
+        "position_ratio": 0.458015
+      },
+      {
+        "segment_id": 62,
+        "text": "Here 's Paquetá now",
+        "role": "satellite",
+        "position_ratio": 0.465649
+      },
+      {
+        "segment_id": 63,
+        "text": "finding Galano ,",
+        "role": "nucleus",
+        "position_ratio": 0.473282
+      },
+      {
+        "segment_id": 64,
+        "text": "Galano is in behind",
+        "role": "satellite",
+        "position_ratio": 0.480916
+      },
+      {
+        "segment_id": 65,
+        "text": "that is great stuff",
+        "role": "satellite",
+        "position_ratio": 0.48855
+      },
+      {
+        "segment_id": 66,
+        "text": "Galano and maybe could have went to ground",
+        "role": "nucleus",
+        "position_ratio": 0.496183
+      },
+      {
+        "segment_id": 67,
+        "text": "opportunity for him",
+        "role": "nucleus",
+        "position_ratio": 0.503817
+      },
+      {
+        "segment_id": 68,
+        "text": "good pass by Paquetá .",
+        "role": "nucleus",
+        "position_ratio": 0.51145
+      },
+      {
+        "segment_id": 69,
+        "text": "Sandro Tonali , Luca Jović ,",
+        "role": "nucleus",
+        "position_ratio": 0.519084
+      },
+      {
+        "segment_id": 70,
+        "text": "he 's gon na touch it",
+        "role": "nucleus",
+        "position_ratio": 0.526718
+      },
+      {
+        "segment_id": 71,
+        "text": "and try to hit it .",
+        "role": "nucleus",
+        "position_ratio": 0.534351
+      },
+      {
+        "segment_id": 72,
+        "text": "I did n't ah -",
+        "role": "satellite",
+        "position_ratio": 0.541985
+      },
+      {
+        "segment_id": 73,
+        "text": "I should have maybe taken it a little bit inside the box ,",
+        "role": "nucleus",
+        "position_ratio": 0.549618
+      },
+      {
+        "segment_id": 74,
+        "text": "but you know what ,",
+        "role": "satellite",
+        "position_ratio": 0.557252
+      },
+      {
+        "segment_id": 75,
+        "text": "that resulted in a corner",
+        "role": "nucleus",
+        "position_ratio": 0.564885
+      },
+      {
+        "segment_id": 76,
+        "text": "and God forbid we would get anything off corners .",
+        "role": "satellite",
+        "position_ratio": 0.572519
+      },
+      {
+        "segment_id": 77,
+        "text": "Jović , turned ,",
+        "role": "nucleus",
+        "position_ratio": 0.580153
+      },
+      {
+        "segment_id": 78,
+        "text": "van de Beek , looking for something .",
+        "role": "satellite",
+        "position_ratio": 0.587786
+      },
+      {
+        "segment_id": 79,
+        "text": "He finds Galano in some space ,",
+        "role": "nucleus",
+        "position_ratio": 0.59542
+      },
+      {
+        "segment_id": 80,
+        "text": "somebody take a shot .",
+        "role": "nucleus",
+        "position_ratio": 0.603053
+      },
+      {
+        "segment_id": 81,
+        "text": "Ok Favilli and of —",
+        "role": "nucleus",
+        "position_ratio": 0.610687
+      },
+      {
+        "segment_id": 82,
+        "text": "what ?",
+        "role": "nucleus",
+        "position_ratio": 0.618321
+      },
+      {
+        "segment_id": 83,
+        "text": "How ...",
+        "role": "nucleus",
+        "position_ratio": 0.625954
+      },
+      {
+        "segment_id": 84,
+        "text": "what sorry what how is there a penalty",
+        "role": "nucleus",
+        "position_ratio": 0.633588
+      },
+      {
+        "segment_id": 85,
+        "text": "what just happened ?",
+        "role": "satellite",
+        "position_ratio": 0.641221
+      },
+      {
+        "segment_id": 86,
+        "text": "One minute it looked like it was gon na be a corner ,",
+        "role": "nucleus",
+        "position_ratio": 0.648855
+      },
+      {
+        "segment_id": 87,
+        "text": "the next Favilli is scoring a penalty",
+        "role": "nucleus",
+        "position_ratio": 0.656489
+      },
+      {
+        "segment_id": 88,
+        "text": "and we 're one nil down .",
+        "role": "satellite",
+        "position_ratio": 0.664122
+      },
+      {
+        "segment_id": 89,
+        "text": "Ball gets played in",
+        "role": "nucleus",
+        "position_ratio": 0.671756
+      },
+      {
+        "segment_id": 90,
+        "text": "uh all right apparently Alderweireld clipped Favilli .",
+        "role": "nucleus",
+        "position_ratio": 0.679389
+      },
+      {
+        "segment_id": 91,
+        "text": "Genoa take the lead one nil",
+        "role": "nucleus",
+        "position_ratio": 0.687023
+      },
+      {
+        "segment_id": 92,
+        "text": "after doing absolutely nothing all match .",
+        "role": "satellite",
+        "position_ratio": 0.694656
+      },
+      {
+        "segment_id": 93,
+        "text": "Van de Beek , Paquetá ,",
+        "role": "nucleus",
+        "position_ratio": 0.70229
+      },
+      {
+        "segment_id": 94,
+        "text": "now Theo ,",
+        "role": "nucleus",
+        "position_ratio": 0.709924
+      },
+      {
+        "segment_id": 95,
+        "text": "Theo can finally cross to the back post deep ,",
+        "role": "nucleus",
+        "position_ratio": 0.717557
+      },
+      {
+        "segment_id": 96,
+        "text": "but uh how many times how many times is he gon na get an overhead kick",
+        "role": "nucleus",
+        "position_ratio": 0.725191
+      },
+      {
+        "segment_id": 97,
+        "text": "and miss .",
+        "role": "nucleus",
+        "position_ratio": 0.732824
+      },
+      {
+        "segment_id": 98,
+        "text": "This guy has scored overhead kicks from my field",
+        "role": "satellite",
+        "position_ratio": 0.740458
+      },
+      {
+        "segment_id": 99,
+        "text": "and can not finish a simple bicycle kick in the Box even a moment ,",
+        "role": "nucleus",
+        "position_ratio": 0.748092
+      },
+      {
+        "segment_id": 100,
+        "text": "I 'm going to release you .",
+        "role": "satellite",
+        "position_ratio": 0.755725
+      },
+      {
+        "segment_id": 101,
+        "text": "Welcome to Adam gets frustrated about losing against Genoa , one nil",
+        "role": "nucleus",
+        "position_ratio": 0.763359
+      },
+      {
+        "segment_id": 102,
+        "text": "complete BS , how we did n't score , how they got a penalty ,",
+        "role": "satellite",
+        "position_ratio": 0.770992
+      },
+      {
+        "segment_id": 103,
+        "text": "to make things worse",
+        "role": "satellite",
+        "position_ratio": 0.778626
+      },
+      {
+        "segment_id": 104,
+        "text": "we need to play Manchester City ,",
+        "role": "nucleus",
+        "position_ratio": 0.78626
+      },
+      {
+        "segment_id": 105,
+        "text": "who today 's ah is next",
+        "role": "nucleus",
+        "position_ratio": 0.793893
+      },
+      {
+        "segment_id": 106,
+        "text": "we 're down to 4th place",
+        "role": "satellite",
+        "position_ratio": 0.801527
+      },
+      {
+        "segment_id": 107,
+        "text": "and who the next is in 14th place ,",
+        "role": "nucleus",
+        "position_ratio": 0.80916
+      },
+      {
+        "segment_id": 108,
+        "text": "but",
+        "role": "nucleus",
+        "position_ratio": 0.816794
+      },
+      {
+        "segment_id": 109,
+        "text": "because I 'm gon na simulate this ,",
+        "role": "satellite",
+        "position_ratio": 0.824427
+      },
+      {
+        "segment_id": 110,
+        "text": "it 's gon na make me win for sure .",
+        "role": "nucleus",
+        "position_ratio": 0.832061
+      },
+      {
+        "segment_id": 111,
+        "text": "No remark on Conti , Todibo , Musacchio , Bakker ,",
+        "role": "nucleus",
+        "position_ratio": 0.839695
+      },
+      {
+        "segment_id": 112,
+        "text": "probably not the best back line",
+        "role": "satellite",
+        "position_ratio": 0.847328
+      },
+      {
+        "segment_id": 113,
+        "text": "but that 's what I 'm going with .",
+        "role": "nucleus",
+        "position_ratio": 0.854962
+      },
+      {
+        "segment_id": 114,
+        "text": "Paquetá scoring one",
+        "role": "nucleus",
+        "position_ratio": 0.862595
+      },
+      {
+        "segment_id": 115,
+        "text": "Jović scoring two",
+        "role": "nucleus",
+        "position_ratio": 0.870229
+      },
+      {
+        "segment_id": 116,
+        "text": "very happy",
+        "role": "satellite",
+        "position_ratio": 0.877863
+      },
+      {
+        "segment_id": 117,
+        "text": "they took Leão off",
+        "role": "nucleus",
+        "position_ratio": 0.885496
+      },
+      {
+        "segment_id": 118,
+        "text": "but they brought on Ibrahimovic",
+        "role": "nucleus",
+        "position_ratio": 0.89313
+      },
+      {
+        "segment_id": 119,
+        "text": "so he 's gon na be tired .",
+        "role": "satellite",
+        "position_ratio": 0.900763
+      },
+      {
+        "segment_id": 120,
+        "text": "It 's a 3 - 1 victory ,",
+        "role": "nucleus",
+        "position_ratio": 0.908397
+      },
+      {
+        "segment_id": 121,
+        "text": "Genoa was just some BS .",
+        "role": "nucleus",
+        "position_ratio": 0.916031
+      },
+      {
+        "segment_id": 122,
+        "text": "We did it",
+        "role": "nucleus",
+        "position_ratio": 0.923664
+      },
+      {
+        "segment_id": 123,
+        "text": "we made it to the semi - finals",
+        "role": "nucleus",
+        "position_ratio": 0.931298
+      },
+      {
+        "segment_id": 124,
+        "text": "And I just want to check out what the club objective was for the Champions League this season",
+        "role": "satellite",
+        "position_ratio": 0.938931
+      },
+      {
+        "segment_id": 125,
+        "text": "they wanted us to reach the semi-finals",
+        "role": "nucleus",
+        "position_ratio": 0.946565
+      },
+      {
+        "segment_id": 126,
+        "text": "they thought",
+        "role": "nucleus",
+        "position_ratio": 0.954198
+      },
+      {
+        "segment_id": 127,
+        "text": "that with the club",
+        "role": "nucleus",
+        "position_ratio": 0.961832
+      },
+      {
+        "segment_id": 128,
+        "text": "we had",
+        "role": "satellite",
+        "position_ratio": 0.969466
+      },
+      {
+        "segment_id": 129,
+        "text": "and the players",
+        "role": "nucleus",
+        "position_ratio": 0.977099
+      },
+      {
+        "segment_id": 130,
+        "text": "we had",
+        "role": "satellite",
+        "position_ratio": 0.984733
+      },
+      {
+        "segment_id": 131,
+        "text": "we could have made it to the semis",
+        "role": "nucleus",
+        "position_ratio": 0.992366
+      },
+      {
+        "segment_id": 132,
+        "text": "and we did .",
+        "role": "nucleus",
+        "position_ratio": 1.0
+      }
+    ]
+  },
+  {
+    "document_id": "GENTLE_esports_fortnite",
+    "genre": "esports",
+    "segments": [
+      {
+        "segment_id": 1,
+        "text": "As in the game battle bus has launched one more time ,",
+        "role": "satellite",
+        "position_ratio": 0.0
+      },
+      {
+        "segment_id": 2,
+        "text": "the Fortnite World Cup Finals ends right here .",
+        "role": "nucleus",
+        "position_ratio": 0.005747
+      },
+      {
+        "segment_id": 3,
+        "text": "All 100 players on your screen there , Jack , Bugha ,",
+        "role": "nucleus",
+        "position_ratio": 0.011494
+      },
+      {
+        "segment_id": 4,
+        "text": "sitting out in front of everyone thus far",
+        "role": "nucleus",
+        "position_ratio": 0.017241
+      },
+      {
+        "segment_id": 5,
+        "text": "a commanding lead .",
+        "role": "satellite",
+        "position_ratio": 0.022989
+      },
+      {
+        "segment_id": 6,
+        "text": "Kreo the winner of the previous game",
+        "role": "nucleus",
+        "position_ratio": 0.028736
+      },
+      {
+        "segment_id": 7,
+        "text": "flying in there the northeast corner of the map .",
+        "role": "satellite",
+        "position_ratio": 0.034483
+      },
+      {
+        "segment_id": 8,
+        "text": "Spread of players across the screen ,",
+        "role": "satellite",
+        "position_ratio": 0.04023
+      },
+      {
+        "segment_id": 9,
+        "text": "there 's your top ten on the left side , Bugha , Psalm , Kreo , Skite , Nayte , Riversan , Rhux and the rest .",
+        "role": "nucleus",
+        "position_ratio": 0.045977
+      },
+      {
+        "segment_id": 10,
+        "text": "Average placements thus far of 25th for Kreo , only 8 eliminations but 30 points",
+        "role": "nucleus",
+        "position_ratio": 0.051724
+      },
+      {
+        "segment_id": 11,
+        "text": "enough to put him in third place thus far .",
+        "role": "satellite",
+        "position_ratio": 0.057471
+      },
+      {
+        "segment_id": 12,
+        "text": "One thing",
+        "role": "nucleus",
+        "position_ratio": 0.063218
+      },
+      {
+        "segment_id": 13,
+        "text": "to remember from yesterday ,",
+        "role": "satellite",
+        "position_ratio": 0.068966
+      },
+      {
+        "segment_id": 14,
+        "text": "Nayte and Saf held on to the lead the first five games",
+        "role": "nucleus",
+        "position_ratio": 0.074713
+      },
+      {
+        "segment_id": 15,
+        "text": "and it slipped away in Game six .",
+        "role": "nucleus",
+        "position_ratio": 0.08046
+      },
+      {
+        "segment_id": 16,
+        "text": "Bugha has been in the lead for all five games .",
+        "role": "nucleus",
+        "position_ratio": 0.086207
+      },
+      {
+        "segment_id": 17,
+        "text": "He has never lost the first place spot .",
+        "role": "satellite",
+        "position_ratio": 0.091954
+      },
+      {
+        "segment_id": 18,
+        "text": "Will he suffer the same fate",
+        "role": "nucleus",
+        "position_ratio": 0.097701
+      },
+      {
+        "segment_id": 19,
+        "text": "or can he close it out right here",
+        "role": "nucleus",
+        "position_ratio": 0.103448
+      },
+      {
+        "segment_id": 20,
+        "text": "to remain our Fortnite world champ ?",
+        "role": "satellite",
+        "position_ratio": 0.109195
+      },
+      {
+        "segment_id": 21,
+        "text": "Bugha by the way he is from Pennsylvania 16 year old player , Sentinels ,",
+        "role": "nucleus",
+        "position_ratio": 0.114943
+      },
+      {
+        "segment_id": 22,
+        "text": "qualified the very first week for the World Cup .",
+        "role": "nucleus",
+        "position_ratio": 0.12069
+      },
+      {
+        "segment_id": 23,
+        "text": "So he just got his first part - time job",
+        "role": "nucleus",
+        "position_ratio": 0.126437
+      },
+      {
+        "segment_id": 24,
+        "text": "to try to start earning money",
+        "role": "nucleus",
+        "position_ratio": 0.132184
+      },
+      {
+        "segment_id": 25,
+        "text": "to buy himself a car .",
+        "role": "satellite",
+        "position_ratio": 0.137931
+      },
+      {
+        "segment_id": 26,
+        "text": "But instead after this could walk away with three million dollars ,",
+        "role": "nucleus",
+        "position_ratio": 0.143678
+      },
+      {
+        "segment_id": 27,
+        "text": "he 's gon na walk on in",
+        "role": "nucleus",
+        "position_ratio": 0.149425
+      },
+      {
+        "segment_id": 28,
+        "text": "and say",
+        "role": "satellite",
+        "position_ratio": 0.155172
+      },
+      {
+        "segment_id": 29,
+        "text": "I quit ,",
+        "role": "nucleus",
+        "position_ratio": 0.16092
+      },
+      {
+        "segment_id": 30,
+        "text": "ca n't wait for him to get home ,",
+        "role": "nucleus",
+        "position_ratio": 0.166667
+      },
+      {
+        "segment_id": 31,
+        "text": "you know ,",
+        "role": "satellite",
+        "position_ratio": 0.172414
+      },
+      {
+        "segment_id": 32,
+        "text": "imagine",
+        "role": "satellite",
+        "position_ratio": 0.178161
+      },
+      {
+        "segment_id": 33,
+        "text": "he wins three million dollars here ,",
+        "role": "nucleus",
+        "position_ratio": 0.183908
+      },
+      {
+        "segment_id": 34,
+        "text": "his parents gon na ask him to take the trash out",
+        "role": "nucleus",
+        "position_ratio": 0.189655
+      },
+      {
+        "segment_id": 35,
+        "text": "and he 's gon na laugh .",
+        "role": "satellite",
+        "position_ratio": 0.195402
+      },
+      {
+        "segment_id": 36,
+        "text": "Yeah right .",
+        "role": "satellite",
+        "position_ratio": 0.201149
+      },
+      {
+        "segment_id": 37,
+        "text": "Pay his butler to do that ,",
+        "role": "nucleus",
+        "position_ratio": 0.206897
+      },
+      {
+        "segment_id": 38,
+        "text": "I guess",
+        "role": "satellite",
+        "position_ratio": 0.212644
+      },
+      {
+        "segment_id": 39,
+        "text": "at that point .",
+        "role": "nucleus",
+        "position_ratio": 0.218391
+      },
+      {
+        "segment_id": 40,
+        "text": "Celce currently set up many builds ,",
+        "role": "nucleus",
+        "position_ratio": 0.224138
+      },
+      {
+        "segment_id": 41,
+        "text": "one of these very early awkward fights ,",
+        "role": "satellite",
+        "position_ratio": 0.229885
+      },
+      {
+        "segment_id": 42,
+        "text": "sees those as well .",
+        "role": "satellite",
+        "position_ratio": 0.235632
+      },
+      {
+        "segment_id": 43,
+        "text": "You look at those",
+        "role": "satellite",
+        "position_ratio": 0.241379
+      },
+      {
+        "segment_id": 44,
+        "text": "what he has , common infantry rifle 25 shots and a drum gun .",
+        "role": "nucleus",
+        "position_ratio": 0.247126
+      },
+      {
+        "segment_id": 45,
+        "text": "Jack , one of the first four",
+        "role": "nucleus",
+        "position_ratio": 0.252874
+      },
+      {
+        "segment_id": 46,
+        "text": "to go down in this match",
+        "role": "satellite",
+        "position_ratio": 0.258621
+      },
+      {
+        "segment_id": 47,
+        "text": "is Skite ,",
+        "role": "nucleus",
+        "position_ratio": 0.264368
+      },
+      {
+        "segment_id": 48,
+        "text": "who was in the old place already ,",
+        "role": "satellite",
+        "position_ratio": 0.270115
+      },
+      {
+        "segment_id": 49,
+        "text": "already gone from that top spot .",
+        "role": "nucleus",
+        "position_ratio": 0.275862
+      },
+      {
+        "segment_id": 50,
+        "text": "If I do –",
+        "role": "satellite",
+        "position_ratio": 0.281609
+      },
+      {
+        "segment_id": 51,
+        "text": "as he throws them down ,",
+        "role": "nucleus",
+        "position_ratio": 0.287356
+      },
+      {
+        "segment_id": 52,
+        "text": "can you see all the players",
+        "role": "nucleus",
+        "position_ratio": 0.293103
+      },
+      {
+        "segment_id": 53,
+        "text": "surrounded",
+        "role": "satellite",
+        "position_ratio": 0.298851
+      },
+      {
+        "segment_id": 54,
+        "text": "outside the sunny side of the map ?",
+        "role": "nucleus",
+        "position_ratio": 0.304598
+      },
+      {
+        "segment_id": 55,
+        "text": "Celce he continues to bounce around for a moment ,",
+        "role": "nucleus",
+        "position_ratio": 0.310345
+      },
+      {
+        "segment_id": 56,
+        "text": "any AR shots",
+        "role": "nucleus",
+        "position_ratio": 0.316092
+      },
+      {
+        "segment_id": 57,
+        "text": "left ,",
+        "role": "satellite",
+        "position_ratio": 0.321839
+      },
+      {
+        "segment_id": 58,
+        "text": "will get solved at the end ,",
+        "role": "nucleus",
+        "position_ratio": 0.327586
+      },
+      {
+        "segment_id": 59,
+        "text": "right ?",
+        "role": "nucleus",
+        "position_ratio": 0.333333
+      },
+      {
+        "segment_id": 60,
+        "text": "Which 's good ,",
+        "role": "nucleus",
+        "position_ratio": 0.33908
+      },
+      {
+        "segment_id": 61,
+        "text": "anything good counts .",
+        "role": "satellite",
+        "position_ratio": 0.344828
+      },
+      {
+        "segment_id": 62,
+        "text": "The farming of stone continues ,",
+        "role": "nucleus",
+        "position_ratio": 0.350575
+      },
+      {
+        "segment_id": 63,
+        "text": "Maufin and Zayt outside of Loot Lake",
+        "role": "nucleus",
+        "position_ratio": 0.356322
+      },
+      {
+        "segment_id": 64,
+        "text": "just fighting on the outskirts of it .",
+        "role": "satellite",
+        "position_ratio": 0.362069
+      },
+      {
+        "segment_id": 65,
+        "text": "He 's just kind of building walling against any pressure from Zayt ,",
+        "role": "nucleus",
+        "position_ratio": 0.367816
+      },
+      {
+        "segment_id": 66,
+        "text": "does n't want to get caught on rotation .",
+        "role": "satellite",
+        "position_ratio": 0.373563
+      },
+      {
+        "segment_id": 67,
+        "text": "Interesting load , that gold combat very early .",
+        "role": "nucleus",
+        "position_ratio": 0.37931
+      },
+      {
+        "segment_id": 68,
+        "text": "That 's a very solid pickup",
+        "role": "nucleus",
+        "position_ratio": 0.385057
+      },
+      {
+        "segment_id": 69,
+        "text": "to start this match ,",
+        "role": "satellite",
+        "position_ratio": 0.390805
+      },
+      {
+        "segment_id": 70,
+        "text": "single shockwave remaining ,",
+        "role": "nucleus",
+        "position_ratio": 0.396552
+      },
+      {
+        "segment_id": 71,
+        "text": "legendary grenade launcher drop gun and as well .",
+        "role": "nucleus",
+        "position_ratio": 0.402299
+      },
+      {
+        "segment_id": 72,
+        "text": "We talk about a great starting inventory ,",
+        "role": "satellite",
+        "position_ratio": 0.408046
+      },
+      {
+        "segment_id": 73,
+        "text": "BlastR in a fight , outside Pressure Plant",
+        "role": "nucleus",
+        "position_ratio": 0.413793
+      },
+      {
+        "segment_id": 74,
+        "text": "but you 're only 73 HP ,",
+        "role": "satellite",
+        "position_ratio": 0.41954
+      },
+      {
+        "segment_id": 75,
+        "text": "but again you 're this far to the tournament ,",
+        "role": "satellite",
+        "position_ratio": 0.425287
+      },
+      {
+        "segment_id": 76,
+        "text": "you kind of get simpler ,",
+        "role": "nucleus",
+        "position_ratio": 0.431034
+      },
+      {
+        "segment_id": 77,
+        "text": "you just kind of go for it ,",
+        "role": "satellite",
+        "position_ratio": 0.436782
+      },
+      {
+        "segment_id": 78,
+        "text": "you got to just forge and engage .",
+        "role": "satellite",
+        "position_ratio": 0.442529
+      },
+      {
+        "segment_id": 79,
+        "text": "What 's up ?",
+        "role": "satellite",
+        "position_ratio": 0.448276
+      },
+      {
+        "segment_id": 80,
+        "text": "Shot comes on through ,",
+        "role": "satellite",
+        "position_ratio": 0.454023
+      },
+      {
+        "segment_id": 81,
+        "text": "not able to get it done as of yet .",
+        "role": "nucleus",
+        "position_ratio": 0.45977
+      },
+      {
+        "segment_id": 82,
+        "text": "BlastR still healing up ,",
+        "role": "nucleus",
+        "position_ratio": 0.465517
+      },
+      {
+        "segment_id": 83,
+        "text": "will have bandages",
+        "role": "nucleus",
+        "position_ratio": 0.471264
+      },
+      {
+        "segment_id": 84,
+        "text": "to get back up",
+        "role": "nucleus",
+        "position_ratio": 0.477011
+      },
+      {
+        "segment_id": 85,
+        "text": "to take 75 HP .",
+        "role": "nucleus",
+        "position_ratio": 0.482759
+      },
+      {
+        "segment_id": 86,
+        "text": "Looks like",
+        "role": "satellite",
+        "position_ratio": 0.488506
+      },
+      {
+        "segment_id": 87,
+        "text": "Tfue picking up in elimination .",
+        "role": "nucleus",
+        "position_ratio": 0.494253
+      },
+      {
+        "segment_id": 88,
+        "text": "To see how things play out .",
+        "role": "nucleus",
+        "position_ratio": 0.5
+      },
+      {
+        "segment_id": 89,
+        "text": "90 players remaining .",
+        "role": "nucleus",
+        "position_ratio": 0.505747
+      },
+      {
+        "segment_id": 90,
+        "text": "The first circle starts to close in 50 seconds .",
+        "role": "nucleus",
+        "position_ratio": 0.511494
+      },
+      {
+        "segment_id": 91,
+        "text": "Bandaging on the egg",
+        "role": "satellite",
+        "position_ratio": 0.517241
+      },
+      {
+        "segment_id": 92,
+        "text": "BlastR is just hanging out here .",
+        "role": "nucleus",
+        "position_ratio": 0.522989
+      },
+      {
+        "segment_id": 93,
+        "text": "That player down below gon na see",
+        "role": "satellite",
+        "position_ratio": 0.528736
+      },
+      {
+        "segment_id": 94,
+        "text": "if he can take shots here in a second .",
+        "role": "nucleus",
+        "position_ratio": 0.534483
+      },
+      {
+        "segment_id": 95,
+        "text": "Tchub was gon na roll all the way down",
+        "role": "nucleus",
+        "position_ratio": 0.54023
+      },
+      {
+        "segment_id": 96,
+        "text": "looks like no engagement gon na happen .",
+        "role": "satellite",
+        "position_ratio": 0.545977
+      },
+      {
+        "segment_id": 97,
+        "text": "Here , JarkoS , letw1k3 , two players",
+        "role": "nucleus",
+        "position_ratio": 0.551724
+      },
+      {
+        "segment_id": 98,
+        "text": "that have faced off against each other a number of times ,",
+        "role": "satellite",
+        "position_ratio": 0.557471
+      },
+      {
+        "segment_id": 99,
+        "text": "gon na go for the wall .",
+        "role": "nucleus",
+        "position_ratio": 0.563218
+      },
+      {
+        "segment_id": 100,
+        "text": "Yes , the angle inside",
+        "role": "satellite",
+        "position_ratio": 0.568966
+      },
+      {
+        "segment_id": 101,
+        "text": "and pushes on through",
+        "role": "nucleus",
+        "position_ratio": 0.574713
+      },
+      {
+        "segment_id": 102,
+        "text": "a solid aggressive play .",
+        "role": "satellite",
+        "position_ratio": 0.58046
+      },
+      {
+        "segment_id": 103,
+        "text": "letw1k3 pick up his first elimination of Game six .",
+        "role": "nucleus",
+        "position_ratio": 0.586207
+      },
+      {
+        "segment_id": 104,
+        "text": "Very clean",
+        "role": "satellite",
+        "position_ratio": 0.591954
+      },
+      {
+        "segment_id": 105,
+        "text": "and that will end JarkoS ' Fortnite World Cup run ,",
+        "role": "nucleus",
+        "position_ratio": 0.597701
+      },
+      {
+        "segment_id": 106,
+        "text": "solid performance earlier on .",
+        "role": "nucleus",
+        "position_ratio": 0.603448
+      },
+      {
+        "segment_id": 107,
+        "text": "We 'll see where he stacks up with the rest of this lobby",
+        "role": "nucleus",
+        "position_ratio": 0.609195
+      },
+      {
+        "segment_id": 108,
+        "text": "when it 's all said and done .",
+        "role": "satellite",
+        "position_ratio": 0.614943
+      },
+      {
+        "segment_id": 109,
+        "text": "Reminder this is our final game here tonight .",
+        "role": "satellite",
+        "position_ratio": 0.62069
+      },
+      {
+        "segment_id": 110,
+        "text": "Use the hashtag #FortniteWorldCup",
+        "role": "nucleus",
+        "position_ratio": 0.626437
+      },
+      {
+        "segment_id": 111,
+        "text": "get it trending just like yesterday .",
+        "role": "satellite",
+        "position_ratio": 0.632184
+      },
+      {
+        "segment_id": 112,
+        "text": "Well , I 've said",
+        "role": "nucleus",
+        "position_ratio": 0.637931
+      },
+      {
+        "segment_id": 113,
+        "text": "the millions of people watching online ,",
+        "role": "satellite",
+        "position_ratio": 0.643678
+      },
+      {
+        "segment_id": 114,
+        "text": "Psalm was our player as well near the top of the leaderboards .",
+        "role": "nucleus",
+        "position_ratio": 0.649425
+      },
+      {
+        "segment_id": 115,
+        "text": "What could he do in this last game ?",
+        "role": "nucleus",
+        "position_ratio": 0.655172
+      },
+      {
+        "segment_id": 116,
+        "text": "Could he make the trek",
+        "role": "nucleus",
+        "position_ratio": 0.66092
+      },
+      {
+        "segment_id": 117,
+        "text": "to try to catch up to Bugha",
+        "role": "nucleus",
+        "position_ratio": 0.666667
+      },
+      {
+        "segment_id": 118,
+        "text": "who was 15 points , 15 points ahead , in first .",
+        "role": "satellite",
+        "position_ratio": 0.672414
+      },
+      {
+        "segment_id": 119,
+        "text": "Pika one v. one",
+        "role": "nucleus",
+        "position_ratio": 0.678161
+      },
+      {
+        "segment_id": 120,
+        "text": "and angled down through a handful of edits here at Megamall",
+        "role": "satellite",
+        "position_ratio": 0.683908
+      },
+      {
+        "segment_id": 121,
+        "text": "is gon na push around the side",
+        "role": "nucleus",
+        "position_ratio": 0.689655
+      },
+      {
+        "segment_id": 122,
+        "text": "and try and make his way inside mall itself .",
+        "role": "nucleus",
+        "position_ratio": 0.695402
+      },
+      {
+        "segment_id": 123,
+        "text": "Pika earned 12 of his total points in just the last match",
+        "role": "nucleus",
+        "position_ratio": 0.701149
+      },
+      {
+        "segment_id": 124,
+        "text": "and I think",
+        "role": "satellite",
+        "position_ratio": 0.706897
+      },
+      {
+        "segment_id": 125,
+        "text": "that says a lot about what is possible .",
+        "role": "nucleus",
+        "position_ratio": 0.712644
+      },
+      {
+        "segment_id": 126,
+        "text": "In 11th place",
+        "role": "nucleus",
+        "position_ratio": 0.718391
+      },
+      {
+        "segment_id": 127,
+        "text": "when we rolled into this game",
+        "role": "satellite",
+        "position_ratio": 0.724138
+      },
+      {
+        "segment_id": 128,
+        "text": "Pika trying to find a way inside ,",
+        "role": "nucleus",
+        "position_ratio": 0.729885
+      },
+      {
+        "segment_id": 129,
+        "text": "pushing down through the outside .",
+        "role": "nucleus",
+        "position_ratio": 0.735632
+      },
+      {
+        "segment_id": 130,
+        "text": "Does in fact get the wall replace ,",
+        "role": "nucleus",
+        "position_ratio": 0.741379
+      },
+      {
+        "segment_id": 131,
+        "text": "are you kidding me ?",
+        "role": "satellite",
+        "position_ratio": 0.747126
+      },
+      {
+        "segment_id": 132,
+        "text": "Used the shockwave",
+        "role": "nucleus",
+        "position_ratio": 0.752874
+      },
+      {
+        "segment_id": 133,
+        "text": "to get down the wall .",
+        "role": "satellite",
+        "position_ratio": 0.758621
+      },
+      {
+        "segment_id": 134,
+        "text": "The player inside was smacking out of it .",
+        "role": "satellite",
+        "position_ratio": 0.764368
+      },
+      {
+        "segment_id": 135,
+        "text": "He , that 's unbelievable .",
+        "role": "nucleus",
+        "position_ratio": 0.770115
+      },
+      {
+        "segment_id": 136,
+        "text": "He called the bluff ,",
+        "role": "nucleus",
+        "position_ratio": 0.775862
+      },
+      {
+        "segment_id": 137,
+        "text": "he called the bluff .",
+        "role": "nucleus",
+        "position_ratio": 0.781609
+      },
+      {
+        "segment_id": 138,
+        "text": "The guy was trying to break the wall",
+        "role": "nucleus",
+        "position_ratio": 0.787356
+      },
+      {
+        "segment_id": 139,
+        "text": "to secure for his own .",
+        "role": "satellite",
+        "position_ratio": 0.793103
+      },
+      {
+        "segment_id": 140,
+        "text": "Pika was like",
+        "role": "nucleus",
+        "position_ratio": 0.798851
+      },
+      {
+        "segment_id": 141,
+        "text": "\" okay , break the wall for me ,",
+        "role": "nucleus",
+        "position_ratio": 0.804598
+      },
+      {
+        "segment_id": 142,
+        "text": "I 'll just replace it with my own . \"",
+        "role": "nucleus",
+        "position_ratio": 0.810345
+      },
+      {
+        "segment_id": 143,
+        "text": "He does just that .",
+        "role": "satellite",
+        "position_ratio": 0.816092
+      },
+      {
+        "segment_id": 144,
+        "text": "Pika , full HP , two slurp juices , 6 minis ,",
+        "role": "nucleus",
+        "position_ratio": 0.821839
+      },
+      {
+        "segment_id": 145,
+        "text": "a very good assault for the shotgun",
+        "role": "nucleus",
+        "position_ratio": 0.827586
+      },
+      {
+        "segment_id": 146,
+        "text": "but looks like the aggression does n't end here .",
+        "role": "nucleus",
+        "position_ratio": 0.833333
+      },
+      {
+        "segment_id": 147,
+        "text": "He can just continue to play these box fights",
+        "role": "nucleus",
+        "position_ratio": 0.83908
+      },
+      {
+        "segment_id": 148,
+        "text": "by using the shockwave",
+        "role": "nucleus",
+        "position_ratio": 0.844828
+      },
+      {
+        "segment_id": 149,
+        "text": "to try to chomp down this opponent again .",
+        "role": "satellite",
+        "position_ratio": 0.850575
+      },
+      {
+        "segment_id": 150,
+        "text": "Said it once ,",
+        "role": "satellite",
+        "position_ratio": 0.856322
+      },
+      {
+        "segment_id": 151,
+        "text": "it surprised you to use that same tactic",
+        "role": "nucleus",
+        "position_ratio": 0.862069
+      },
+      {
+        "segment_id": 152,
+        "text": "you 've seen .",
+        "role": "satellite",
+        "position_ratio": 0.867816
+      },
+      {
+        "segment_id": 153,
+        "text": "At this point , 100 HP , 100 shield .",
+        "role": "satellite",
+        "position_ratio": 0.873563
+      },
+      {
+        "segment_id": 154,
+        "text": "I do not blame him for being aggressive here ,",
+        "role": "nucleus",
+        "position_ratio": 0.87931
+      },
+      {
+        "segment_id": 155,
+        "text": "knowing",
+        "role": "satellite",
+        "position_ratio": 0.885057
+      },
+      {
+        "segment_id": 156,
+        "text": "that players may be a little sparse in terms of loot .",
+        "role": "nucleus",
+        "position_ratio": 0.890805
+      },
+      {
+        "segment_id": 157,
+        "text": "He 's trying to track Kinstaar on the outside",
+        "role": "nucleus",
+        "position_ratio": 0.896552
+      },
+      {
+        "segment_id": 158,
+        "text": "rotating around the edge of Megamall .",
+        "role": "satellite",
+        "position_ratio": 0.902299
+      },
+      {
+        "segment_id": 159,
+        "text": "These two players gon na end up on top of each other",
+        "role": "nucleus",
+        "position_ratio": 0.908046
+      },
+      {
+        "segment_id": 160,
+        "text": "before you know it ,",
+        "role": "satellite",
+        "position_ratio": 0.913793
+      },
+      {
+        "segment_id": 161,
+        "text": "oh my gosh , floor loot .",
+        "role": "nucleus",
+        "position_ratio": 0.91954
+      },
+      {
+        "segment_id": 162,
+        "text": "Okay .",
+        "role": "satellite",
+        "position_ratio": 0.925287
+      },
+      {
+        "segment_id": 163,
+        "text": "A heavy sniper rifle .",
+        "role": "nucleus",
+        "position_ratio": 0.931034
+      },
+      {
+        "segment_id": 164,
+        "text": "That 's end of another slurp .",
+        "role": "nucleus",
+        "position_ratio": 0.936782
+      },
+      {
+        "segment_id": 165,
+        "text": "Okay .",
+        "role": "nucleus",
+        "position_ratio": 0.942529
+      },
+      {
+        "segment_id": 166,
+        "text": "He 's looking for it .",
+        "role": "nucleus",
+        "position_ratio": 0.948276
+      },
+      {
+        "segment_id": 167,
+        "text": "See",
+        "role": "nucleus",
+        "position_ratio": 0.954023
+      },
+      {
+        "segment_id": 168,
+        "text": "him watching ,",
+        "role": "nucleus",
+        "position_ratio": 0.95977
+      },
+      {
+        "segment_id": 169,
+        "text": "waiting .",
+        "role": "nucleus",
+        "position_ratio": 0.965517
+      },
+      {
+        "segment_id": 170,
+        "text": "Does use those audio cues",
+        "role": "nucleus",
+        "position_ratio": 0.971264
+      },
+      {
+        "segment_id": 171,
+        "text": "to try and track down the opponent underneath",
+        "role": "satellite",
+        "position_ratio": 0.977011
+      },
+      {
+        "segment_id": 172,
+        "text": "opts to back out of the fight for just a second .",
+        "role": "nucleus",
+        "position_ratio": 0.982759
+      },
+      {
+        "segment_id": 173,
+        "text": "Get a different angle",
+        "role": "nucleus",
+        "position_ratio": 0.988506
+      },
+      {
+        "segment_id": 174,
+        "text": "because awareness inside Megamall is insane",
+        "role": "satellite",
+        "position_ratio": 0.994253
+      },
+      {
+        "segment_id": 175,
+        "text": "knowing exactly where his opponents are and exactly when to push .",
+        "role": "satellite",
+        "position_ratio": 1.0
+      }
+    ]
+  }
+]
